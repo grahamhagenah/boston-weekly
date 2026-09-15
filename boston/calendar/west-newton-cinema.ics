@@ -1,0 +1,537 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · West Newton Cinema
+X-WR-CALDESC:What’s coming up at West Newton Cinema\, from Pushpin Boston
+ .
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:dba23d1da237c73dcf7e2a0a2a4d8229d31dfaa9@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260915T223000Z
+DTEND:20260916T003000Z
+SUMMARY:Who Moves America with Post Film Q&A
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:As the world's largest package delivery company\, UPS moves mil
+ lions of packages across more than 200 countries and territories each day 
+ - and its workforce holds the power to bring that machine to a halt. Who M
+ oves America follows a UPS driver in California casting his first strike v
+ ote\, a Teamster in New York who walked the picket line during the histori
+ c 1997 strike\, and a warehouse worker in Kentucky balancing night shifts 
+ with community college\, weighing whether she can afford to say no\, as we
+ ll as access to the General President of the International Brotherhood of 
+ Teamsters\, Sean O'Brien. As they and their co-workers organize\, argue\, 
+ and campaign across the country\, the film builds toward a single\, high-s
+ takes vote: accept the deal\, or risk everything for a strike that could r
+ eshape the American economy. Through intimate access and on-the-ground sto
+ rytelling\, Who Moves America reveals the human stories behind the single 
+ largest collective bargaining agreement in North America and explores the 
+ power and complexity of collective action in modern America. Executive pro
+ duced by filmmaker and writer Astra Taylor and Academy Award-winner Steven
+  Bognar.\nhttps://www.westnewtoncinema.com/movie/who-moves-america\nFrom P
+ ushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/who-moves-america
+END:VEVENT
+BEGIN:VEVENT
+UID:b95c624057475a28cac6061753d8e26847b4be87@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260915T225500Z
+DTEND:20260916T005500Z
+SUMMARY:Hope
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:In the remote South Korea village of Hope Harbor\, police chief
+  Bum-seok (Hwang Jung- min) and officer Sung-ae (Hoyeon) are called to fin
+ d a mysterious creature that has wreaked havoc on the village. In the near
+ by forest\, a coterie of hunters\, including Sung- ki (Zo In-Sung) set out
+  to track the beast and find themselves hunted instead. But all is not as 
+ it seems\, and perceptions can be misleading. What begins as ignorance pla
+ nts the seed of disaster\, escalating through human conflict into a traged
+ y of cosmic proportions.\nhttps://www.westnewtoncinema.com/movie/hope\nFro
+ m Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/hope
+END:VEVENT
+BEGIN:VEVENT
+UID:0cb48ca7f61c7f16f482774d2edba5fd40974230@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260915T233000Z
+DTEND:20260916T013000Z
+SUMMARY:Practical Magic 2
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Starring Sandra Bullock and Nicole Kidman\, Practical Magic 2 r
+ eturns to a world steeped in moonlit mischief and powerful ancestral magic
+ \, as the Owens sisters must confront the dark curse that threatens to unr
+ avel their family once and for all in a must-see cinematic event of fun\, 
+ magic and mayhem.\nhttps://www.westnewtoncinema.com/movie/practical-magic-
+ 2\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/practical-magic-2
+END:VEVENT
+BEGIN:VEVENT
+UID:94d6dbc055cb6bb254072d8856c7df61f9aa81df@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260915T234500Z
+DTEND:20260916T014500Z
+SUMMARY:Coyote vs. Acme
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:After decades of being blown to bits by bombs\, demolished by d
+ ynamite\, mangled by magnets\, battered by boulders\, trampled by trains\,
+  tricked by tunnels\, sprung by springs\, steamrolled by steamrollers\, ma
+ ligned by misfires\, bedeviled by bungees\, rattled by rockets\, backstabb
+ ed by bat suits\, rocked by rocket skates\, upended by unicycles\, quaked 
+ by quake pills\, rubberized by rogue bands\, and hurled headlong off every
+  cliff in the Southwest\, Wile E. Coyote (Genius) finally fights back. Tea
+ ming up with billboard accident lawyer Kevin Avery (Will Forte)\, he takes
+  on slick corporate counsel Buddy Crane (John Cena) and ACME\, Inc.\, the 
+ profit-obsessed conglomerate behind every one of the Coyote’s chaotic ca
+ tastrophes.\nhttps://www.westnewtoncinema.com/movie/coyote-vs-acme\nFrom P
+ ushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/coyote-vs-acme
+END:VEVENT
+BEGIN:VEVENT
+UID:1abc4ebfee621c6d35efa9a35705575489f4b4e1@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260915T235000Z
+DTEND:20260916T015000Z
+SUMMARY:Tony
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:A 19-year-old Anthony Bourdain travels to Provincetown and stum
+ bles into the chaotic world of a restaurant kitchen\, setting off a summer
+  that will shape the course of his life.\nhttps://www.westnewtoncinema.com
+ /movie/tony\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/tony
+END:VEVENT
+BEGIN:VEVENT
+UID:05d3cc648380948e02d05801511891e2f890814f@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260916T000000Z
+DTEND:20260916T020000Z
+SUMMARY:The Cycle of Love
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Explores the romantic journey of PK Mahanandia\, a Delhi street
+  artist who trekked 6\,000 miles by bicycle in 1977\, venturing across con
+ tinents to reunite with the woman he loved.\nhttps://www.westnewtoncinema.
+ com/movie/the-cycle-of-love\nFrom Pushpin Boston: https://pushpin.city/bos
+ ton/
+URL:https://www.westnewtoncinema.com/movie/the-cycle-of-love
+END:VEVENT
+BEGIN:VEVENT
+UID:ea57793a3e384e5f934a212ec47bf891b4208f6b@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260916T195000Z
+DTEND:20260916T215000Z
+SUMMARY:Hope
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 3:50pm\, 6:55pm\nIn the remote South Korea village of Ho
+ pe Harbor\, police chief Bum-seok (Hwang Jung- min) and officer Sung-ae (H
+ oyeon) are called to find a mysterious creature that has wreaked havoc on 
+ the village. In the nearby forest\, a coterie of hunters\, including Sung-
+  ki (Zo In-Sung) set out to track the beast and find themselves hunted ins
+ tead. But all is not as it seems\, and perceptions can be misleading. What
+  begins as ignorance plants the seed of disaster\, escalating through huma
+ n conflict into a tragedy of cosmic proportions.\nhttps://www.westnewtonci
+ nema.com/movie/hope\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/hope
+END:VEVENT
+BEGIN:VEVENT
+UID:f6d9b30f8190916ee83911906341cd1159dafdf1@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260916T201500Z
+DTEND:20260916T221500Z
+SUMMARY:Practical Magic 2
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 4:15pm\, 7pm\nStarring Sandra Bullock and Nicole Kidman\
+ , Practical Magic 2 returns to a world steeped in moonlit mischief and pow
+ erful ancestral magic\, as the Owens sisters must confront the dark curse 
+ that threatens to unravel their family once and for all in a must-see cine
+ matic event of fun\, magic and mayhem.\nhttps://www.westnewtoncinema.com/m
+ ovie/practical-magic-2\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/practical-magic-2
+END:VEVENT
+BEGIN:VEVENT
+UID:dc753f9b85e4eb8da6d90adf6f6e17805cc957b9@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260916T213000Z
+DTEND:20260916T233000Z
+SUMMARY:Coyote vs. Acme
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 5:30pm\, 7:45pm\nAfter decades of being blown to bits by
+  bombs\, demolished by dynamite\, mangled by magnets\, battered by boulder
+ s\, trampled by trains\, tricked by tunnels\, sprung by springs\, steamrol
+ led by steamrollers\, maligned by misfires\, bedeviled by bungees\, rattle
+ d by rockets\, backstabbed by bat suits\, rocked by rocket skates\, upende
+ d by unicycles\, quaked by quake pills\, rubberized by rogue bands\, and h
+ urled headlong off every cliff in the Southwest\, Wile E. Coyote (Genius) 
+ finally fights back. Teaming up with billboard accident lawyer Kevin Avery
+  (Will Forte)\, he takes on slick corporate counsel Buddy Crane (John Cena
+ ) and ACME\, Inc.\, the profit-obsessed conglomerate behind every one of t
+ he Coyote’s chaotic catastrophes.\nhttps://www.westnewtoncinema.com/movi
+ e/coyote-vs-acme\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/coyote-vs-acme
+END:VEVENT
+BEGIN:VEVENT
+UID:cc4c5b3cf4bd1e025d46bdbfe821ceefd2706080@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260916T213000Z
+DTEND:20260916T233000Z
+SUMMARY:The Cycle of Love
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 5:30pm\, 8pm\nExplores the romantic journey of PK Mahana
+ ndia\, a Delhi street artist who trekked 6\,000 miles by bicycle in 1977\,
+  venturing across continents to reunite with the woman he loved.\nhttps://
+ www.westnewtoncinema.com/movie/the-cycle-of-love\nFrom Pushpin Boston: htt
+ ps://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/the-cycle-of-love
+END:VEVENT
+BEGIN:VEVENT
+UID:deef657232b0077ba3447fcf845d09be9973f5ec@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260916T213000Z
+DTEND:20260916T233000Z
+SUMMARY:Tony
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:A 19-year-old Anthony Bourdain travels to Provincetown and stum
+ bles into the chaotic world of a restaurant kitchen\, setting off a summer
+  that will shape the course of his life.\nhttps://www.westnewtoncinema.com
+ /movie/tony\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/tony
+END:VEVENT
+BEGIN:VEVENT
+UID:6cf0b8467a01bf9e2d7aa5934f9281b91258f86c@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260916T214000Z
+DTEND:20260916T234000Z
+SUMMARY:Bernstein's Wall
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:A complex look at one of the greatest figures in 20th century c
+ lassical music\, Leonard Bernstein\, whose passion and creativity guided h
+ im well beyond the concert hall.\nhttps://www.westnewtoncinema.com/movie/b
+ ernsteins-wall\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/bernsteins-wall
+END:VEVENT
+BEGIN:VEVENT
+UID:6975048c77085b73d9714ea0f21d98fc8a388ce7@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260916T235000Z
+DTEND:20260917T015000Z
+SUMMARY:The Invite
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:A middle-aged couple who are feeling stagnant in their relation
+ ship invite the younger and livelier couple from the apartment upstairs fo
+ r a get-together that takes an unexpected turn.\nhttps://www.westnewtoncin
+ ema.com/movie/the-invite\nFrom Pushpin Boston: https://pushpin.city/boston
+ /
+URL:https://www.westnewtoncinema.com/movie/the-invite
+END:VEVENT
+BEGIN:VEVENT
+UID:cdb20f338ab3795272cf88b54db63e6f94af0fed@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260916T235000Z
+DTEND:20260917T015000Z
+SUMMARY:Who Moves America
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:As the world's largest package delivery company\, UPS moves mil
+ lions of packages across more than 200 countries and territories each day 
+ - and its workforce holds the power to bring that machine to a halt. Who M
+ oves America follows a UPS driver in California casting his first strike v
+ ote\, a Teamster in New York who walked the picket line during the histori
+ c 1997 strike\, and a warehouse worker in Kentucky balancing night shifts 
+ with community college\, weighing whether she can afford to say no\, as we
+ ll as access to the General President of the International Brotherhood of 
+ Teamsters\, Sean O'Brien. As they and their co-workers organize\, argue\, 
+ and campaign across the country\, the film builds toward a single\, high-s
+ takes vote: accept the deal\, or risk everything for a strike that could r
+ eshape the American economy. Through intimate access and on-the-ground sto
+ rytelling\, Who Moves America reveals the human stories behind the single 
+ largest collective bargaining agreement in North America and explores the 
+ power and complexity of collective action in modern America. Executive pro
+ duced by filmmaker and writer Astra Taylor and Academy Award-winner Steven
+  Bognar.\nhttps://www.westnewtoncinema.com/movie/ST00002122-who-moves-amer
+ ica\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/ST00002122-who-moves-america
+END:VEVENT
+BEGIN:VEVENT
+UID:cb7d6d10948ffcc01459a8bdc55590720df94529@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260917T192000Z
+DTEND:20260917T212000Z
+SUMMARY:Practical Magic 2
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 3:20pm\, 7:30pm\nStarring Sandra Bullock and Nicole Kidm
+ an\, Practical Magic 2 returns to a world steeped in moonlit mischief and 
+ powerful ancestral magic\, as the Owens sisters must confront the dark cur
+ se that threatens to unravel their family once and for all in a must-see c
+ inematic event of fun\, magic and mayhem.\nhttps://www.westnewtoncinema.co
+ m/movie/practical-magic-2\nFrom Pushpin Boston: https://pushpin.city/bosto
+ n/
+URL:https://www.westnewtoncinema.com/movie/practical-magic-2
+END:VEVENT
+BEGIN:VEVENT
+UID:e4dee6d8f33677c6258c207cc4ad2aabf5f62c8f@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260917T193000Z
+DTEND:20260917T213000Z
+SUMMARY:The Cycle of Love
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 3:30pm\, 5:30pm\nExplores the romantic journey of PK Mah
+ anandia\, a Delhi street artist who trekked 6\,000 miles by bicycle in 197
+ 7\, venturing across continents to reunite with the woman he loved.\nhttps
+ ://www.westnewtoncinema.com/movie/the-cycle-of-love\nFrom Pushpin Boston: 
+ https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/the-cycle-of-love
+END:VEVENT
+BEGIN:VEVENT
+UID:d63e04cd610903d95bc5046ab65550c7943d7818@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260917T195000Z
+DTEND:20260917T215000Z
+SUMMARY:Hope
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 3:50pm\, 6:55pm\nIn the remote South Korea village of Ho
+ pe Harbor\, police chief Bum-seok (Hwang Jung- min) and officer Sung-ae (H
+ oyeon) are called to find a mysterious creature that has wreaked havoc on 
+ the village. In the nearby forest\, a coterie of hunters\, including Sung-
+  ki (Zo In-Sung) set out to track the beast and find themselves hunted ins
+ tead. But all is not as it seems\, and perceptions can be misleading. What
+  begins as ignorance plants the seed of disaster\, escalating through huma
+ n conflict into a tragedy of cosmic proportions.\nhttps://www.westnewtonci
+ nema.com/movie/hope\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/hope
+END:VEVENT
+BEGIN:VEVENT
+UID:4024402a630349edad35a2979e47661ea114e547@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260917T200000Z
+DTEND:20260917T220000Z
+SUMMARY:The Lives of Others
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:In 1984 East Berlin\, an agent of the secret police\, conductin
+ g surveillance on a writer and his lover\, finds himself becoming increasi
+ ngly absorbed by their lives.\nhttps://www.westnewtoncinema.com/movie/the-
+ lives-of-others\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/the-lives-of-others
+END:VEVENT
+BEGIN:VEVENT
+UID:7bf751d732f1f852b7647de4ee13da8a23665b02@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260917T213000Z
+DTEND:20260917T233000Z
+SUMMARY:Bernstein's Wall
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:A complex look at one of the greatest figures in 20th century c
+ lassical music\, Leonard Bernstein\, whose passion and creativity guided h
+ im well beyond the concert hall.\nhttps://www.westnewtoncinema.com/movie/b
+ ernsteins-wall\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/bernsteins-wall
+END:VEVENT
+BEGIN:VEVENT
+UID:e3647259c64bbd78b3c863baabf9ce35de341dc6@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260917T213000Z
+DTEND:20260917T233000Z
+SUMMARY:Coyote vs. Acme
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 5:30pm\, 7:45pm\nAfter decades of being blown to bits by
+  bombs\, demolished by dynamite\, mangled by magnets\, battered by boulder
+ s\, trampled by trains\, tricked by tunnels\, sprung by springs\, steamrol
+ led by steamrollers\, maligned by misfires\, bedeviled by bungees\, rattle
+ d by rockets\, backstabbed by bat suits\, rocked by rocket skates\, upende
+ d by unicycles\, quaked by quake pills\, rubberized by rogue bands\, and h
+ urled headlong off every cliff in the Southwest\, Wile E. Coyote (Genius) 
+ finally fights back. Teaming up with billboard accident lawyer Kevin Avery
+  (Will Forte)\, he takes on slick corporate counsel Buddy Crane (John Cena
+ ) and ACME\, Inc.\, the profit-obsessed conglomerate behind every one of t
+ he Coyote’s chaotic catastrophes.\nhttps://www.westnewtoncinema.com/movi
+ e/coyote-vs-acme\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/coyote-vs-acme
+END:VEVENT
+BEGIN:VEVENT
+UID:37745825d05ab67297910aa1af5ae0c8bdd899ff@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260917T220000Z
+DTEND:20260918T000000Z
+SUMMARY:Ty Burr's Film Club: The Godfather
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Francis Ford Coppola's epic masterpiece features Marlon Brando 
+ in his Oscar©-winning role as the patriarch of the Corleone family. Direc
+ tor Coppola paints a chilling portrait of the Sicilian clan's rise and nea
+ r fall from power in America\, masterfully balancing the story between the
+  Corleone's family life and the ugly crime business in which they are enga
+ ged. Based on Mario Puxo's best-selling novel and featuring career-making 
+ performances by Al Pacino\, James Cann and Robert Duvall\, this searing an
+ d brilliant film garnered ten Academy Award® nominations\, and won three 
+ including Best Picture of 1972.\nhttps://www.westnewtoncinema.com/movie/ty
+ -burrs-film-club-the-godfather\nFrom Pushpin Boston: https://pushpin.city/
+ boston/
+URL:https://www.westnewtoncinema.com/movie/ty-burrs-film-club-the-godfather
+END:VEVENT
+BEGIN:VEVENT
+UID:a2813d12d136b60ad5c74e488088e4c649594469@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260917T234000Z
+DTEND:20260918T014000Z
+SUMMARY:Tony
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:A 19-year-old Anthony Bourdain travels to Provincetown and stum
+ bles into the chaotic world of a restaurant kitchen\, setting off a summer
+  that will shape the course of his life.\nhttps://www.westnewtoncinema.com
+ /movie/tony\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/tony
+END:VEVENT
+BEGIN:VEVENT
+UID:82978aefaa19bcff5b5e6885d67aa192182e73f3@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260923T223000Z
+DTEND:20260924T003000Z
+SUMMARY:Behind the Screen: Baby Doe
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Thirty years ago\, Gail Ritchey\, a young woman from a conserva
+ tive Christian community in rural Ohio\, had a stillborn birth alone and l
+ eft the evidence in the woods. Now a devoted mother of three\, her quiet s
+ uburban life is shattered when DNA evidence links her to the infamous cold
+  case of “Geauga’s Child\,” leading to her arrest for murder. Facing
+  a possible life sentence\, Gail must confront the weight of societal and 
+ religious pressures—and her own long-buried shame—to ﬁght for her fr
+ eedom.\nhttps://www.westnewtoncinema.com/movie/behind-the-screen-baby-doe\
+ nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/behind-the-screen-baby-doe
+END:VEVENT
+BEGIN:VEVENT
+UID:32de9296ed36e7adef99b0b0e64b7cbd5ec55407@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260924T230000Z
+DTEND:20260925T010000Z
+SUMMARY:Rebel with a Clause
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Come hang out with Brandt and Ellen at this National Punctuatio
+ n Day grammar extravaganza! Ellen will set up her nationally acclaimed Gra
+ mmar Table an hour before the show to answer your most pressing grammar qu
+ estions\, resolve long-standing family grammar disputes\, and take complai
+ nts. After the screening\, please stick around for a Q&A with Brandt and E
+ llen\, followed by a book signing of Ellen’s national bestseller\, also 
+ called Rebel with a Clause.\nhttps://www.westnewtoncinema.com/movie/rebel-
+ with-a-clause\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/rebel-with-a-clause
+END:VEVENT
+BEGIN:VEVENT
+UID:8646b8e9cc497c7e95e5d6c40e9e44ac744b5e62@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260925T230000Z
+DTEND:20260926T010000Z
+SUMMARY:Captain January (1924): Live Music Accompaniment
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Join West Newton Cinema for the silent film\, CAPTAIN JANUARY\,
+  with live harp and viola score!\nhttps://www.westnewtoncinema.com/movie/c
+ aptain-january-1924-live-music-accompaniment\nFrom Pushpin Boston: https:/
+ /pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/captain-january-1924-live-music-
+ accompaniment
+END:VEVENT
+BEGIN:VEVENT
+UID:984b3e242e5ed81da90e6890663521bab23042ec@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260926T170000Z
+DTEND:20260926T190000Z
+SUMMARY:High Society
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:WEST NEWTON CINEMA PRESENTS: MUSICAL MATINEES Join West Newton 
+ Cinema for a musical matinee! Our monthly pick will vary from beloved clas
+ sics to jazz\, from vaudeville to psychedelic rock\, brought to you by the
+  imaginative skill of artists able to make scenes look the way great music
+  feels. We'll feature films from the Golden Age of Hollywood musicals\, wi
+ th surprises that transcend the era and define others. The cinematic brill
+ iance of these films has never left us. In fact\, seeing them again\, or f
+ or the first time\, will reinvigorate your love for the movie musical and 
+ send you out of the theater tapping your feet.\nhttps://www.westnewtoncine
+ ma.com/movie/high-society\nFrom Pushpin Boston: https://pushpin.city/bosto
+ n/
+URL:https://www.westnewtoncinema.com/movie/high-society
+END:VEVENT
+BEGIN:VEVENT
+UID:ea30e5e6895b785665ca62448b2f5034ae873e2c@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260927T170000Z
+DTEND:20260927T190000Z
+SUMMARY:The Boston Bulldogs
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:“The Boston Bulldogs” is a documentary film interviewing 5 
+ people from a running club for addiction recovery\, interconnected by one 
+ woman’s story from finishing the Boston Marathon after her first full ye
+ ar of sobriety to her relapse 24 hours later\, and now her recovery 10 yea
+ rs later.\nhttps://www.westnewtoncinema.com/movie/the-boston-bulldogs\nFro
+ m Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/the-boston-bulldogs
+END:VEVENT
+BEGIN:VEVENT
+UID:abb9be55807ee16ed9fbaf778024c63d6c5c9d8b@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20261001T230000Z
+DTEND:20261002T010000Z
+SUMMARY:Director Spotlight: Situations
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Join us on October 1 to watch SITUATIONS and stay after for a Q
+ &A with the Director\, Greg Vrotsos.\nhttps://www.westnewtoncinema.com/mov
+ ie/director-spotlight-situations\nFrom Pushpin Boston: https://pushpin.cit
+ y/boston/
+URL:https://www.westnewtoncinema.com/movie/director-spotlight-situations
+END:VEVENT
+BEGIN:VEVENT
+UID:d542174a9dd6369ca1990c32f707df1d83595bfb@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20261002T223000Z
+DTEND:20261003T003000Z
+SUMMARY:THE AIRWAVES BELONGED TO THE PEOPLE: WBCN AND THE
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:"I watched the movie with awe…" — Ty Burr\, The Boston Glob
+ e THE AIRWAVES BELONGED TO THE PEOPLE: WBCN AND THE AMERICAN REVOLUTION te
+ lls the story of the legendary Boston rock station that transformed broadc
+ asting through groundbreaking music\, fearless journalism\, and the counte
+ rculture that shaped a generation. Built from rare photographs\, unseen fo
+ otage\, and never-before-heard broadcasts\, the film captures WBCN-FM from
+  1968 to 1974: Bruce Springsteen's first radio interview\, Patti Smith's f
+ irst live radio broadcast\, Jane Fonda and Abbie Hoffman in the thick of t
+ he era\, and a time when three dollars got you into the Boston Tea Party t
+ o see The Who\, the Velvet Underground\, or Led Zeppelin. More than rock &
+  roll history\, it's an entertaining\, music-filled journey through journa
+ lism\, activism\, and free expression—whose themes could not be more tim
+ ely.\nhttps://www.westnewtoncinema.com/movie/the-airwaves-belonged-to-the-
+ people-wbcn-and-the\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/the-airwaves-belonged-to-the-peo
+ ple-wbcn-and-the
+END:VEVENT
+BEGIN:VEVENT
+UID:6b56f9e06ee133210bb79201009e87fecb19874f@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20261007T223000Z
+DTEND:20261008T003000Z
+SUMMARY:BrainStorm
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:BrainStorm follows six compelling people living with bipolar on
+  their journeys from devastation to recovery. The film connects their expe
+ riences with the latest bipolar brain science to shed light on potential c
+ auses and successful treatments. The film closes with a message of hope\, 
+ showing that it is possible to thrive while living on the bipolar spectrum
+ .\nhttps://www.westnewtoncinema.com/movie/brainstorm\nFrom Pushpin Boston:
+  https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/brainstorm
+END:VEVENT
+BEGIN:VEVENT
+UID:7b38085d1fec7c68c8788aace7cfa3cb9223be0c@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20261015T200000Z
+DTEND:20261015T220000Z
+SUMMARY:Au Revoir les Enfants
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:In 1943\, Julien is a student at a French boarding school. When
+  three new students arrive\, including Jean Bonnet\, Julien believes they 
+ are no different from the other boys. What Julien doesn't know is that the
+  boys are actually Jews who are evading capture by the Nazis. While Julien
+  doesn't care for Jean at first\, the boys develop a tight bond -- while t
+ he head of the school\, Père Jean\, works to protect the boys from the Ho
+ locaust.\nhttps://www.westnewtoncinema.com/movie/au-revoir-les-enfants\nFr
+ om Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/au-revoir-les-enfants
+END:VEVENT
+END:VCALENDAR

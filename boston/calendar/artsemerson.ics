@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · ArtsEmerson
+X-WR-CALDESC:What’s coming up at ArtsEmerson\, from Pushpin Boston.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:0f8c391abea56b74e4fffbf98f693e45d60b1e34@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20261015T233000Z
+DTEND:20261016T013000Z
+SUMMARY:Taylor Mac and Matt Ray: Songs from Bark of Millions
+LOCATION:ArtsEmerson\, 559 Washington St\, Boston\, MA 02111
+DESCRIPTION:https://artsemerson.org/event/taylor-mac-and-matt-ray-songs-fro
+ m-bark-of-millions-5/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://artsemerson.org/event/taylor-mac-and-matt-ray-songs-from-bark-o
+ f-millions-5/
+END:VEVENT
+END:VCALENDAR

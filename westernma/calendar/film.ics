@@ -1,0 +1,3253 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Western Mass · Film
+X-WR-CALDESC:Film around the Pioneer Valley and the Berkshires\, from Pushp
+ in Western Mass.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:a2c327bdcf6e531b92badecd3b9181adb8e8fa50@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260915T180000Z
+DTEND:20260915T200000Z
+SUMMARY:The Marching Band
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 2pm\, 4:30pm\, 7:10pm\nA world-famous orchestra conducto
+ r discovers the brother he never knew he had—a school cafeteria worker w
+ ho plays trombone in a local marching band. Detecting his brother's except
+ ional musical talent\, he takes it upon himself to rectify the injustice o
+ f fate.\nhttps://amherstcinema.org/films-and-events/marching-band\nFrom Pu
+ shpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/marching-band
+END:VEVENT
+BEGIN:VEVENT
+UID:5cd40b157e79ce203d44b1a0c40e05f55b06ebaf@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260915T181000Z
+DTEND:20260915T201000Z
+SUMMARY:Finding Emily
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:When a lovesick musician is given the wrong number for his drea
+ m girl\, he teams up with a driven psychology student to find her.\nhttps:
+ //amherstcinema.org/films-and-events/finding-emily\nFrom Pushpin Western M
+ ass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/finding-emily
+END:VEVENT
+BEGIN:VEVENT
+UID:f0def5d7e441bec96fe54658cef9b7528e17cf44@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260915T182000Z
+DTEND:20260915T202000Z
+SUMMARY:The Cycle of Love
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 2:20pm\, 4:55pm\, 7:25pm\, 9:30pm\nIn 1977\, PK\, a 23-y
+ ear-old Delhi street artist from a poor\, ‘untouchable’ family\, picke
+ d up a handful of paintbrushes and a second-hand bicycle and set off on a 
+ 6000-mile cross-continent mission—to find Lotta\, the woman who had capt
+ ured his heart.\nhttps://amherstcinema.org/films-and-events/cycle-love\nFr
+ om Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/cycle-love
+END:VEVENT
+BEGIN:VEVENT
+UID:d9e86084f348a8c21472dff24786ec69c44cb16d@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260915T193000Z
+DTEND:20260915T213000Z
+SUMMARY:Spider-Man: Brand New Day
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Times: 3:30pm\, 6:30pm\, 9:30pm\nFighting crime full-time as Sp
+ ider-Man in a world that doesn't remember him—and the pressure of seeing
+  his old friends move on without him—sparks a change in Peter Parker he 
+ may not have the power to control. But that transformation might also be t
+ he only thing that can stop a shocking new threat to the city and those he
+  loves - a powerful villain no one can even see.\nhttps://www.imagescinema
+ .org/movie/spider-man-brand-new-day\nFrom Pushpin Western Mass: https://pu
+ shpin.city/westernma/
+URL:https://www.imagescinema.org/movie/spider-man-brand-new-day
+END:VEVENT
+BEGIN:VEVENT
+UID:ea04b18ecbb284883b6059d212005563f2f1e18c@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260915T194500Z
+DTEND:20260915T214500Z
+SUMMARY:Tony
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Times: 3:45pm\, 9:45pm\nA 19-year-old Anthony Bourdain travels 
+ to Provincetown and stumbles into the chaotic world of a restaurant kitche
+ n\, setting off a summer that will shape the course of his life.\nhttps://
+ www.imagescinema.org/movie/tony\nFrom Pushpin Western Mass: https://pushpi
+ n.city/westernma/
+URL:https://www.imagescinema.org/movie/tony
+END:VEVENT
+BEGIN:VEVENT
+UID:96288cd3fd8bed92aca1675cf050f827fda0072e@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260915T201500Z
+DTEND:20260915T221500Z
+SUMMARY:Coyote vs Acme
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 4:15pm\, 7pm\nAfter Acme products fail him one too many 
+ times in his dogged pursuit of the Roadrunner\, Wile E. Coyote decides to 
+ hire a billboard lawyer to sue the Acme Corporation.\nhttps://www.thetripl
+ ex.org/movie/coyote-vs-acme\nFrom Pushpin Western Mass: https://pushpin.ci
+ ty/westernma/
+URL:https://www.thetriplex.org/movie/coyote-vs-acme
+END:VEVENT
+BEGIN:VEVENT
+UID:774f61201b1385afa95bab2d7c3937601b979663@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260915T203000Z
+DTEND:20260915T223000Z
+SUMMARY:Practical Magic 2
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 4:30pm\, 7:30pm\nThe Owens sisters must confront the dar
+ k curse that threatens to unravel their family once and for all.\nhttps://
+ www.thetriplex.org/movie/practical-magic-2\nFrom Pushpin Western Mass: htt
+ ps://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/practical-magic-2
+END:VEVENT
+BEGIN:VEVENT
+UID:542a3d8c916a7241591930f096373201466e3c7b@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260915T204000Z
+DTEND:20260915T224000Z
+SUMMARY:Teenage Sex and Death at Camp Miasma
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 4:40pm\, 9:45pm\nAfter years of slapdash sequels and wan
+ ing fandom\, the Camp Miasma slasher franchise is handed over to an enthus
+ iastic young director for resurrection.\nhttps://amherstcinema.org/films-a
+ nd-events/camp-miasma\nFrom Pushpin Western Mass: https://pushpin.city/wes
+ ternma/
+URL:https://amherstcinema.org/films-and-events/camp-miasma
+END:VEVENT
+BEGIN:VEVENT
+UID:33c9d7a0dde598e32e0f7fe58753a365e2e335e7@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260915T204500Z
+DTEND:20260915T224500Z
+SUMMARY:Tony
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 4:45pm\, 8pm\nA 19-year-old Anthony Bourdain travels to 
+ Provincetown and stumbles into the chaotic world of a restaurant kitchen\,
+  setting off a summer that will shape the course of his life.\nhttps://www
+ .thetriplex.org/movie/tony\nFrom Pushpin Western Mass: https://pushpin.cit
+ y/westernma/
+URL:https://www.thetriplex.org/movie/tony
+END:VEVENT
+BEGIN:VEVENT
+UID:79875a1a6be79b793337b2dc925ecb0b796d6c5f@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260915T210000Z
+DTEND:20260915T230000Z
+SUMMARY:Late Fame
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 5pm\, 7:45pm\nQ&A with director Kent Jones after the 7 p
+ m screening on September 11th.\nhttps://www.thetriplex.org/movie/late-fame
+ \nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/late-fame
+END:VEVENT
+BEGIN:VEVENT
+UID:a02bb3a177c02bbcd3bbd88466daefb515da6e53@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260915T224500Z
+DTEND:20260916T004500Z
+SUMMARY:Coyote vs. Acme
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:After Acme products fail him one too many times in his dogged p
+ ursuit of the Roadrunner\, Wile E. Coyote decides to hire a billboard lawy
+ er to sue the Acme Corporation.\nhttps://www.imagescinema.org/movie/coyote
+ -vs-acme\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.imagescinema.org/movie/coyote-vs-acme
+END:VEVENT
+BEGIN:VEVENT
+UID:49256f9e93a1f2f72beba57b68908e3507a9e2f0@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260915T230000Z
+DTEND:20260916T010000Z
+SUMMARY:Boogie Nights
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Big Screen Classics\nIn 1977 Los Angeles\, idealistic porn prod
+ ucer Jack Horner (Burt Reynolds) aspires to elevate his craft to an art fo
+ rm. Horner discovers Eddie Adams (Mark Wahlberg)\, a hot young talent work
+ ing as a busboy in a nightclub\, and welcomes him into the extended family
+  of movie-makers\, misfits\, and hangers-on that are always around.\nhttps
+ ://amherstcinema.org/films-and-events/boogie-nights\nFrom Pushpin Western 
+ Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/boogie-nights
+END:VEVENT
+BEGIN:VEVENT
+UID:30f02131e6c9f0d20ebe2106a336f5a90a578d40@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260916T193000Z
+DTEND:20260916T213000Z
+SUMMARY:Spider-Man: Brand New Day
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Times: 3:30pm\, 6:30pm\, 9:30pm\nFighting crime full-time as Sp
+ ider-Man in a world that doesn't remember him—and the pressure of seeing
+  his old friends move on without him—sparks a change in Peter Parker he 
+ may not have the power to control. But that transformation might also be t
+ he only thing that can stop a shocking new threat to the city and those he
+  loves - a powerful villain no one can even see.\nhttps://www.imagescinema
+ .org/movie/spider-man-brand-new-day\nFrom Pushpin Western Mass: https://pu
+ shpin.city/westernma/
+URL:https://www.imagescinema.org/movie/spider-man-brand-new-day
+END:VEVENT
+BEGIN:VEVENT
+UID:2ad686b80c5ab23e637ff9cd9b8437abad430b1b@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260916T194500Z
+DTEND:20260916T214500Z
+SUMMARY:Coyote vs. Acme
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:After Acme products fail him one too many times in his dogged p
+ ursuit of the Roadrunner\, Wile E. Coyote decides to hire a billboard lawy
+ er to sue the Acme Corporation.\nhttps://www.imagescinema.org/movie/coyote
+ -vs-acme\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.imagescinema.org/movie/coyote-vs-acme
+END:VEVENT
+BEGIN:VEVENT
+UID:2b2ac36a87368eb11f546e1d3250a72b51814b69@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260916T201500Z
+DTEND:20260916T221500Z
+SUMMARY:Coyote vs Acme
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 4:15pm\, 7pm\nAfter Acme products fail him one too many 
+ times in his dogged pursuit of the Roadrunner\, Wile E. Coyote decides to 
+ hire a billboard lawyer to sue the Acme Corporation.\nhttps://www.thetripl
+ ex.org/movie/coyote-vs-acme\nFrom Pushpin Western Mass: https://pushpin.ci
+ ty/westernma/
+URL:https://www.thetriplex.org/movie/coyote-vs-acme
+END:VEVENT
+BEGIN:VEVENT
+UID:f37d26fa21c802988e712a15eded3fa77698e159@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260916T203000Z
+DTEND:20260916T223000Z
+SUMMARY:Practical Magic 2
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 4:30pm\, 7:30pm\nThe Owens sisters must confront the dar
+ k curse that threatens to unravel their family once and for all.\nhttps://
+ www.thetriplex.org/movie/practical-magic-2\nFrom Pushpin Western Mass: htt
+ ps://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/practical-magic-2
+END:VEVENT
+BEGIN:VEVENT
+UID:db9ca4f502198924890f5ae001fe9ae5bd8b0be6@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260916T203000Z
+DTEND:20260916T223000Z
+SUMMARY:The Marching Band
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:A world-famous orchestra conductor discovers the brother he nev
+ er knew he had—a school cafeteria worker who plays trombone in a local m
+ arching band. Detecting his brother's exceptional musical talent\, he take
+ s it upon himself to rectify the injustice of fate.\nhttps://amherstcinema
+ .org/films-and-events/marching-band\nFrom Pushpin Western Mass: https://pu
+ shpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/marching-band
+END:VEVENT
+BEGIN:VEVENT
+UID:b5b8696b854204a4c8ad6b28b1e2b7a435180956@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260916T204000Z
+DTEND:20260916T224000Z
+SUMMARY:Finding Emily
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:When a lovesick musician is given the wrong number for his drea
+ m girl\, he teams up with a driven psychology student to find her.\nhttps:
+ //amherstcinema.org/films-and-events/finding-emily\nFrom Pushpin Western M
+ ass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/finding-emily
+END:VEVENT
+BEGIN:VEVENT
+UID:e0738a9a91626a30866965a16ee7ea49e52e7c8b@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260916T204500Z
+DTEND:20260916T224500Z
+SUMMARY:Tony
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 4:45pm\, 8pm\nA 19-year-old Anthony Bourdain travels to 
+ Provincetown and stumbles into the chaotic world of a restaurant kitchen\,
+  setting off a summer that will shape the course of his life.\nhttps://www
+ .thetriplex.org/movie/tony\nFrom Pushpin Western Mass: https://pushpin.cit
+ y/westernma/
+URL:https://www.thetriplex.org/movie/tony
+END:VEVENT
+BEGIN:VEVENT
+UID:329e8d6b15cd760a63f98e4eeb6ea306c73cafcf@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260916T205500Z
+DTEND:20260916T225500Z
+SUMMARY:The Cycle of Love
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 4:55pm\, 7:25pm\nIn 1977\, PK\, a 23-year-old Delhi stre
+ et artist from a poor\, ‘untouchable’ family\, picked up a handful of 
+ paintbrushes and a second-hand bicycle and set off on a 6000-mile cross-co
+ ntinent mission—to find Lotta\, the woman who had captured his heart.\nh
+ ttps://amherstcinema.org/films-and-events/cycle-love\nFrom Pushpin Western
+  Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/cycle-love
+END:VEVENT
+BEGIN:VEVENT
+UID:b5e186292abb6b0385282f1c2d4a5e661b97f6a9@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260916T210000Z
+DTEND:20260916T230000Z
+SUMMARY:Late Fame
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 5pm\, 7:45pm\nQ&A with director Kent Jones after the 7 p
+ m screening on September 11th.\nhttps://www.thetriplex.org/movie/late-fame
+ \nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/late-fame
+END:VEVENT
+BEGIN:VEVENT
+UID:af77df29dcff7044034d8b6d9c3c08bfff5ee96e@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260916T230000Z
+DTEND:20260917T010000Z
+SUMMARY:Everybody to Kenmure Street
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Presented as part of Civic Cinema\, our biennial series on demo
+ cracy and civic engagement. This year's films focus on journalism/freedom 
+ of the press\, as well as stories of collective action. Each screening wil
+ l be paired with a talk with local leaders\, community organizers\, and ac
+ ademics.\nhttps://www.imagescinema.org/movie/everybody-to-kenmure-street\n
+ From Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.imagescinema.org/movie/everybody-to-kenmure-street
+END:VEVENT
+BEGIN:VEVENT
+UID:243397fb6ae0ee3dc8d9d1ce3a60375250aec831@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260916T230000Z
+DTEND:20260917T010000Z
+SUMMARY:James McNeill Whistler
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Exhibition On Screen\nIn an era of great change and great beaut
+ y emerged the character of James McNeill Whistler. Considered by some to b
+ e one of the great innovators of 19th century art\, he was a contemporary 
+ of the Impressionists\, much admired by Van Gogh and Manet. Boldly experim
+ ental and famously witty\, Whistler disrupted the strict conventions of Vi
+ ctorian society in pursuit of a new cult of beauty\, creating “art for a
+ rt’s sake” and earning himself a place in the history of great art. He
+  found a parallel between painting and music\, and entitled many of his pa
+ intings “arrangements\,” “harmonies\,” and “nocturnes\,” empha
+ sizing the importance of tonal harmony in his work.\nhttps://amherstcinema
+ .org/films-and-events/whistler\nFrom Pushpin Western Mass: https://pushpin
+ .city/westernma/
+URL:https://amherstcinema.org/films-and-events/whistler
+END:VEVENT
+BEGIN:VEVENT
+UID:f0e2223a7deec2c8945a174d07d96738e757d303@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260916T231500Z
+DTEND:20260917T011500Z
+SUMMARY:Teenage Sex and Death at Camp Miasma
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:After years of slapdash sequels and waning fandom\, the Camp Mi
+ asma slasher franchise is handed over to an enthusiastic young director fo
+ r resurrection.\nhttps://amherstcinema.org/films-and-events/camp-miasma\nF
+ rom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/camp-miasma
+END:VEVENT
+BEGIN:VEVENT
+UID:599f072f9747dab641395aa1be06e2a1873d4578@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260917T014500Z
+DTEND:20260917T034500Z
+SUMMARY:Tony
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:A 19-year-old Anthony Bourdain travels to Provincetown and stum
+ bles into the chaotic world of a restaurant kitchen\, setting off a summer
+  that will shape the course of his life.\nhttps://www.imagescinema.org/mov
+ ie/tony\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.imagescinema.org/movie/tony
+END:VEVENT
+BEGIN:VEVENT
+UID:4eca13a256f2d60989af4a5df67108fd554a28af@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260917T171500Z
+DTEND:20260917T191500Z
+SUMMARY:Coyote vs Acme
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 1:15pm\, 4:15pm\, 7pm\nAfter Acme products fail him one 
+ too many times in his dogged pursuit of the Roadrunner\, Wile E. Coyote de
+ cides to hire a billboard lawyer to sue the Acme Corporation.\nhttps://www
+ .thetriplex.org/movie/coyote-vs-acme\nFrom Pushpin Western Mass: https://p
+ ushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/coyote-vs-acme
+END:VEVENT
+BEGIN:VEVENT
+UID:ef7a42ad54053bc68fe650ddfaafc2b40ce24bf3@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260917T173000Z
+DTEND:20260917T193000Z
+SUMMARY:Practical Magic 2
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 1:30pm\, 4:30pm\, 7:30pm\nThe Owens sisters must confron
+ t the dark curse that threatens to unravel their family once and for all.\
+ nhttps://www.thetriplex.org/movie/practical-magic-2\nFrom Pushpin Western 
+ Mass: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/practical-magic-2
+END:VEVENT
+BEGIN:VEVENT
+UID:8d41df478f095ea47d75222bb534d2588db61451@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260917T174500Z
+DTEND:20260917T194500Z
+SUMMARY:Late Fame
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 1:45pm\, 5pm\, 7:45pm\nQ&A with director Kent Jones afte
+ r the 7 pm screening on September 11th.\nhttps://www.thetriplex.org/movie/
+ late-fame\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/late-fame
+END:VEVENT
+BEGIN:VEVENT
+UID:ad9cc31b9451d75bfefa2dabf3168503fa260127@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260917T180000Z
+DTEND:20260917T200000Z
+SUMMARY:The Marching Band
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 2pm\, 4:30pm\, 7pm\nA world-famous orchestra conductor d
+ iscovers the brother he never knew he had—a school cafeteria worker who 
+ plays trombone in a local marching band. Detecting his brother's exception
+ al musical talent\, he takes it upon himself to rectify the injustice of f
+ ate.\nhttps://amherstcinema.org/films-and-events/marching-band\nFrom Pushp
+ in Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/marching-band
+END:VEVENT
+BEGIN:VEVENT
+UID:2e9324b01a14f5e062d74031164177ccba935c0d@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260917T180000Z
+DTEND:20260917T200000Z
+SUMMARY:Tony
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 2pm\, 4:45pm\, 8pm\nA 19-year-old Anthony Bourdain trave
+ ls to Provincetown and stumbles into the chaotic world of a restaurant kit
+ chen\, setting off a summer that will shape the course of his life.\nhttps
+ ://www.thetriplex.org/movie/tony\nFrom Pushpin Western Mass: https://pushp
+ in.city/westernma/
+URL:https://www.thetriplex.org/movie/tony
+END:VEVENT
+BEGIN:VEVENT
+UID:a42a118c1931b260bfa0652e1b13c590943976cc@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260917T181000Z
+DTEND:20260917T201000Z
+SUMMARY:Finding Emily
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 2:10pm\, 9:40pm\nWhen a lovesick musician is given the w
+ rong number for his dream girl\, he teams up with a driven psychology stud
+ ent to find her.\nhttps://amherstcinema.org/films-and-events/finding-emily
+ \nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/finding-emily
+END:VEVENT
+BEGIN:VEVENT
+UID:8c0d3624ab277bc029c1198d58666b327add43a8@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260917T182000Z
+DTEND:20260917T202000Z
+SUMMARY:The Cycle of Love
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 2:20pm\, 4:55pm\, 7:25pm\, 9:30pm\nIn 1977\, PK\, a 23-y
+ ear-old Delhi street artist from a poor\, ‘untouchable’ family\, picke
+ d up a handful of paintbrushes and a second-hand bicycle and set off on a 
+ 6000-mile cross-continent mission—to find Lotta\, the woman who had capt
+ ured his heart.\nhttps://amherstcinema.org/films-and-events/cycle-love\nFr
+ om Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/cycle-love
+END:VEVENT
+BEGIN:VEVENT
+UID:b0a1dcaf8ffd59bd184e3450a0e99012a4fc5d06@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260917T193000Z
+DTEND:20260917T213000Z
+SUMMARY:Spider-Man: Brand New Day
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Times: 3:30pm\, 6:30pm\, 9:30pm\nFighting crime full-time as Sp
+ ider-Man in a world that doesn't remember him—and the pressure of seeing
+  his old friends move on without him—sparks a change in Peter Parker he 
+ may not have the power to control. But that transformation might also be t
+ he only thing that can stop a shocking new threat to the city and those he
+  loves - a powerful villain no one can even see.\nhttps://www.imagescinema
+ .org/movie/spider-man-brand-new-day\nFrom Pushpin Western Mass: https://pu
+ shpin.city/westernma/
+URL:https://www.imagescinema.org/movie/spider-man-brand-new-day
+END:VEVENT
+BEGIN:VEVENT
+UID:5014978c10f87b534635f9f41668ff0399e09fb6@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260917T194500Z
+DTEND:20260917T214500Z
+SUMMARY:Tony
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:A 19-year-old Anthony Bourdain travels to Provincetown and stum
+ bles into the chaotic world of a restaurant kitchen\, setting off a summer
+  that will shape the course of his life.\nhttps://www.imagescinema.org/mov
+ ie/tony\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.imagescinema.org/movie/tony
+END:VEVENT
+BEGIN:VEVENT
+UID:2d1ae002b04079b0ccc58c70761736c7c04d2cab@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260917T204000Z
+DTEND:20260917T224000Z
+SUMMARY:Teenage Sex and Death at Camp Miasma
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 4:40pm\, 7:15pm\, 9:45pm\nAfter years of slapdash sequel
+ s and waning fandom\, the Camp Miasma slasher franchise is handed over to 
+ an enthusiastic young director for resurrection.\nhttps://amherstcinema.or
+ g/films-and-events/camp-miasma\nFrom Pushpin Western Mass: https://pushpin
+ .city/westernma/
+URL:https://amherstcinema.org/films-and-events/camp-miasma
+END:VEVENT
+BEGIN:VEVENT
+UID:a11f701428667a0a8c495e632508e6d3cd1808f6@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260917T230000Z
+DTEND:20260918T010000Z
+SUMMARY:The Last Twins w/Patrick McMahon
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:This special event will feature a post-screening discussion bet
+ ween Patrick McMahon\, the film's writer and editor\, and Alexandra Garbar
+ ini\, Hans W. Gatzke '38 Professor of Modern European History at Williams 
+ College.\nhttps://www.imagescinema.org/movie/the-last-twins-wfilmmaker-pat
+ rick-mcmahon\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.imagescinema.org/movie/the-last-twins-wfilmmaker-patrick-mc
+ mahon
+END:VEVENT
+BEGIN:VEVENT
+UID:b0048936cb1c4cc8c875ce0b3a7c3bcf8696239d@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260918T000000Z
+DTEND:20260918T020000Z
+SUMMARY:Karaoke Night
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Sing your heart out on First and Third Thursdays (and some extr
+ as) at the Lounge\, 8 to 10pm\, and as listed. No ticket needed. Bartender
+  is present April 16th - Student Veterans of Williams April 30th - Phil an
+ d Gwen May 7th - John Landoff May 14th - Lea and Sarah\nhttps://www.images
+ cinema.org/movie/karaoke-night\nFrom Pushpin Western Mass: https://pushpin
+ .city/westernma/
+URL:https://www.imagescinema.org/movie/karaoke-night
+END:VEVENT
+BEGIN:VEVENT
+UID:d85b205649b309124630baf802a97844ea169a8a@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260918T014500Z
+DTEND:20260918T034500Z
+SUMMARY:Coyote vs. Acme
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:After Acme products fail him one too many times in his dogged p
+ ursuit of the Roadrunner\, Wile E. Coyote decides to hire a billboard lawy
+ er to sue the Acme Corporation.\nhttps://www.imagescinema.org/movie/coyote
+ -vs-acme\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.imagescinema.org/movie/coyote-vs-acme
+END:VEVENT
+BEGIN:VEVENT
+UID:d2d2c346f714ea39b03309eff79d85ab441c9a4d@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260918T170000Z
+DTEND:20260918T190000Z
+SUMMARY:Resident Evil
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 1pm\, 3:15pm\, 5:30pm\, 8pm\nBryan\, a medical courier\,
+  unwittingly finds himself in an action-packed\, non-stop race for surviva
+ l as one fateful\, horrifying night collapses around him in chaos.\nhttps:
+ //www.thetriplex.org/movie/resident-evil\nFrom Pushpin Western Mass: https
+ ://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/resident-evil
+END:VEVENT
+BEGIN:VEVENT
+UID:43134d0fd46f4276b9783b561072385cb57ce2c0@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260918T173000Z
+DTEND:20260918T193000Z
+SUMMARY:Practical Magic 2
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 1:30pm\, 4:30pm\, 7:30pm\nThe Owens sisters must confron
+ t the dark curse that threatens to unravel their family once and for all.\
+ nhttps://www.thetriplex.org/movie/practical-magic-2\nFrom Pushpin Western 
+ Mass: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/practical-magic-2
+END:VEVENT
+BEGIN:VEVENT
+UID:65be4b77d1d2273afe79c59f36b401558320db42@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260918T174500Z
+DTEND:20260918T194500Z
+SUMMARY:The Marching Band
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:A world-famous orchestra conductor discovers the brother he nev
+ er knew he had—a school cafeteria worker who plays trombone in a local m
+ arching band. Detecting his brother's exceptional musical talent\, he take
+ s it upon himself to rectify the injustice of fate.\nhttps://amherstcinema
+ .org/films-and-events/marching-band\nFrom Pushpin Western Mass: https://pu
+ shpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/marching-band
+END:VEVENT
+BEGIN:VEVENT
+UID:72dc73d9f160b6d7317a0ab32f54324309748479@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260918T174500Z
+DTEND:20260918T194500Z
+SUMMARY:The Marching Band
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 1:45pm\, 4:45pm\nA world-famous orchestra conductor disc
+ overs the brother he never knew he had — a school cafeteria worker who p
+ lays trombone in a local marching band. Detecting his brother's exceptiona
+ l musical talent\, he takes it upon himself to rectify the injustice of fa
+ te.\nhttps://www.thetriplex.org/movie/the-marching-band\nFrom Pushpin West
+ ern Mass: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/the-marching-band
+END:VEVENT
+BEGIN:VEVENT
+UID:d4608f2659e887690117cc2f8382a8bbc08770cc@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260918T175500Z
+DTEND:20260918T195500Z
+SUMMARY:The Weight
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 1:55pm\, 4:35pm\, 7:15pm\, 9:35pm\nWhen Samuel (Ethan Ha
+ wke) is torn from his daughter and sent to a brutal prison\, Warden Clancy
+  (Russell Crowe) offers him a high-stakes proposition: smuggle gold out of
+  a remote mine with a dangerous crew of prisoners and he’ll win his free
+ dom.\nhttps://amherstcinema.org/films-and-events/weight\nFrom Pushpin West
+ ern Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/weight
+END:VEVENT
+BEGIN:VEVENT
+UID:7f2d7e065e4eaedf273e702c4eb868b4353040f6@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260918T180000Z
+DTEND:20260918T200000Z
+SUMMARY:Late Fame
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 2pm\, 7:45pm\nQ&A with director Kent Jones after the 7 p
+ m screening on September 11th.\nhttps://www.thetriplex.org/movie/late-fame
+ \nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/late-fame
+END:VEVENT
+BEGIN:VEVENT
+UID:611624175971e91f6621c177c56cd85bfa06eb49@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260918T180500Z
+DTEND:20260918T200500Z
+SUMMARY:Bernstein's Wall
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 2:05pm\, 7:25pm\nThe legendary maestro Leonard Bernstein
+ —celebrity conductor\, composer\, and political activist—is thrillingl
+ y captured in this archival documentary portrait by Douglas Tirola (DRUNK 
+ STONED BRILLIANT DEAD).\nhttps://amherstcinema.org/films-and-events/bernst
+ eins-wall\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/bernsteins-wall
+END:VEVENT
+BEGIN:VEVENT
+UID:d1554a81ccac7cf2aef0fd25ff42371ea0b7f9b6@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260918T201500Z
+DTEND:20260918T221500Z
+SUMMARY:Resident Evil
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Times: 4:15pm\, 6:45pm\, 9:30pm\nBryan\, a medical courier\, is
+  in the process of making a delivery when a sudden outbreak occurs\, forci
+ ng him to fight for survival.\nhttps://www.imagescinema.org/movie/resident
+ -evil\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.imagescinema.org/movie/resident-evil
+END:VEVENT
+BEGIN:VEVENT
+UID:f14d4128de3e1fbe1203622ff66d15a5bb38e8f2@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260918T202000Z
+DTEND:20260918T222000Z
+SUMMARY:The Cycle of Love
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:In 1977\, PK\, a 23-year-old Delhi street artist from a poor\, 
+ ‘untouchable’ family\, picked up a handful of paintbrushes and a secon
+ d-hand bicycle and set off on a 6000-mile cross-continent mission—to fin
+ d Lotta\, the woman who had captured his heart.\nhttps://amherstcinema.org
+ /films-and-events/cycle-love\nFrom Pushpin Western Mass: https://pushpin.c
+ ity/westernma/
+URL:https://amherstcinema.org/films-and-events/cycle-love
+END:VEVENT
+BEGIN:VEVENT
+UID:f98c89112efb5ae01a1808e1388d982b74093434@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260918T203000Z
+DTEND:20260918T223000Z
+SUMMARY:Shaun the Sheep: The Beast of Mossy Bottom
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Times: 4:30pm\, 9:15pm\nOn Halloween Eve at Mossy Bottom Farm\,
+  excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch
+ . Shaun tries fixing it with science experiments\, but things go wrong whe
+ n a wild beast appears in the woods.\nhttps://www.imagescinema.org/movie/s
+ haun-the-sheep-the-beast-of-mossy-bottom\nFrom Pushpin Western Mass: https
+ ://pushpin.city/westernma/
+URL:https://www.imagescinema.org/movie/shaun-the-sheep-the-beast-of-mossy-b
+ ottom
+END:VEVENT
+BEGIN:VEVENT
+UID:01dd8f58047db67f310553a830560b0c238dd060@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260918T204500Z
+DTEND:20260918T224500Z
+SUMMARY:Teenage Sex and Death at Camp Miasma
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 4:45pm\, 7pm\, 9:50pm\nAfter years of slapdash sequels a
+ nd waning fandom\, the Camp Miasma slasher franchise is handed over to an 
+ enthusiastic young director for resurrection.\nhttps://amherstcinema.org/f
+ ilms-and-events/camp-miasma\nFrom Pushpin Western Mass: https://pushpin.ci
+ ty/westernma/
+URL:https://amherstcinema.org/films-and-events/camp-miasma
+END:VEVENT
+BEGIN:VEVENT
+UID:5aab39e67f0ae233d3bfda7e79d96761821a2d1b@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260918T210000Z
+DTEND:20260918T230000Z
+SUMMARY:Coyote vs Acme
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:After Acme products fail him one too many times in his dogged p
+ ursuit of the Roadrunner\, Wile E. Coyote decides to hire a billboard lawy
+ er to sue the Acme Corporation.\nhttps://www.thetriplex.org/movie/coyote-v
+ s-acme\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/coyote-vs-acme
+END:VEVENT
+BEGIN:VEVENT
+UID:983f099ccf638286e1c9cbb6f805575c175e114f@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260918T223000Z
+DTEND:20260919T003000Z
+SUMMARY:Beget w/filmmaker John Tedeschi
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Director John Tedeschi and cast members will attend in-person d
+ iscussions and audience question-and-answer sessions at Images Cinema. The
+  Continental Shoemakers proudly announce three screenings of the award win
+ ning feature dramedy BEGET. Discussions and Q&A's with Director\, John Ted
+ eschi\, will follow the film on Friday\, September 18th @ 6:30pm\, Tuesday
+ \, September 22nd @ 4:00pm\, and Thursday\, September 24th @ 6:30pm.\nhttp
+ s://www.imagescinema.org/movie/beget-wfilmmaker-john-tedeshi\nFrom Pushpin
+  Western Mass: https://pushpin.city/westernma/
+URL:https://www.imagescinema.org/movie/beget-wfilmmaker-john-tedeshi
+END:VEVENT
+BEGIN:VEVENT
+UID:ef36651c484736b70f2666926fc94d33c5727ef8@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260919T001500Z
+DTEND:20260919T021500Z
+SUMMARY:It Ends
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:A group of recent grads head out on a late night drive for grub
+ \, hoping to enjoy one final hangout before their paths diverge. Instead\,
+  they accidentally turn onto a never-ending\, two-lane hellscape surrounde
+ d by untold horrors and cosmic forces beyond their understanding. Cramped 
+ together inside a Jeep Cherokee and with the miles stretching infinitely a
+ head\, they face a choice: embrace their new existence or fight to escape 
+ it.\nhttps://www.thetriplex.org/movie/it-ends\nFrom Pushpin Western Mass: 
+ https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/it-ends
+END:VEVENT
+BEGIN:VEVENT
+UID:d3b43e9f8f47fe5451d49988463d8cd1f80e11df@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260919T014500Z
+DTEND:20260919T034500Z
+SUMMARY:The Red Spectacles
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Late Nights\nNew 4K restoration.\nhttps://amherstcinema.org/fil
+ ms-and-events/red-spectacles\nFrom Pushpin Western Mass: https://pushpin.c
+ ity/westernma/
+URL:https://amherstcinema.org/films-and-events/red-spectacles
+END:VEVENT
+BEGIN:VEVENT
+UID:c59031e4d206825d2c6bec0c6ee6ed76a00950dc@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260919T154500Z
+DTEND:20260919T174500Z
+SUMMARY:Resident Evil
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Times: 11:45am\, 2pm\, 4:15pm\, 6:45pm\, 9:30pm\nBryan\, a medi
+ cal courier\, is in the process of making a delivery when a sudden outbrea
+ k occurs\, forcing him to fight for survival.\nhttps://www.imagescinema.or
+ g/movie/resident-evil\nFrom Pushpin Western Mass: https://pushpin.city/wes
+ ternma/
+URL:https://www.imagescinema.org/movie/resident-evil
+END:VEVENT
+BEGIN:VEVENT
+UID:077c5df245f371804bfac27174ecccd6958acc3d@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260919T160000Z
+DTEND:20260919T180000Z
+SUMMARY:Shaun the Sheep: The Beast of Mossy Bottom
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Times: 12pm\, 2:15pm\, 4:30pm\, 9:15pm\nOn Halloween Eve at Mos
+ sy Bottom Farm\, excitement turns to dismay when the clumsy Farmer ruins t
+ he pumpkin patch. Shaun tries fixing it with science experiments\, but thi
+ ngs go wrong when a wild beast appears in the woods.\nhttps://www.imagesci
+ nema.org/movie/shaun-the-sheep-the-beast-of-mossy-bottom\nFrom Pushpin Wes
+ tern Mass: https://pushpin.city/westernma/
+URL:https://www.imagescinema.org/movie/shaun-the-sheep-the-beast-of-mossy-b
+ ottom
+END:VEVENT
+BEGIN:VEVENT
+UID:26c133d7b9dd91bf6fa1a2e8cb5d51ebbf73f932@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260919T170000Z
+DTEND:20260919T190000Z
+SUMMARY:Resident Evil
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 1pm\, 3:15pm\, 5:30pm\, 8pm\nBryan\, a medical courier\,
+  unwittingly finds himself in an action-packed\, non-stop race for surviva
+ l as one fateful\, horrifying night collapses around him in chaos.\nhttps:
+ //www.thetriplex.org/movie/resident-evil\nFrom Pushpin Western Mass: https
+ ://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/resident-evil
+END:VEVENT
+BEGIN:VEVENT
+UID:fff8a0656c662411bf423ef769ce294358387cb4@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260919T173000Z
+DTEND:20260919T193000Z
+SUMMARY:Practical Magic 2
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 1:30pm\, 4:30pm\, 7:30pm\nThe Owens sisters must confron
+ t the dark curse that threatens to unravel their family once and for all.\
+ nhttps://www.thetriplex.org/movie/practical-magic-2\nFrom Pushpin Western 
+ Mass: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/practical-magic-2
+END:VEVENT
+BEGIN:VEVENT
+UID:79116101e114d307afbb7a0c946de7740e63f25b@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260919T174500Z
+DTEND:20260919T194500Z
+SUMMARY:Coyote vs Acme
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 1:45pm\, 7:45pm\nAfter Acme products fail him one too ma
+ ny times in his dogged pursuit of the Roadrunner\, Wile E. Coyote decides 
+ to hire a billboard lawyer to sue the Acme Corporation.\nhttps://www.thetr
+ iplex.org/movie/coyote-vs-acme\nFrom Pushpin Western Mass: https://pushpin
+ .city/westernma/
+URL:https://www.thetriplex.org/movie/coyote-vs-acme
+END:VEVENT
+BEGIN:VEVENT
+UID:fe4d54b71b4fca6486144657fd8fdc4fd608c38b@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260919T174500Z
+DTEND:20260919T194500Z
+SUMMARY:The Marching Band
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:A world-famous orchestra conductor discovers the brother he nev
+ er knew he had—a school cafeteria worker who plays trombone in a local m
+ arching band. Detecting his brother's exceptional musical talent\, he take
+ s it upon himself to rectify the injustice of fate.\nhttps://amherstcinema
+ .org/films-and-events/marching-band\nFrom Pushpin Western Mass: https://pu
+ shpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/marching-band
+END:VEVENT
+BEGIN:VEVENT
+UID:be7a0c9db8a2a9f838e6a6a085292e9ac27c88de@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260919T174500Z
+DTEND:20260919T194500Z
+SUMMARY:The Marching Band
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 1:45pm\, 5pm\nA world-famous orchestra conductor discove
+ rs the brother he never knew he had — a school cafeteria worker who play
+ s trombone in a local marching band. Detecting his brother's exceptional m
+ usical talent\, he takes it upon himself to rectify the injustice of fate.
+ \nhttps://www.thetriplex.org/movie/the-marching-band\nFrom Pushpin Western
+  Mass: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/the-marching-band
+END:VEVENT
+BEGIN:VEVENT
+UID:dc98bc9e0f4bbafad3bb06f0e6e6e5ed8ba8b60a@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260919T175500Z
+DTEND:20260919T195500Z
+SUMMARY:The Weight
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 1:55pm\, 4:35pm\, 7:15pm\, 9:35pm\nWhen Samuel (Ethan Ha
+ wke) is torn from his daughter and sent to a brutal prison\, Warden Clancy
+  (Russell Crowe) offers him a high-stakes proposition: smuggle gold out of
+  a remote mine with a dangerous crew of prisoners and he’ll win his free
+ dom.\nhttps://amherstcinema.org/films-and-events/weight\nFrom Pushpin West
+ ern Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/weight
+END:VEVENT
+BEGIN:VEVENT
+UID:9713608ca0bb36d64db90b469d5e0121eb2ce8d9@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260919T180500Z
+DTEND:20260919T200500Z
+SUMMARY:Bernstein's Wall
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 2:05pm\, 7:25pm\, 9:45pm\nThe legendary maestro Leonard 
+ Bernstein—celebrity conductor\, composer\, and political activist—is t
+ hrillingly captured in this archival documentary portrait by Douglas Tirol
+ a (DRUNK STONED BRILLIANT DEAD).\nhttps://amherstcinema.org/films-and-even
+ ts/bernsteins-wall\nFrom Pushpin Western Mass: https://pushpin.city/wester
+ nma/
+URL:https://amherstcinema.org/films-and-events/bernsteins-wall
+END:VEVENT
+BEGIN:VEVENT
+UID:b47440d32949fc229fb6e76670e8bd533b82a301@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260919T202000Z
+DTEND:20260919T222000Z
+SUMMARY:The Cycle of Love
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:In 1977\, PK\, a 23-year-old Delhi street artist from a poor\, 
+ ‘untouchable’ family\, picked up a handful of paintbrushes and a secon
+ d-hand bicycle and set off on a 6000-mile cross-continent mission—to fin
+ d Lotta\, the woman who had captured his heart.\nhttps://amherstcinema.org
+ /films-and-events/cycle-love\nFrom Pushpin Western Mass: https://pushpin.c
+ ity/westernma/
+URL:https://amherstcinema.org/films-and-events/cycle-love
+END:VEVENT
+BEGIN:VEVENT
+UID:b5a1232aad76576c4f4b99be2aec4e05c01f5655@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260919T204500Z
+DTEND:20260919T224500Z
+SUMMARY:Late Fame
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Q&A with director Kent Jones after the 7 pm screening on Septem
+ ber 11th.\nhttps://www.thetriplex.org/movie/late-fame\nFrom Pushpin Wester
+ n Mass: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/late-fame
+END:VEVENT
+BEGIN:VEVENT
+UID:5b1ff94fdee26d0b0cae6b8b0976caf47f4ffa34@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260919T204500Z
+DTEND:20260919T224500Z
+SUMMARY:Teenage Sex and Death at Camp Miasma
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 4:45pm\, 7pm\, 9:50pm\nAfter years of slapdash sequels a
+ nd waning fandom\, the Camp Miasma slasher franchise is handed over to an 
+ enthusiastic young director for resurrection.\nhttps://amherstcinema.org/f
+ ilms-and-events/camp-miasma\nFrom Pushpin Western Mass: https://pushpin.ci
+ ty/westernma/
+URL:https://amherstcinema.org/films-and-events/camp-miasma
+END:VEVENT
+BEGIN:VEVENT
+UID:f3af65f76693490da54559f1d42950ef490f75af@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260919T220000Z
+DTEND:20260920T000000Z
+SUMMARY:His Girl Friday: A Fundraiser Event for The Triplex at Barrington H
+ all
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:We’re excited to invite you to our fall fundraiser event\, a 
+ staged reading of the screwball classic His Girl Friday featuring stars of
+  stage and screen — and real life couple! — Jack Davenport (Pirates of
+  the Caribbean\, Smash\, The Morning Show) and Michelle Gomez (Doctor Who\
+ , The Flight Attendant) on September 19th at 6 P.M. at Barrington Hall!\nh
+ ttps://www.thetriplex.org/movie/his-girl-friday-a-fundraiser-event-for-the
+ -triplex\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/his-girl-friday-a-fundraiser-event-for
+ -the-triplex
+END:VEVENT
+BEGIN:VEVENT
+UID:d05d071544aae5169852f35e7ff6f22ee9b5b957@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260920T001500Z
+DTEND:20260920T021500Z
+SUMMARY:It Ends
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:A group of recent grads head out on a late night drive for grub
+ \, hoping to enjoy one final hangout before their paths diverge. Instead\,
+  they accidentally turn onto a never-ending\, two-lane hellscape surrounde
+ d by untold horrors and cosmic forces beyond their understanding. Cramped 
+ together inside a Jeep Cherokee and with the miles stretching infinitely a
+ head\, they face a choice: embrace their new existence or fight to escape 
+ it.\nhttps://www.thetriplex.org/movie/it-ends\nFrom Pushpin Western Mass: 
+ https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/it-ends
+END:VEVENT
+BEGIN:VEVENT
+UID:6d70a430488ccf549c21f1b39ec9b18f4b11c89a@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260920T151000Z
+DTEND:20260920T171000Z
+SUMMARY:The Weight
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 11:10am\, 1:55pm\, 4:35pm\, 7:15pm\nWhen Samuel (Ethan H
+ awke) is torn from his daughter and sent to a brutal prison\, Warden Clanc
+ y (Russell Crowe) offers him a high-stakes proposition: smuggle gold out o
+ f a remote mine with a dangerous crew of prisoners and he’ll win his fre
+ edom.\nhttps://amherstcinema.org/films-and-events/weight\nFrom Pushpin Wes
+ tern Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/weight
+END:VEVENT
+BEGIN:VEVENT
+UID:928ef2db9fe4681176488bd35a18afa50fea6e6b@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260920T152000Z
+DTEND:20260920T172000Z
+SUMMARY:Bernstein's Wall
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 11:20am\, 2:05pm\, 7:25pm\nThe legendary maestro Leonard
+  Bernstein—celebrity conductor\, composer\, and political activist—is 
+ thrillingly captured in this archival documentary portrait by Douglas Tiro
+ la (DRUNK STONED BRILLIANT DEAD).\nhttps://amherstcinema.org/films-and-eve
+ nts/bernsteins-wall\nFrom Pushpin Western Mass: https://pushpin.city/weste
+ rnma/
+URL:https://amherstcinema.org/films-and-events/bernsteins-wall
+END:VEVENT
+BEGIN:VEVENT
+UID:8bcf2dc81849a506f8d780933ce3bf4417182d7f@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260920T153000Z
+DTEND:20260920T173000Z
+SUMMARY:The Cycle of Love
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 11:30am\, 4:20pm\nIn 1977\, PK\, a 23-year-old Delhi str
+ eet artist from a poor\, ‘untouchable’ family\, picked up a handful of
+  paintbrushes and a second-hand bicycle and set off on a 6000-mile cross-c
+ ontinent mission—to find Lotta\, the woman who had captured his heart.\n
+ https://amherstcinema.org/films-and-events/cycle-love\nFrom Pushpin Wester
+ n Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/cycle-love
+END:VEVENT
+BEGIN:VEVENT
+UID:3deffadd2da4f8d628167642bf9cd767eb0af50d@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260920T154500Z
+DTEND:20260920T174500Z
+SUMMARY:Resident Evil
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Times: 11:45am\, 2pm\, 4:30pm\, 7pm\nBryan\, a medical courier\
+ , is in the process of making a delivery when a sudden outbreak occurs\, f
+ orcing him to fight for survival.\nhttps://www.imagescinema.org/movie/resi
+ dent-evil\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.imagescinema.org/movie/resident-evil
+END:VEVENT
+BEGIN:VEVENT
+UID:7c874863c23f7b30c249e4d36aaa29d0df5b8f76@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260920T160000Z
+DTEND:20260920T180000Z
+SUMMARY:Shaun the Sheep: The Beast of Mossy Bottom
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Times: 12pm\, 2:15pm\, 7:15pm\nOn Halloween Eve at Mossy Bottom
+  Farm\, excitement turns to dismay when the clumsy Farmer ruins the pumpki
+ n patch. Shaun tries fixing it with science experiments\, but things go wr
+ ong when a wild beast appears in the woods.\nhttps://www.imagescinema.org/
+ movie/shaun-the-sheep-the-beast-of-mossy-bottom\nFrom Pushpin Western Mass
+ : https://pushpin.city/westernma/
+URL:https://www.imagescinema.org/movie/shaun-the-sheep-the-beast-of-mossy-b
+ ottom
+END:VEVENT
+BEGIN:VEVENT
+UID:b798e9c4215334f3a541712cd435e081405ce3e2@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260920T170000Z
+DTEND:20260920T190000Z
+SUMMARY:Resident Evil
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 1pm\, 3:15pm\, 5:30pm\, 8pm\nBryan\, a medical courier\,
+  unwittingly finds himself in an action-packed\, non-stop race for surviva
+ l as one fateful\, horrifying night collapses around him in chaos.\nhttps:
+ //www.thetriplex.org/movie/resident-evil\nFrom Pushpin Western Mass: https
+ ://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/resident-evil
+END:VEVENT
+BEGIN:VEVENT
+UID:1d05aee00de149efe58eef9b85afb830aac279d7@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260920T173000Z
+DTEND:20260920T193000Z
+SUMMARY:Practical Magic 2
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 1:30pm\, 4:30pm\, 7:30pm\nThe Owens sisters must confron
+ t the dark curse that threatens to unravel their family once and for all.\
+ nhttps://www.thetriplex.org/movie/practical-magic-2\nFrom Pushpin Western 
+ Mass: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/practical-magic-2
+END:VEVENT
+BEGIN:VEVENT
+UID:91b439b1c01568e349a7018aaff44a5a8248f06f@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260920T174500Z
+DTEND:20260920T194500Z
+SUMMARY:Late Fame
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 1:45pm\, 7:45pm\nQ&A with director Kent Jones after the 
+ 7 pm screening on September 11th.\nhttps://www.thetriplex.org/movie/late-f
+ ame\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/late-fame
+END:VEVENT
+BEGIN:VEVENT
+UID:532c72f19349adb114c666c2e0b3e1e7ffcd4a2b@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260920T174500Z
+DTEND:20260920T194500Z
+SUMMARY:The Marching Band
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:A world-famous orchestra conductor discovers the brother he nev
+ er knew he had—a school cafeteria worker who plays trombone in a local m
+ arching band. Detecting his brother's exceptional musical talent\, he take
+ s it upon himself to rectify the injustice of fate.\nhttps://amherstcinema
+ .org/films-and-events/marching-band\nFrom Pushpin Western Mass: https://pu
+ shpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/marching-band
+END:VEVENT
+BEGIN:VEVENT
+UID:e5804d2c6f56dd3113d79f2cb7b87c16f4798775@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260920T180000Z
+DTEND:20260920T200000Z
+SUMMARY:The Marching Band
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 2pm\, 5pm\nA world-famous orchestra conductor discovers 
+ the brother he never knew he had — a school cafeteria worker who plays t
+ rombone in a local marching band. Detecting his brother's exceptional musi
+ cal talent\, he takes it upon himself to rectify the injustice of fate.\nh
+ ttps://www.thetriplex.org/movie/the-marching-band\nFrom Pushpin Western Ma
+ ss: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/the-marching-band
+END:VEVENT
+BEGIN:VEVENT
+UID:e262f44a3bba2397e01a3ed64aeb6bd13dda387a@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260920T201500Z
+DTEND:20260920T221500Z
+SUMMARY:Bad Haircut w/filmmaker Kyle Misak
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:BAD HAIRCUT MOVIE SCREENING AT WILLIAMS COLLEGE Purple Valley P
+ roductions presents a special screening of the award-winning feature film 
+ Bad Haircut\, followed by a 30-minute discussion and audience Q&A with wri
+ ter/director Kyle Misak.\nhttps://www.imagescinema.org/movie/bad-haircut-w
+ filmmaker-jon-petro\nFrom Pushpin Western Mass: https://pushpin.city/weste
+ rnma/
+URL:https://www.imagescinema.org/movie/bad-haircut-wfilmmaker-jon-petro
+END:VEVENT
+BEGIN:VEVENT
+UID:d24665d6ce7e87a60d376ea319f78c695295a9ed@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260920T204500Z
+DTEND:20260920T224500Z
+SUMMARY:Coyote vs Acme
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:After Acme products fail him one too many times in his dogged p
+ ursuit of the Roadrunner\, Wile E. Coyote decides to hire a billboard lawy
+ er to sue the Acme Corporation.\nhttps://www.thetriplex.org/movie/coyote-v
+ s-acme\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/coyote-vs-acme
+END:VEVENT
+BEGIN:VEVENT
+UID:d217de321497a83719c3a027dbc2ae467e446124@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260920T204500Z
+DTEND:20260920T224500Z
+SUMMARY:Teenage Sex and Death at Camp Miasma
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:After years of slapdash sequels and waning fandom\, the Camp Mi
+ asma slasher franchise is handed over to an enthusiastic young director fo
+ r resurrection.\nhttps://amherstcinema.org/films-and-events/camp-miasma\nF
+ rom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/camp-miasma
+END:VEVENT
+BEGIN:VEVENT
+UID:771d5c38aebf1c88bf57349adc4d921e1c7a4d33@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260920T233000Z
+DTEND:20260921T013000Z
+SUMMARY:The Room with Greg Sestero
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Join us for a screening of hit cult classic THE ROOM\, featurin
+ g a pre-film meet and greet and a post-screening Q&A with Greg Sestero.\nh
+ ttps://amherstcinema.org/films-and-events/room-greg-sestero\nFrom Pushpin 
+ Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/room-greg-sestero
+END:VEVENT
+BEGIN:VEVENT
+UID:b3cd317b389c868e81412b5595680e283c5de110@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260921T001500Z
+DTEND:20260921T021500Z
+SUMMARY:It Ends
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:A group of recent grads head out on a late night drive for grub
+ \, hoping to enjoy one final hangout before their paths diverge. Instead\,
+  they accidentally turn onto a never-ending\, two-lane hellscape surrounde
+ d by untold horrors and cosmic forces beyond their understanding. Cramped 
+ together inside a Jeep Cherokee and with the miles stretching infinitely a
+ head\, they face a choice: embrace their new existence or fight to escape 
+ it.\nhttps://www.thetriplex.org/movie/it-ends\nFrom Pushpin Western Mass: 
+ https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/it-ends
+END:VEVENT
+BEGIN:VEVENT
+UID:bedf2b054bf1e71f56f621f172bb63c32c2abb0c@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260921T174500Z
+DTEND:20260921T194500Z
+SUMMARY:The Marching Band
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:A world-famous orchestra conductor discovers the brother he nev
+ er knew he had—a school cafeteria worker who plays trombone in a local m
+ arching band. Detecting his brother's exceptional musical talent\, he take
+ s it upon himself to rectify the injustice of fate.\nhttps://amherstcinema
+ .org/films-and-events/marching-band\nFrom Pushpin Western Mass: https://pu
+ shpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/marching-band
+END:VEVENT
+BEGIN:VEVENT
+UID:0f13bdeab2937bf9dc2c93ec06c25430cc87397d@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260921T175500Z
+DTEND:20260921T195500Z
+SUMMARY:The Weight
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 1:55pm\, 4:35pm\, 7:15pm\, 9:35pm\nWhen Samuel (Ethan Ha
+ wke) is torn from his daughter and sent to a brutal prison\, Warden Clancy
+  (Russell Crowe) offers him a high-stakes proposition: smuggle gold out of
+  a remote mine with a dangerous crew of prisoners and he’ll win his free
+ dom.\nhttps://amherstcinema.org/films-and-events/weight\nFrom Pushpin West
+ ern Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/weight
+END:VEVENT
+BEGIN:VEVENT
+UID:4986848191e63ba5e7cc5adc4ebac95772c58965@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260921T180500Z
+DTEND:20260921T200500Z
+SUMMARY:Bernstein's Wall
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 2:05pm\, 7:25pm\, 9:45pm\nThe legendary maestro Leonard 
+ Bernstein—celebrity conductor\, composer\, and political activist—is t
+ hrillingly captured in this archival documentary portrait by Douglas Tirol
+ a (DRUNK STONED BRILLIANT DEAD).\nhttps://amherstcinema.org/films-and-even
+ ts/bernsteins-wall\nFrom Pushpin Western Mass: https://pushpin.city/wester
+ nma/
+URL:https://amherstcinema.org/films-and-events/bernsteins-wall
+END:VEVENT
+BEGIN:VEVENT
+UID:e504104c5bbd53f792ac361faf99aefe761bc53b@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260921T201500Z
+DTEND:20260921T221500Z
+SUMMARY:Resident Evil
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Times: 4:15pm\, 6:45pm\nBryan\, a medical courier\, is in the p
+ rocess of making a delivery when a sudden outbreak occurs\, forcing him to
+  fight for survival.\nhttps://www.imagescinema.org/movie/resident-evil\nFr
+ om Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.imagescinema.org/movie/resident-evil
+END:VEVENT
+BEGIN:VEVENT
+UID:5a371918cd2c5485915df2648873c9ba29bb9c15@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260921T202000Z
+DTEND:20260921T222000Z
+SUMMARY:The Cycle of Love
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:In 1977\, PK\, a 23-year-old Delhi street artist from a poor\, 
+ ‘untouchable’ family\, picked up a handful of paintbrushes and a secon
+ d-hand bicycle and set off on a 6000-mile cross-continent mission—to fin
+ d Lotta\, the woman who had captured his heart.\nhttps://amherstcinema.org
+ /films-and-events/cycle-love\nFrom Pushpin Western Mass: https://pushpin.c
+ ity/westernma/
+URL:https://amherstcinema.org/films-and-events/cycle-love
+END:VEVENT
+BEGIN:VEVENT
+UID:e2e34cbd4a296d2cfb6dfd72591fcbe6fa8228d0@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260921T203000Z
+DTEND:20260921T223000Z
+SUMMARY:Practical Magic 2
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 4:30pm\, 7:30pm\nThe Owens sisters must confront the dar
+ k curse that threatens to unravel their family once and for all.\nhttps://
+ www.thetriplex.org/movie/practical-magic-2\nFrom Pushpin Western Mass: htt
+ ps://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/practical-magic-2
+END:VEVENT
+BEGIN:VEVENT
+UID:87b8d13ef2e2995d5d04b688f1905c7046bb4043@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260921T203000Z
+DTEND:20260921T223000Z
+SUMMARY:Shaun the Sheep: The Beast of Mossy Bottom
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Times: 4:30pm\, 7pm\nOn Halloween Eve at Mossy Bottom Farm\, ex
+ citement turns to dismay when the clumsy Farmer ruins the pumpkin patch. S
+ haun tries fixing it with science experiments\, but things go wrong when a
+  wild beast appears in the woods.\nhttps://www.imagescinema.org/movie/shau
+ n-the-sheep-the-beast-of-mossy-bottom\nFrom Pushpin Western Mass: https://
+ pushpin.city/westernma/
+URL:https://www.imagescinema.org/movie/shaun-the-sheep-the-beast-of-mossy-b
+ ottom
+END:VEVENT
+BEGIN:VEVENT
+UID:239a0c2b1db1df9211121eb3e4eea91b120803dd@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260921T204500Z
+DTEND:20260921T224500Z
+SUMMARY:Coyote vs Acme
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:After Acme products fail him one too many times in his dogged p
+ ursuit of the Roadrunner\, Wile E. Coyote decides to hire a billboard lawy
+ er to sue the Acme Corporation.\nhttps://www.thetriplex.org/movie/coyote-v
+ s-acme\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/coyote-vs-acme
+END:VEVENT
+BEGIN:VEVENT
+UID:670c8bbca319d7e8b34c5a197656265886b0a39f@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260921T204500Z
+DTEND:20260921T224500Z
+SUMMARY:Teenage Sex and Death at Camp Miasma
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 4:45pm\, 7pm\, 9:50pm\nAfter years of slapdash sequels a
+ nd waning fandom\, the Camp Miasma slasher franchise is handed over to an 
+ enthusiastic young director for resurrection.\nhttps://amherstcinema.org/f
+ ilms-and-events/camp-miasma\nFrom Pushpin Western Mass: https://pushpin.ci
+ ty/westernma/
+URL:https://amherstcinema.org/films-and-events/camp-miasma
+END:VEVENT
+BEGIN:VEVENT
+UID:93c75e33f342b1972a61689a54efe5680696dab8@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260921T211500Z
+DTEND:20260921T231500Z
+SUMMARY:The Marching Band
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:A world-famous orchestra conductor discovers the brother he nev
+ er knew he had — a school cafeteria worker who plays trombone in a local
+  marching band. Detecting his brother's exceptional musical talent\, he ta
+ kes it upon himself to rectify the injustice of fate.\nhttps://www.thetrip
+ lex.org/movie/the-marching-band\nFrom Pushpin Western Mass: https://pushpi
+ n.city/westernma/
+URL:https://www.thetriplex.org/movie/the-marching-band
+END:VEVENT
+BEGIN:VEVENT
+UID:3e963cc9a44bb5fd45e538673d56e73e64f0d127@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260921T213000Z
+DTEND:20260921T233000Z
+SUMMARY:Resident Evil
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 5:30pm\, 8pm\nBryan\, a medical courier\, unwittingly fi
+ nds himself in an action-packed\, non-stop race for survival as one fatefu
+ l\, horrifying night collapses around him in chaos.\nhttps://www.thetriple
+ x.org/movie/resident-evil\nFrom Pushpin Western Mass: https://pushpin.city
+ /westernma/
+URL:https://www.thetriplex.org/movie/resident-evil
+END:VEVENT
+BEGIN:VEVENT
+UID:37943eab3bb6481ecdc81d7879927d369f340897@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260921T234500Z
+DTEND:20260922T014500Z
+SUMMARY:Late Fame
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Q&A with director Kent Jones after the 7 pm screening on Septem
+ ber 11th.\nhttps://www.thetriplex.org/movie/late-fame\nFrom Pushpin Wester
+ n Mass: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/late-fame
+END:VEVENT
+BEGIN:VEVENT
+UID:6afc4c1ef06de1cd40d9ad77d6ef37ca341b9077@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260922T001500Z
+DTEND:20260922T021500Z
+SUMMARY:It Ends
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:A group of recent grads head out on a late night drive for grub
+ \, hoping to enjoy one final hangout before their paths diverge. Instead\,
+  they accidentally turn onto a never-ending\, two-lane hellscape surrounde
+ d by untold horrors and cosmic forces beyond their understanding. Cramped 
+ together inside a Jeep Cherokee and with the miles stretching infinitely a
+ head\, they face a choice: embrace their new existence or fight to escape 
+ it.\nhttps://www.thetriplex.org/movie/it-ends\nFrom Pushpin Western Mass: 
+ https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/it-ends
+END:VEVENT
+BEGIN:VEVENT
+UID:d3ab9c6e41ab0e8991d79c411bac344ad8a980f0@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260922T174500Z
+DTEND:20260922T194500Z
+SUMMARY:The Marching Band
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:A world-famous orchestra conductor discovers the brother he nev
+ er knew he had—a school cafeteria worker who plays trombone in a local m
+ arching band. Detecting his brother's exceptional musical talent\, he take
+ s it upon himself to rectify the injustice of fate.\nhttps://amherstcinema
+ .org/films-and-events/marching-band\nFrom Pushpin Western Mass: https://pu
+ shpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/marching-band
+END:VEVENT
+BEGIN:VEVENT
+UID:365e97024a9205096acc136df9f1f261939dcdfe@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260922T175500Z
+DTEND:20260922T195500Z
+SUMMARY:The Weight
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 1:55pm\, 4:35pm\, 7:15pm\, 9:35pm\nWhen Samuel (Ethan Ha
+ wke) is torn from his daughter and sent to a brutal prison\, Warden Clancy
+  (Russell Crowe) offers him a high-stakes proposition: smuggle gold out of
+  a remote mine with a dangerous crew of prisoners and he’ll win his free
+ dom.\nhttps://amherstcinema.org/films-and-events/weight\nFrom Pushpin West
+ ern Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/weight
+END:VEVENT
+BEGIN:VEVENT
+UID:b6e34d723161c121074a2b520d573223e69e4d5b@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260922T180500Z
+DTEND:20260922T200500Z
+SUMMARY:Bernstein's Wall
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 2:05pm\, 7:25pm\, 9:45pm\nThe legendary maestro Leonard 
+ Bernstein—celebrity conductor\, composer\, and political activist—is t
+ hrillingly captured in this archival documentary portrait by Douglas Tirol
+ a (DRUNK STONED BRILLIANT DEAD).\nhttps://amherstcinema.org/films-and-even
+ ts/bernsteins-wall\nFrom Pushpin Western Mass: https://pushpin.city/wester
+ nma/
+URL:https://amherstcinema.org/films-and-events/bernsteins-wall
+END:VEVENT
+BEGIN:VEVENT
+UID:e4996e5407a6e1adaa0c85ea25900947d61a30bf@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260922T200000Z
+DTEND:20260922T220000Z
+SUMMARY:Beget w/filmmaker John Tedeschi
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Director John Tedeschi and cast members will attend in-person d
+ iscussions and audience question-and-answer sessions at Images Cinema. The
+  Continental Shoemakers proudly announce three screenings of the award win
+ ning feature dramedy BEGET. Discussions and Q&A's with Director\, John Ted
+ eschi\, will follow the film on Friday\, September 18th @ 6:30pm\, Tuesday
+ \, September 22nd @ 4:00pm\, and Thursday\, September 24th @ 6:30pm.\nhttp
+ s://www.imagescinema.org/movie/beget-wfilmmaker-john-tedeshi\nFrom Pushpin
+  Western Mass: https://pushpin.city/westernma/
+URL:https://www.imagescinema.org/movie/beget-wfilmmaker-john-tedeshi
+END:VEVENT
+BEGIN:VEVENT
+UID:abc77cf7ca094b9cd99921aa8839fdeb9ce98c29@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260922T201500Z
+DTEND:20260922T221500Z
+SUMMARY:Resident Evil
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Times: 4:15pm\, 6:45pm\, 9:30pm\nBryan\, a medical courier\, is
+  in the process of making a delivery when a sudden outbreak occurs\, forci
+ ng him to fight for survival.\nhttps://www.imagescinema.org/movie/resident
+ -evil\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.imagescinema.org/movie/resident-evil
+END:VEVENT
+BEGIN:VEVENT
+UID:2677b2ac11db69267c9cbf65f3787b575cea6baf@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260922T202000Z
+DTEND:20260922T222000Z
+SUMMARY:The Cycle of Love
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:In 1977\, PK\, a 23-year-old Delhi street artist from a poor\, 
+ ‘untouchable’ family\, picked up a handful of paintbrushes and a secon
+ d-hand bicycle and set off on a 6000-mile cross-continent mission—to fin
+ d Lotta\, the woman who had captured his heart.\nhttps://amherstcinema.org
+ /films-and-events/cycle-love\nFrom Pushpin Western Mass: https://pushpin.c
+ ity/westernma/
+URL:https://amherstcinema.org/films-and-events/cycle-love
+END:VEVENT
+BEGIN:VEVENT
+UID:7aff71cf1671f04682aa0853e8ad195c86fdd12f@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260922T203000Z
+DTEND:20260922T223000Z
+SUMMARY:Practical Magic 2
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 4:30pm\, 7:30pm\nThe Owens sisters must confront the dar
+ k curse that threatens to unravel their family once and for all.\nhttps://
+ www.thetriplex.org/movie/practical-magic-2\nFrom Pushpin Western Mass: htt
+ ps://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/practical-magic-2
+END:VEVENT
+BEGIN:VEVENT
+UID:83bf2a6bec02070084b4ac0c22be3abeb0d58365@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260922T204500Z
+DTEND:20260922T224500Z
+SUMMARY:Late Fame
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Q&A with director Kent Jones after the 7 pm screening on Septem
+ ber 11th.\nhttps://www.thetriplex.org/movie/late-fame\nFrom Pushpin Wester
+ n Mass: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/late-fame
+END:VEVENT
+BEGIN:VEVENT
+UID:a24e6f325b52167799f72154128db76570695df7@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260922T204500Z
+DTEND:20260922T224500Z
+SUMMARY:Teenage Sex and Death at Camp Miasma
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 4:45pm\, 9:50pm\nAfter years of slapdash sequels and wan
+ ing fandom\, the Camp Miasma slasher franchise is handed over to an enthus
+ iastic young director for resurrection.\nhttps://amherstcinema.org/films-a
+ nd-events/camp-miasma\nFrom Pushpin Western Mass: https://pushpin.city/wes
+ ternma/
+URL:https://amherstcinema.org/films-and-events/camp-miasma
+END:VEVENT
+BEGIN:VEVENT
+UID:dc7bf13426dfc1bca4d184d34e888536c480e156@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260922T211500Z
+DTEND:20260922T231500Z
+SUMMARY:The Marching Band
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:A world-famous orchestra conductor discovers the brother he nev
+ er knew he had — a school cafeteria worker who plays trombone in a local
+  marching band. Detecting his brother's exceptional musical talent\, he ta
+ kes it upon himself to rectify the injustice of fate.\nhttps://www.thetrip
+ lex.org/movie/the-marching-band\nFrom Pushpin Western Mass: https://pushpi
+ n.city/westernma/
+URL:https://www.thetriplex.org/movie/the-marching-band
+END:VEVENT
+BEGIN:VEVENT
+UID:0bfe690e00ab0e44cc22350699520103bbe185c1@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260922T213000Z
+DTEND:20260922T233000Z
+SUMMARY:Resident Evil
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 5:30pm\, 8pm\nBryan\, a medical courier\, unwittingly fi
+ nds himself in an action-packed\, non-stop race for survival as one fatefu
+ l\, horrifying night collapses around him in chaos.\nhttps://www.thetriple
+ x.org/movie/resident-evil\nFrom Pushpin Western Mass: https://pushpin.city
+ /westernma/
+URL:https://www.thetriplex.org/movie/resident-evil
+END:VEVENT
+BEGIN:VEVENT
+UID:e774113a4a5a7849a2a837b844aaf15b55ecf5bb@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260922T230000Z
+DTEND:20260923T010000Z
+SUMMARY:CatVideoFest 2026
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Oscilloscope Laboratories presents CatVideoFest 2026\, a compil
+ ation of the latest and best cat videos culled from countless hours of uni
+ que submissions and sourced animations\, music videos\, and classic intern
+ et powerhouses.\nhttps://amherstcinema.org/films-and-events/catvideofest-2
+ 026\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/catvideofest-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:0b71ac1abaffdbb562e6cb39109c0ae586df2ee2@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260922T230000Z
+DTEND:20260923T010000Z
+SUMMARY:Time and Water
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:As we missed our regularly scheduled festival in April\, we're 
+ presenting a series of one-off screenings of environmental films with conv
+ ersations throughout the year called EMFF Presents. This series is present
+ ed with the generous support of the Cultural Council of Northern Berkshire
+ \, with additional co-presenting support from the Zilkha Center for the En
+ vironment.\nhttps://www.imagescinema.org/movie/time-and-water\nFrom Pushpi
+ n Western Mass: https://pushpin.city/westernma/
+URL:https://www.imagescinema.org/movie/time-and-water
+END:VEVENT
+BEGIN:VEVENT
+UID:0c05e10b22ad50ac67044a2d8f64b792871f5035@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260922T234500Z
+DTEND:20260923T014500Z
+SUMMARY:Coyote vs Acme
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:After Acme products fail him one too many times in his dogged p
+ ursuit of the Roadrunner\, Wile E. Coyote decides to hire a billboard lawy
+ er to sue the Acme Corporation.\nhttps://www.thetriplex.org/movie/coyote-v
+ s-acme\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/coyote-vs-acme
+END:VEVENT
+BEGIN:VEVENT
+UID:dfbd6ffb6df218dd95be8df325f2f9758c3f169b@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260923T001500Z
+DTEND:20260923T021500Z
+SUMMARY:It Ends
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:A group of recent grads head out on a late night drive for grub
+ \, hoping to enjoy one final hangout before their paths diverge. Instead\,
+  they accidentally turn onto a never-ending\, two-lane hellscape surrounde
+ d by untold horrors and cosmic forces beyond their understanding. Cramped 
+ together inside a Jeep Cherokee and with the miles stretching infinitely a
+ head\, they face a choice: embrace their new existence or fight to escape 
+ it.\nhttps://www.thetriplex.org/movie/it-ends\nFrom Pushpin Western Mass: 
+ https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/it-ends
+END:VEVENT
+BEGIN:VEVENT
+UID:622418f7892ea7a35e3684a0b13220c08fe67cb4@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260923T011500Z
+DTEND:20260923T031500Z
+SUMMARY:Shaun the Sheep: The Beast of Mossy Bottom
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:On Halloween Eve at Mossy Bottom Farm\, excitement turns to dis
+ may when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it 
+ with science experiments\, but things go wrong when a wild beast appears i
+ n the woods.\nhttps://www.imagescinema.org/movie/shaun-the-sheep-the-beast
+ -of-mossy-bottom\nFrom Pushpin Western Mass: https://pushpin.city/westernm
+ a/
+URL:https://www.imagescinema.org/movie/shaun-the-sheep-the-beast-of-mossy-b
+ ottom
+END:VEVENT
+BEGIN:VEVENT
+UID:b95d1f759b3bbea8f47967c3bf8ea5dbeaf82dd3@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260923T201500Z
+DTEND:20260923T221500Z
+SUMMARY:Resident Evil
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Times: 4:15pm\, 6:45pm\, 9:30pm\nBryan\, a medical courier\, is
+  in the process of making a delivery when a sudden outbreak occurs\, forci
+ ng him to fight for survival.\nhttps://www.imagescinema.org/movie/resident
+ -evil\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.imagescinema.org/movie/resident-evil
+END:VEVENT
+BEGIN:VEVENT
+UID:5ba6e0b55f02cf6f66fcce8741213e552cb493da@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260923T202000Z
+DTEND:20260923T222000Z
+SUMMARY:The Cycle of Love
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:In 1977\, PK\, a 23-year-old Delhi street artist from a poor\, 
+ ‘untouchable’ family\, picked up a handful of paintbrushes and a secon
+ d-hand bicycle and set off on a 6000-mile cross-continent mission—to fin
+ d Lotta\, the woman who had captured his heart.\nhttps://amherstcinema.org
+ /films-and-events/cycle-love\nFrom Pushpin Western Mass: https://pushpin.c
+ ity/westernma/
+URL:https://amherstcinema.org/films-and-events/cycle-love
+END:VEVENT
+BEGIN:VEVENT
+UID:ddf9503662f54f47c0c7248ee02ec64f73eafdf0@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260923T203000Z
+DTEND:20260923T223000Z
+SUMMARY:Practical Magic 2
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 4:30pm\, 7:30pm\nThe Owens sisters must confront the dar
+ k curse that threatens to unravel their family once and for all.\nhttps://
+ www.thetriplex.org/movie/practical-magic-2\nFrom Pushpin Western Mass: htt
+ ps://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/practical-magic-2
+END:VEVENT
+BEGIN:VEVENT
+UID:30313e98d954b881360f08d7761c705545fb4e36@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260923T203000Z
+DTEND:20260923T223000Z
+SUMMARY:Shaun the Sheep: The Beast of Mossy Bottom
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Times: 4:30pm\, 9:15pm\nOn Halloween Eve at Mossy Bottom Farm\,
+  excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch
+ . Shaun tries fixing it with science experiments\, but things go wrong whe
+ n a wild beast appears in the woods.\nhttps://www.imagescinema.org/movie/s
+ haun-the-sheep-the-beast-of-mossy-bottom\nFrom Pushpin Western Mass: https
+ ://pushpin.city/westernma/
+URL:https://www.imagescinema.org/movie/shaun-the-sheep-the-beast-of-mossy-b
+ ottom
+END:VEVENT
+BEGIN:VEVENT
+UID:002a1831afa2bdd685f89b1e13929a5e2ad55704@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260923T203500Z
+DTEND:20260923T223500Z
+SUMMARY:The Weight
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 4:35pm\, 7:15pm\nWhen Samuel (Ethan Hawke) is torn from 
+ his daughter and sent to a brutal prison\, Warden Clancy (Russell Crowe) o
+ ffers him a high-stakes proposition: smuggle gold out of a remote mine wit
+ h a dangerous crew of prisoners and he’ll win his freedom.\nhttps://amhe
+ rstcinema.org/films-and-events/weight\nFrom Pushpin Western Mass: https://
+ pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/weight
+END:VEVENT
+BEGIN:VEVENT
+UID:7798cdf787a2ab52d2c57acc74b44646c6dfba2a@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260923T204500Z
+DTEND:20260923T224500Z
+SUMMARY:Coyote vs Acme
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:After Acme products fail him one too many times in his dogged p
+ ursuit of the Roadrunner\, Wile E. Coyote decides to hire a billboard lawy
+ er to sue the Acme Corporation.\nhttps://www.thetriplex.org/movie/coyote-v
+ s-acme\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/coyote-vs-acme
+END:VEVENT
+BEGIN:VEVENT
+UID:4a1edd4176346599057bf80ba67a92c404e4d312@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260923T204500Z
+DTEND:20260923T224500Z
+SUMMARY:Teenage Sex and Death at Camp Miasma
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 4:45pm\, 7pm\nAfter years of slapdash sequels and waning
+  fandom\, the Camp Miasma slasher franchise is handed over to an enthusias
+ tic young director for resurrection.\nhttps://amherstcinema.org/films-and-
+ events/camp-miasma\nFrom Pushpin Western Mass: https://pushpin.city/wester
+ nma/
+URL:https://amherstcinema.org/films-and-events/camp-miasma
+END:VEVENT
+BEGIN:VEVENT
+UID:b1bcbcf6080e4ab28aa0af5e1f8f481462c3b2c8@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260923T211500Z
+DTEND:20260923T231500Z
+SUMMARY:The Marching Band
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:A world-famous orchestra conductor discovers the brother he nev
+ er knew he had — a school cafeteria worker who plays trombone in a local
+  marching band. Detecting his brother's exceptional musical talent\, he ta
+ kes it upon himself to rectify the injustice of fate.\nhttps://www.thetrip
+ lex.org/movie/the-marching-band\nFrom Pushpin Western Mass: https://pushpi
+ n.city/westernma/
+URL:https://www.thetriplex.org/movie/the-marching-band
+END:VEVENT
+BEGIN:VEVENT
+UID:917b9c568d7653ededa73f308fa204adc03d562c@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260923T213000Z
+DTEND:20260923T233000Z
+SUMMARY:Resident Evil
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 5:30pm\, 8pm\nBryan\, a medical courier\, unwittingly fi
+ nds himself in an action-packed\, non-stop race for survival as one fatefu
+ l\, horrifying night collapses around him in chaos.\nhttps://www.thetriple
+ x.org/movie/resident-evil\nFrom Pushpin Western Mass: https://pushpin.city
+ /westernma/
+URL:https://www.thetriplex.org/movie/resident-evil
+END:VEVENT
+BEGIN:VEVENT
+UID:4c8cc05056415a22c80f33c4753f488750b69279@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260923T230000Z
+DTEND:20260924T010000Z
+SUMMARY:Steal This Story\, Please!
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Presented as part of Civic Cinema\, our biennial series on demo
+ cracy and civic engagement. This year's films focus on journalism/freedom 
+ of the press\, as well as stories of collective action. Each screening wil
+ l be paired with a talk with local leaders\, community organizers\, and ac
+ ademics.\nhttps://www.imagescinema.org/movie/steal-this-story-please\nFrom
+  Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.imagescinema.org/movie/steal-this-story-please
+END:VEVENT
+BEGIN:VEVENT
+UID:b13420fc59c58816c1cc5d29cd14ba5554bc863c@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260923T232500Z
+DTEND:20260924T012500Z
+SUMMARY:Bernstein's Wall
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:The legendary maestro Leonard Bernstein—celebrity conductor\,
+  composer\, and political activist—is thrillingly captured in this archi
+ val documentary portrait by Douglas Tirola (DRUNK STONED BRILLIANT DEAD).\
+ nhttps://amherstcinema.org/films-and-events/bernsteins-wall\nFrom Pushpin 
+ Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/bernsteins-wall
+END:VEVENT
+BEGIN:VEVENT
+UID:7bbff09af087a3a423635a340300e203ab7c0f91@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260923T234500Z
+DTEND:20260924T014500Z
+SUMMARY:Late Fame
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Q&A with director Kent Jones after the 7 pm screening on Septem
+ ber 11th.\nhttps://www.thetriplex.org/movie/late-fame\nFrom Pushpin Wester
+ n Mass: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/late-fame
+END:VEVENT
+BEGIN:VEVENT
+UID:bd9913e4209a407789703cf760e7bc632ff09dc5@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260924T001500Z
+DTEND:20260924T021500Z
+SUMMARY:It Ends
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:A group of recent grads head out on a late night drive for grub
+ \, hoping to enjoy one final hangout before their paths diverge. Instead\,
+  they accidentally turn onto a never-ending\, two-lane hellscape surrounde
+ d by untold horrors and cosmic forces beyond their understanding. Cramped 
+ together inside a Jeep Cherokee and with the miles stretching infinitely a
+ head\, they face a choice: embrace their new existence or fight to escape 
+ it.\nhttps://www.thetriplex.org/movie/it-ends\nFrom Pushpin Western Mass: 
+ https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/it-ends
+END:VEVENT
+BEGIN:VEVENT
+UID:014d50e475c9d181cac9438449eeb1049204c162@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260924T170000Z
+DTEND:20260924T190000Z
+SUMMARY:Resident Evil
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 1pm\, 3:15pm\, 5:30pm\, 8pm\nBryan\, a medical courier\,
+  unwittingly finds himself in an action-packed\, non-stop race for surviva
+ l as one fateful\, horrifying night collapses around him in chaos.\nhttps:
+ //www.thetriplex.org/movie/resident-evil\nFrom Pushpin Western Mass: https
+ ://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/resident-evil
+END:VEVENT
+BEGIN:VEVENT
+UID:740500195ce9013d408c3bd6b49b9ee1455ebd1d@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260924T173000Z
+DTEND:20260924T193000Z
+SUMMARY:Practical Magic 2
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 1:30pm\, 4:30pm\, 7:30pm\nThe Owens sisters must confron
+ t the dark curse that threatens to unravel their family once and for all.\
+ nhttps://www.thetriplex.org/movie/practical-magic-2\nFrom Pushpin Western 
+ Mass: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/practical-magic-2
+END:VEVENT
+BEGIN:VEVENT
+UID:6c4ee5ad82fa0c5bc7548e6c173cabcb5f04d7ec@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260924T174500Z
+DTEND:20260924T194500Z
+SUMMARY:Coyote vs Acme
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 1:45pm\, 7:45pm\nAfter Acme products fail him one too ma
+ ny times in his dogged pursuit of the Roadrunner\, Wile E. Coyote decides 
+ to hire a billboard lawyer to sue the Acme Corporation.\nhttps://www.thetr
+ iplex.org/movie/coyote-vs-acme\nFrom Pushpin Western Mass: https://pushpin
+ .city/westernma/
+URL:https://www.thetriplex.org/movie/coyote-vs-acme
+END:VEVENT
+BEGIN:VEVENT
+UID:53632ab58b09365ab5e14a444df0bac5d7f312f9@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260924T174500Z
+DTEND:20260924T194500Z
+SUMMARY:The Marching Band
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:A world-famous orchestra conductor discovers the brother he nev
+ er knew he had—a school cafeteria worker who plays trombone in a local m
+ arching band. Detecting his brother's exceptional musical talent\, he take
+ s it upon himself to rectify the injustice of fate.\nhttps://amherstcinema
+ .org/films-and-events/marching-band\nFrom Pushpin Western Mass: https://pu
+ shpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/marching-band
+END:VEVENT
+BEGIN:VEVENT
+UID:58794c3f53a700bd4f46f2bc236cac6d2f789238@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260924T175500Z
+DTEND:20260924T195500Z
+SUMMARY:The Weight
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 1:55pm\, 4:35pm\, 7:15pm\, 9:45pm\nWhen Samuel (Ethan Ha
+ wke) is torn from his daughter and sent to a brutal prison\, Warden Clancy
+  (Russell Crowe) offers him a high-stakes proposition: smuggle gold out of
+  a remote mine with a dangerous crew of prisoners and he’ll win his free
+ dom.\nhttps://amherstcinema.org/films-and-events/weight\nFrom Pushpin West
+ ern Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/weight
+END:VEVENT
+BEGIN:VEVENT
+UID:f2cd7c40cd5430bd53823b75e167862737dd905d@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260924T180000Z
+DTEND:20260924T200000Z
+SUMMARY:The Marching Band
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 2pm\, 5pm\nA world-famous orchestra conductor discovers 
+ the brother he never knew he had — a school cafeteria worker who plays t
+ rombone in a local marching band. Detecting his brother's exceptional musi
+ cal talent\, he takes it upon himself to rectify the injustice of fate.\nh
+ ttps://www.thetriplex.org/movie/the-marching-band\nFrom Pushpin Western Ma
+ ss: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/the-marching-band
+END:VEVENT
+BEGIN:VEVENT
+UID:e633164cf13338d9c2898fbab6ea212004a1e441@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260924T180500Z
+DTEND:20260924T200500Z
+SUMMARY:Bernstein's Wall
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 2:05pm\, 7:25pm\nThe legendary maestro Leonard Bernstein
+ —celebrity conductor\, composer\, and political activist—is thrillingl
+ y captured in this archival documentary portrait by Douglas Tirola (DRUNK 
+ STONED BRILLIANT DEAD).\nhttps://amherstcinema.org/films-and-events/bernst
+ eins-wall\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/bernsteins-wall
+END:VEVENT
+BEGIN:VEVENT
+UID:14b2f6552d019644ce9e095119c36bb74570b334@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260924T201500Z
+DTEND:20260924T221500Z
+SUMMARY:Resident Evil
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Times: 4:15pm\, 6:45pm\, 9:30pm\nBryan\, a medical courier\, is
+  in the process of making a delivery when a sudden outbreak occurs\, forci
+ ng him to fight for survival.\nhttps://www.imagescinema.org/movie/resident
+ -evil\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.imagescinema.org/movie/resident-evil
+END:VEVENT
+BEGIN:VEVENT
+UID:e997aa30c658eb94ac1841f6fc14679343ca7209@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260924T202000Z
+DTEND:20260924T222000Z
+SUMMARY:The Cycle of Love
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:In 1977\, PK\, a 23-year-old Delhi street artist from a poor\, 
+ ‘untouchable’ family\, picked up a handful of paintbrushes and a secon
+ d-hand bicycle and set off on a 6000-mile cross-continent mission—to fin
+ d Lotta\, the woman who had captured his heart.\nhttps://amherstcinema.org
+ /films-and-events/cycle-love\nFrom Pushpin Western Mass: https://pushpin.c
+ ity/westernma/
+URL:https://amherstcinema.org/films-and-events/cycle-love
+END:VEVENT
+BEGIN:VEVENT
+UID:20be30155929da4057ce123f89730fa2286d683f@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260924T203000Z
+DTEND:20260924T223000Z
+SUMMARY:Shaun the Sheep: The Beast of Mossy Bottom
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Times: 4:30pm\, 9:15pm\nOn Halloween Eve at Mossy Bottom Farm\,
+  excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch
+ . Shaun tries fixing it with science experiments\, but things go wrong whe
+ n a wild beast appears in the woods.\nhttps://www.imagescinema.org/movie/s
+ haun-the-sheep-the-beast-of-mossy-bottom\nFrom Pushpin Western Mass: https
+ ://pushpin.city/westernma/
+URL:https://www.imagescinema.org/movie/shaun-the-sheep-the-beast-of-mossy-b
+ ottom
+END:VEVENT
+BEGIN:VEVENT
+UID:118cd5297069fe748c52f16475055eea6019b22c@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260924T204500Z
+DTEND:20260924T224500Z
+SUMMARY:Late Fame
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Q&A with director Kent Jones after the 7 pm screening on Septem
+ ber 11th.\nhttps://www.thetriplex.org/movie/late-fame\nFrom Pushpin Wester
+ n Mass: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/late-fame
+END:VEVENT
+BEGIN:VEVENT
+UID:f1e65ac6b7a285f58be128ef566fd81622880531@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260924T204500Z
+DTEND:20260924T224500Z
+SUMMARY:Teenage Sex and Death at Camp Miasma
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 4:45pm\, 9:50pm\nAfter years of slapdash sequels and wan
+ ing fandom\, the Camp Miasma slasher franchise is handed over to an enthus
+ iastic young director for resurrection.\nhttps://amherstcinema.org/films-a
+ nd-events/camp-miasma\nFrom Pushpin Western Mass: https://pushpin.city/wes
+ ternma/
+URL:https://amherstcinema.org/films-and-events/camp-miasma
+END:VEVENT
+BEGIN:VEVENT
+UID:fd96fcb1ab64fb9f08ff07c39526ea7ff135c87f@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260924T223000Z
+DTEND:20260925T003000Z
+SUMMARY:Beget w/filmmaker John Tedeschi
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Director John Tedeschi and cast members will attend in-person d
+ iscussions and audience question-and-answer sessions at Images Cinema. The
+  Continental Shoemakers proudly announce three screenings of the award win
+ ning feature dramedy BEGET. Discussions and Q&A's with Director\, John Ted
+ eschi\, will follow the film on Friday\, September 18th @ 6:30pm\, Tuesday
+ \, September 22nd @ 4:00pm\, and Thursday\, September 24th @ 6:30pm.\nhttp
+ s://www.imagescinema.org/movie/beget-wfilmmaker-john-tedeshi\nFrom Pushpin
+  Western Mass: https://pushpin.city/westernma/
+URL:https://www.imagescinema.org/movie/beget-wfilmmaker-john-tedeshi
+END:VEVENT
+BEGIN:VEVENT
+UID:e00d81c8b5f36cb7c12184cb5de1911ec8d5f81e@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260924T230000Z
+DTEND:20260925T010000Z
+SUMMARY:NT Live: The Misanthrope
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:National Theatre Live\nGolden Globe winner Sandra Oh (Killing E
+ ve\, Grey's Anatomy) plays the title role in this razor-sharp reimagining 
+ of Molière’s classic dark comedy.\nhttps://amherstcinema.org/films-and-
+ events/nt-live-misanthrope\nFrom Pushpin Western Mass: https://pushpin.cit
+ y/westernma/
+URL:https://amherstcinema.org/films-and-events/nt-live-misanthrope
+END:VEVENT
+BEGIN:VEVENT
+UID:8e6524a67c7003beba903f6c20b39eedf3d50a0c@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260925T000000Z
+DTEND:20260925T020000Z
+SUMMARY:Karaoke Night
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Sing your heart out on First and Third Thursdays (and some extr
+ as) at the Lounge\, 8 to 10pm\, and as listed. No ticket needed. Bartender
+  is present April 16th - Student Veterans of Williams April 30th - Phil an
+ d Gwen May 7th - John Landoff May 14th - Lea and Sarah\nhttps://www.images
+ cinema.org/movie/karaoke-night\nFrom Pushpin Western Mass: https://pushpin
+ .city/westernma/
+URL:https://www.imagescinema.org/movie/karaoke-night
+END:VEVENT
+BEGIN:VEVENT
+UID:8bfd98f801827759eff85233ffac13f3a60b047e@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260925T001500Z
+DTEND:20260925T021500Z
+SUMMARY:It Ends
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:A group of recent grads head out on a late night drive for grub
+ \, hoping to enjoy one final hangout before their paths diverge. Instead\,
+  they accidentally turn onto a never-ending\, two-lane hellscape surrounde
+ d by untold horrors and cosmic forces beyond their understanding. Cramped 
+ together inside a Jeep Cherokee and with the miles stretching infinitely a
+ head\, they face a choice: embrace their new existence or fight to escape 
+ it.\nhttps://www.thetriplex.org/movie/it-ends\nFrom Pushpin Western Mass: 
+ https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/it-ends
+END:VEVENT
+BEGIN:VEVENT
+UID:2c3c091cc82c2f42604eda592df1362c3151c32b@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Ha-Chan\, Shake Your Booty!
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Opens Friday 9/25.\nhttps://amherstcinema.org/films-and-events/
+ ha-chan-shake-your-booty\nFrom Pushpin Western Mass: https://pushpin.city/
+ westernma/
+URL:https://amherstcinema.org/films-and-events/ha-chan-shake-your-booty
+END:VEVENT
+BEGIN:VEVENT
+UID:b3b87368b46df662c9cf2f0f89230bdfbb65546a@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260925T170000Z
+DTEND:20260925T190000Z
+SUMMARY:Resident Evil
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 1pm\, 3:15pm\, 5:30pm\, 7:45pm\nBryan\, a medical courie
+ r\, unwittingly finds himself in an action-packed\, non-stop race for surv
+ ival as one fateful\, horrifying night collapses around him in chaos.\nhtt
+ ps://www.thetriplex.org/movie/resident-evil\nFrom Pushpin Western Mass: ht
+ tps://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/resident-evil
+END:VEVENT
+BEGIN:VEVENT
+UID:924089ad9d57d2b8ea54a50f21fb499a6effaf24@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260925T171500Z
+DTEND:20260925T191500Z
+SUMMARY:Practical Magic 2
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 1:15pm\, 4:15pm\, 7:30pm\nThe Owens sisters must confron
+ t the dark curse that threatens to unravel their family once and for all.\
+ nhttps://www.thetriplex.org/movie/practical-magic-2\nFrom Pushpin Western 
+ Mass: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/practical-magic-2
+END:VEVENT
+BEGIN:VEVENT
+UID:dae160429582a7dcc145e14849c110cb5d013415@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260925T174500Z
+DTEND:20260925T194500Z
+SUMMARY:Forgotten Island
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 1:45pm\, 4:30pm\, 7:15pm\nWhile celebrating their last n
+ ight together\, high school graduates and best friends Jo and Raissa stumb
+ le upon a mysterious portal that transports them to the fantastical island
+  of Nakali. When they discover that the memories of their entire friendshi
+ p are the price for returning home\, Jo and Raissa will race to find a way
+  to leave the island before they forget each other forever.\nhttps://www.t
+ hetriplex.org/movie/forgotten-island\nFrom Pushpin Western Mass: https://p
+ ushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/forgotten-island
+END:VEVENT
+BEGIN:VEVENT
+UID:1b3d00bfe9c1d4ee9b97a5052289eb7b73686c81@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260925T203000Z
+DTEND:20260925T223000Z
+SUMMARY:The Girl Who Leapt Through Time (2006) (4K Remaster)
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Showings before 5pm presented in English Dub. Showings after 5p
+ m presented in Japanese with English Subtitles.\nhttps://www.imagescinema.
+ org/movie/the-girl-who-leapt-through-time-2006-4k-remaster\nFrom Pushpin W
+ estern Mass: https://pushpin.city/westernma/
+URL:https://www.imagescinema.org/movie/the-girl-who-leapt-through-time-2006
+ -4k-remaster
+END:VEVENT
+BEGIN:VEVENT
+UID:a0244c071b7f80f3bcd8f1922bca18304096b3d5@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260925T204500Z
+DTEND:20260925T224500Z
+SUMMARY:Resident Evil
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Times: 4:45pm\, 7:15pm\, 9:45pm\nBryan\, a medical courier\, is
+  in the process of making a delivery when a sudden outbreak occurs\, forci
+ ng him to fight for survival.\nhttps://www.imagescinema.org/movie/resident
+ -evil\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.imagescinema.org/movie/resident-evil
+END:VEVENT
+BEGIN:VEVENT
+UID:880af03dfb59ba613b62f7aaa4512f2a7a0c7a65@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260925T230000Z
+DTEND:20260926T010000Z
+SUMMARY:Summer Wars (2009) (4K Remaster)
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Showings before 5pm presented in English Dub. Showings after 5p
+ m presented in Japanese with English Subtitles.\nhttps://www.imagescinema.
+ org/movie/summer-wars-2009-4k-remaster\nFrom Pushpin Western Mass: https:/
+ /pushpin.city/westernma/
+URL:https://www.imagescinema.org/movie/summer-wars-2009-4k-remaster
+END:VEVENT
+BEGIN:VEVENT
+UID:b779750b14d112aff09233e93bc69892d240e72a@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260926T013000Z
+DTEND:20260926T033000Z
+SUMMARY:Scarlet
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Showings before 5pm presented in English Dub. Showings after 5p
+ m presented in Japanese with English Subtitles.\nhttps://www.imagescinema.
+ org/movie/scarlet-\nFrom Pushpin Western Mass: https://pushpin.city/wester
+ nma/
+URL:https://www.imagescinema.org/movie/scarlet-
+END:VEVENT
+BEGIN:VEVENT
+UID:c5d2aebe26c676a9800c4c4684115a913a53cf61@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260926T014500Z
+DTEND:20260926T034500Z
+SUMMARY:We're All Going to the World's Fair
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Late Nights\nLate on a cold night somewhere in the US\, teenage
+  Casey sits alone in her attic bedroom\, scrolling the Internet under the 
+ glow-in-the-dark stars and black-light posters that blanket the ceiling. S
+ he has finally decided to take the World’s Fair Challenge\, an online ro
+ le-playing horror game\, and embrace the uncertainty it promises. After th
+ e initiation\, she documents the changes that may or may not be happening 
+ to her\, adding her experiences to the shuffle of online clips available f
+ or the world to see.\nhttps://amherstcinema.org/films-and-events/were-all-
+ going-worlds-fair\nFrom Pushpin Western Mass: https://pushpin.city/western
+ ma/
+URL:https://amherstcinema.org/films-and-events/were-all-going-worlds-fair
+END:VEVENT
+BEGIN:VEVENT
+UID:37f4fdc31adb71f46acb5f00cb89756674a907d6@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260926T151500Z
+DTEND:20260926T171500Z
+SUMMARY:Wolf Children (2012) (4K Remaster)
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Showings before 5pm presented in English Dub. Showings after 5p
+ m presented in Japanese with English Subtitles.\nhttps://www.imagescinema.
+ org/movie/wolf-children-2012-4k-remaster\nFrom Pushpin Western Mass: https
+ ://pushpin.city/westernma/
+URL:https://www.imagescinema.org/movie/wolf-children-2012-4k-remaster
+END:VEVENT
+BEGIN:VEVENT
+UID:873765ed27681af571aa313f7574575cd905c0c9@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260926T153000Z
+DTEND:20260926T173000Z
+SUMMARY:Resident Evil
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Times: 11:30am\, 2pm\, 4:45pm\, 7:15pm\, 9:45pm\nBryan\, a medi
+ cal courier\, is in the process of making a delivery when a sudden outbrea
+ k occurs\, forcing him to fight for survival.\nhttps://www.imagescinema.or
+ g/movie/resident-evil\nFrom Pushpin Western Mass: https://pushpin.city/wes
+ ternma/
+URL:https://www.imagescinema.org/movie/resident-evil
+END:VEVENT
+BEGIN:VEVENT
+UID:2f2f5edab5582d92c5a97c0ea2a8509b8918f108@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260926T170000Z
+DTEND:20260926T190000Z
+SUMMARY:Resident Evil
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 1pm\, 3:15pm\, 5:30pm\, 7:45pm\nBryan\, a medical courie
+ r\, unwittingly finds himself in an action-packed\, non-stop race for surv
+ ival as one fateful\, horrifying night collapses around him in chaos.\nhtt
+ ps://www.thetriplex.org/movie/resident-evil\nFrom Pushpin Western Mass: ht
+ tps://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/resident-evil
+END:VEVENT
+BEGIN:VEVENT
+UID:50342e130959593d91654cad631366ddeb2dbe24@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260926T171500Z
+DTEND:20260926T191500Z
+SUMMARY:Practical Magic 2
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 1:15pm\, 4:15pm\, 7:30pm\nThe Owens sisters must confron
+ t the dark curse that threatens to unravel their family once and for all.\
+ nhttps://www.thetriplex.org/movie/practical-magic-2\nFrom Pushpin Western 
+ Mass: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/practical-magic-2
+END:VEVENT
+BEGIN:VEVENT
+UID:a36a9156db9588dbfb0f8703af87c33fa84778fe@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260926T173000Z
+DTEND:20260926T193000Z
+SUMMARY:James McNeill Whistler
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Exhibition On Screen\nIn an era of great change and great beaut
+ y emerged the character of James McNeill Whistler. Considered by some to b
+ e one of the great innovators of 19th century art\, he was a contemporary 
+ of the Impressionists\, much admired by Van Gogh and Manet. Boldly experim
+ ental and famously witty\, Whistler disrupted the strict conventions of Vi
+ ctorian society in pursuit of a new cult of beauty\, creating “art for a
+ rt’s sake” and earning himself a place in the history of great art. He
+  found a parallel between painting and music\, and entitled many of his pa
+ intings “arrangements\,” “harmonies\,” and “nocturnes\,” empha
+ sizing the importance of tonal harmony in his work.\nhttps://amherstcinema
+ .org/films-and-events/whistler\nFrom Pushpin Western Mass: https://pushpin
+ .city/westernma/
+URL:https://amherstcinema.org/films-and-events/whistler
+END:VEVENT
+BEGIN:VEVENT
+UID:254e087a890910454c1bcf6e876712d61d72d4f7@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260926T174500Z
+DTEND:20260926T194500Z
+SUMMARY:Belle (2021)
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Showings before 5pm presented in English Dub. Showings after 5p
+ m presented in Japanese with English Subtitles.\nhttps://www.imagescinema.
+ org/movie/belle-2021\nFrom Pushpin Western Mass: https://pushpin.city/west
+ ernma/
+URL:https://www.imagescinema.org/movie/belle-2021
+END:VEVENT
+BEGIN:VEVENT
+UID:d311fee350c09f0b08c1d2ee982254817e495070@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260926T174500Z
+DTEND:20260926T194500Z
+SUMMARY:Forgotten Island
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 1:45pm\, 4:30pm\, 7:15pm\nWhile celebrating their last n
+ ight together\, high school graduates and best friends Jo and Raissa stumb
+ le upon a mysterious portal that transports them to the fantastical island
+  of Nakali. When they discover that the memories of their entire friendshi
+ p are the price for returning home\, Jo and Raissa will race to find a way
+  to leave the island before they forget each other forever.\nhttps://www.t
+ hetriplex.org/movie/forgotten-island\nFrom Pushpin Western Mass: https://p
+ ushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/forgotten-island
+END:VEVENT
+BEGIN:VEVENT
+UID:07e88e7007ff6d84112f1e8d23e88701dd2aaddd@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260926T203000Z
+DTEND:20260926T223000Z
+SUMMARY:Scarlet
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Showings before 5pm presented in English Dub. Showings after 5p
+ m presented in Japanese with English Subtitles.\nhttps://www.imagescinema.
+ org/movie/scarlet-\nFrom Pushpin Western Mass: https://pushpin.city/wester
+ nma/
+URL:https://www.imagescinema.org/movie/scarlet-
+END:VEVENT
+BEGIN:VEVENT
+UID:b79cb3eefa6d6f6888345979b6f30caab6c9f1b0@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260926T230000Z
+DTEND:20260927T010000Z
+SUMMARY:The Girl Who Leapt Through Time (2006) (4K Remaster)
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Showings before 5pm presented in English Dub. Showings after 5p
+ m presented in Japanese with English Subtitles.\nhttps://www.imagescinema.
+ org/movie/the-girl-who-leapt-through-time-2006-4k-remaster\nFrom Pushpin W
+ estern Mass: https://pushpin.city/westernma/
+URL:https://www.imagescinema.org/movie/the-girl-who-leapt-through-time-2006
+ -4k-remaster
+END:VEVENT
+BEGIN:VEVENT
+UID:7d09e838bf6e58d31a5cdb19c02564de53f39b71@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260927T013000Z
+DTEND:20260927T033000Z
+SUMMARY:Summer Wars (2009) (4K Remaster)
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Showings before 5pm presented in English Dub. Showings after 5p
+ m presented in Japanese with English Subtitles.\nhttps://www.imagescinema.
+ org/movie/summer-wars-2009-4k-remaster\nFrom Pushpin Western Mass: https:/
+ /pushpin.city/westernma/
+URL:https://www.imagescinema.org/movie/summer-wars-2009-4k-remaster
+END:VEVENT
+BEGIN:VEVENT
+UID:21b557abc92f482fdc3055411f71bb791ca23af3@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260927T153000Z
+DTEND:20260927T173000Z
+SUMMARY:Mirai (2018)
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Showings before 5pm presented in English Dub. Showings after 5p
+ m presented in Japanese with English Subtitles.\nhttps://www.imagescinema.
+ org/movie/mirai-2018\nFrom Pushpin Western Mass: https://pushpin.city/west
+ ernma/
+URL:https://www.imagescinema.org/movie/mirai-2018
+END:VEVENT
+BEGIN:VEVENT
+UID:a02735bcb6f70fab801e62338639ae346cfb7c81@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260927T154500Z
+DTEND:20260927T174500Z
+SUMMARY:Resident Evil
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Times: 11:45am\, 2:15pm\, 4:45pm\, 7:15pm\nBryan\, a medical co
+ urier\, is in the process of making a delivery when a sudden outbreak occu
+ rs\, forcing him to fight for survival.\nhttps://www.imagescinema.org/movi
+ e/resident-evil\nFrom Pushpin Western Mass: https://pushpin.city/westernma
+ /
+URL:https://www.imagescinema.org/movie/resident-evil
+END:VEVENT
+BEGIN:VEVENT
+UID:af7fbc3750a67215560c042da1d4d99de23c7767@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260927T170000Z
+DTEND:20260927T190000Z
+SUMMARY:Resident Evil
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 1pm\, 3:15pm\, 7:45pm\nBryan\, a medical courier\, unwit
+ tingly finds himself in an action-packed\, non-stop race for survival as o
+ ne fateful\, horrifying night collapses around him in chaos.\nhttps://www.
+ thetriplex.org/movie/resident-evil\nFrom Pushpin Western Mass: https://pus
+ hpin.city/westernma/
+URL:https://www.thetriplex.org/movie/resident-evil
+END:VEVENT
+BEGIN:VEVENT
+UID:f0b4b3f557218fc68e3d8a53f6e2a0d3d5768f2d@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260927T171500Z
+DTEND:20260927T191500Z
+SUMMARY:Practical Magic 2
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 1:15pm\, 4:15pm\, 7:30pm\nThe Owens sisters must confron
+ t the dark curse that threatens to unravel their family once and for all.\
+ nhttps://www.thetriplex.org/movie/practical-magic-2\nFrom Pushpin Western 
+ Mass: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/practical-magic-2
+END:VEVENT
+BEGIN:VEVENT
+UID:2ac8d365f24ac95cc85db58f262085d5c88a4946@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260927T173000Z
+DTEND:20260927T193000Z
+SUMMARY:I Shot Andy Warhol
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Restorations & Rediscoveries\nNew 4K restoration.\nhttps://amhe
+ rstcinema.org/films-and-events/i-shot-andy-warhol\nFrom Pushpin Western Ma
+ ss: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/i-shot-andy-warhol
+END:VEVENT
+BEGIN:VEVENT
+UID:0d74d6bf3c957d5fa319d895b6ee3eef9fd206bc@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260927T174500Z
+DTEND:20260927T194500Z
+SUMMARY:Forgotten Island
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 1:45pm\, 4:30pm\, 7:15pm\nWhile celebrating their last n
+ ight together\, high school graduates and best friends Jo and Raissa stumb
+ le upon a mysterious portal that transports them to the fantastical island
+  of Nakali. When they discover that the memories of their entire friendshi
+ p are the price for returning home\, Jo and Raissa will race to find a way
+  to leave the island before they forget each other forever.\nhttps://www.t
+ hetriplex.org/movie/forgotten-island\nFrom Pushpin Western Mass: https://p
+ ushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/forgotten-island
+END:VEVENT
+BEGIN:VEVENT
+UID:609317db190e7a20578398bb83435a4079771652@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260927T180000Z
+DTEND:20260927T200000Z
+SUMMARY:Wolf Children (2012) (4K Remaster)
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Times: 2pm\, 7pm\nShowings before 5pm presented in English Dub.
+  Showings after 5pm presented in Japanese with English Subtitles.\nhttps:/
+ /www.imagescinema.org/movie/wolf-children-2012-4k-remaster\nFrom Pushpin W
+ estern Mass: https://pushpin.city/westernma/
+URL:https://www.imagescinema.org/movie/wolf-children-2012-4k-remaster
+END:VEVENT
+BEGIN:VEVENT
+UID:7dd17584ae29b04a20b3bbb73b8890bfeccca23d@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260927T190000Z
+DTEND:20260927T210000Z
+SUMMARY:Mr Smith Goes to Washington
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:A stoic rebuke to the political corruption of the early 20th ce
+ ntury\, what does Mr Smith Goes to Washington to say about our current pol
+ itical climate?\nhttps://www.thetriplex.org/movie/mr-smith-goes-to-washing
+ ton\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/mr-smith-goes-to-washington
+END:VEVENT
+BEGIN:VEVENT
+UID:7b15a7ddd43d92163ed4a117b4b6157534f78aa0@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260927T203000Z
+DTEND:20260927T223000Z
+SUMMARY:Summer Wars (2009) (4K Remaster)
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Showings before 5pm presented in English Dub. Showings after 5p
+ m presented in Japanese with English Subtitles.\nhttps://www.imagescinema.
+ org/movie/summer-wars-2009-4k-remaster\nFrom Pushpin Western Mass: https:/
+ /pushpin.city/westernma/
+URL:https://www.imagescinema.org/movie/summer-wars-2009-4k-remaster
+END:VEVENT
+BEGIN:VEVENT
+UID:4a578e36e2e6bc77178691e0d18bf990452f2e68@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260928T193000Z
+DTEND:20260928T213000Z
+SUMMARY:Resident Evil
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 3:30pm\, 5:45pm\, 8pm\nBryan\, a medical courier\, unwit
+ tingly finds himself in an action-packed\, non-stop race for survival as o
+ ne fateful\, horrifying night collapses around him in chaos.\nhttps://www.
+ thetriplex.org/movie/resident-evil\nFrom Pushpin Western Mass: https://pus
+ hpin.city/westernma/
+URL:https://www.thetriplex.org/movie/resident-evil
+END:VEVENT
+BEGIN:VEVENT
+UID:0aa1d0d82999fb3e74230e0fe61098c1346e69d9@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260928T201500Z
+DTEND:20260928T221500Z
+SUMMARY:Forgotten Island
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 4:15pm\, 7:15pm\nWhile celebrating their last night toge
+ ther\, high school graduates and best friends Jo and Raissa stumble upon a
+  mysterious portal that transports them to the fantastical island of Nakal
+ i. When they discover that the memories of their entire friendship are the
+  price for returning home\, Jo and Raissa will race to find a way to leave
+  the island before they forget each other forever.\nhttps://www.thetriplex
+ .org/movie/forgotten-island\nFrom Pushpin Western Mass: https://pushpin.ci
+ ty/westernma/
+URL:https://www.thetriplex.org/movie/forgotten-island
+END:VEVENT
+BEGIN:VEVENT
+UID:2586539f31238cec9d47e379cda8b1f6522fafec@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260928T203000Z
+DTEND:20260928T223000Z
+SUMMARY:Mirai (2018)
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Showings before 5pm presented in English Dub. Showings after 5p
+ m presented in Japanese with English Subtitles.\nhttps://www.imagescinema.
+ org/movie/mirai-2018\nFrom Pushpin Western Mass: https://pushpin.city/west
+ ernma/
+URL:https://www.imagescinema.org/movie/mirai-2018
+END:VEVENT
+BEGIN:VEVENT
+UID:222807f72b44a49ba5182a7d88da51354b3ec67e@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260928T203000Z
+DTEND:20260928T223000Z
+SUMMARY:Practical Magic 2
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 4:30pm\, 7:45pm\nThe Owens sisters must confront the dar
+ k curse that threatens to unravel their family once and for all.\nhttps://
+ www.thetriplex.org/movie/practical-magic-2\nFrom Pushpin Western Mass: htt
+ ps://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/practical-magic-2
+END:VEVENT
+BEGIN:VEVENT
+UID:a99db7cb6ade6f5dc04014f4f34388d89172bca7@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260928T204500Z
+DTEND:20260928T224500Z
+SUMMARY:Resident Evil
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Times: 4:45pm\, 7:15pm\nBryan\, a medical courier\, is in the p
+ rocess of making a delivery when a sudden outbreak occurs\, forcing him to
+  fight for survival.\nhttps://www.imagescinema.org/movie/resident-evil\nFr
+ om Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.imagescinema.org/movie/resident-evil
+END:VEVENT
+BEGIN:VEVENT
+UID:263f27585e5c4f6c887c84eb9011fc4de3f76b9e@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260928T210000Z
+DTEND:20260928T230000Z
+SUMMARY:I Love Boosters with Boots Riley
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 5pm\, 8:45pm\nCommunity Nights\nA crew of professional s
+ hoplifters take aim at a cutthroat fashion maven. It’s like community se
+ rvice. This raucous new social satire from the mind of Boots Riley (SORRY 
+ TO BOTHER YOU) stars Keke Palmer\, Naomi Ackie\, Taylour Paige\, LaKeith S
+ tanfield\, Poppy Liu\, Eiza González\, Will Poulter\, Don Cheadle\, and D
+ emi Moore.\nhttps://amherstcinema.org/films-and-events/i-love-boosters\nFr
+ om Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/i-love-boosters
+END:VEVENT
+BEGIN:VEVENT
+UID:bf33439b2acb48c0b61b01df9553a70efada8b1d@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260928T230000Z
+DTEND:20260929T010000Z
+SUMMARY:Cultural Collab
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:The Williamstown Cultural District and Images Lounge present Cu
+ ltural Collab\, a monthly artist meetup on the last Monday of each month\,
+  7 - 9pm. At each meetup three artists will briefly present their work\, f
+ ollowed by conversation and social time. Hosted by artist Julie Henderson.
+  Snacks will be provided\; drinks will be available for purchase. No ticke
+ t needed.\nhttps://www.imagescinema.org/movie/cultural-collab-2\nFrom Push
+ pin Western Mass: https://pushpin.city/westernma/
+URL:https://www.imagescinema.org/movie/cultural-collab-2
+END:VEVENT
+BEGIN:VEVENT
+UID:ed169cc6ffe5843f9d7ae7a5c4348c5cd7c4df44@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260928T230000Z
+DTEND:20260929T010000Z
+SUMMARY:The Boy and the Beast (2015) (4K Remaster)
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Showings before 5pm presented in English Dub. Showings after 5p
+ m presented in Japanese with English Subtitles.\nhttps://www.imagescinema.
+ org/movie/the-boy-and-the-beast-2015-4k-remaster\nFrom Pushpin Western Mas
+ s: https://pushpin.city/westernma/
+URL:https://www.imagescinema.org/movie/the-boy-and-the-beast-2015-4k-remast
+ er
+END:VEVENT
+BEGIN:VEVENT
+UID:b084e087a6ba11fa06304e7972ea0ef872535c74@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260929T193000Z
+DTEND:20260929T213000Z
+SUMMARY:Resident Evil
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 3:30pm\, 5:45pm\, 8pm\nBryan\, a medical courier\, unwit
+ tingly finds himself in an action-packed\, non-stop race for survival as o
+ ne fateful\, horrifying night collapses around him in chaos.\nhttps://www.
+ thetriplex.org/movie/resident-evil\nFrom Pushpin Western Mass: https://pus
+ hpin.city/westernma/
+URL:https://www.thetriplex.org/movie/resident-evil
+END:VEVENT
+BEGIN:VEVENT
+UID:cc604989931922774e98a40fcbc9c1ab10526aac@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260929T201500Z
+DTEND:20260929T221500Z
+SUMMARY:Belle (2021)
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Showings before 5pm presented in English Dub. Showings after 5p
+ m presented in Japanese with English Subtitles.\nhttps://www.imagescinema.
+ org/movie/belle-2021\nFrom Pushpin Western Mass: https://pushpin.city/west
+ ernma/
+URL:https://www.imagescinema.org/movie/belle-2021
+END:VEVENT
+BEGIN:VEVENT
+UID:b57c32cbb78fe65c2fb4d4b98124389566f7d13e@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260929T201500Z
+DTEND:20260929T221500Z
+SUMMARY:Forgotten Island
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 4:15pm\, 7:15pm\nWhile celebrating their last night toge
+ ther\, high school graduates and best friends Jo and Raissa stumble upon a
+  mysterious portal that transports them to the fantastical island of Nakal
+ i. When they discover that the memories of their entire friendship are the
+  price for returning home\, Jo and Raissa will race to find a way to leave
+  the island before they forget each other forever.\nhttps://www.thetriplex
+ .org/movie/forgotten-island\nFrom Pushpin Western Mass: https://pushpin.ci
+ ty/westernma/
+URL:https://www.thetriplex.org/movie/forgotten-island
+END:VEVENT
+BEGIN:VEVENT
+UID:a8ced87237ffabcd268680e139904fd6a462707b@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260929T203000Z
+DTEND:20260929T223000Z
+SUMMARY:Practical Magic 2
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 4:30pm\, 7:45pm\nThe Owens sisters must confront the dar
+ k curse that threatens to unravel their family once and for all.\nhttps://
+ www.thetriplex.org/movie/practical-magic-2\nFrom Pushpin Western Mass: htt
+ ps://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/practical-magic-2
+END:VEVENT
+BEGIN:VEVENT
+UID:8cb85ae1531ce7777cfda049bf7b4fac3658856a@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260929T203000Z
+DTEND:20260929T223000Z
+SUMMARY:Resident Evil
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Times: 4:30pm\, 7:15pm\, 9:45pm\nBryan\, a medical courier\, is
+  in the process of making a delivery when a sudden outbreak occurs\, forci
+ ng him to fight for survival.\nhttps://www.imagescinema.org/movie/resident
+ -evil\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.imagescinema.org/movie/resident-evil
+END:VEVENT
+BEGIN:VEVENT
+UID:9ac60082b95e96e0c3da86976dae83a08eaf0244@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260929T230000Z
+DTEND:20260930T010000Z
+SUMMARY:I Shot Andy Warhol
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Restorations & Rediscoveries\nNew 4K restoration.\nhttps://amhe
+ rstcinema.org/films-and-events/i-shot-andy-warhol\nFrom Pushpin Western Ma
+ ss: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/i-shot-andy-warhol
+END:VEVENT
+BEGIN:VEVENT
+UID:2dd6bcf7eea32d0143570db254e541e55015e514@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260929T230000Z
+DTEND:20260930T010000Z
+SUMMARY:Scarlet
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Showings before 5pm presented in English Dub. Showings after 5p
+ m presented in Japanese with English Subtitles.\nhttps://www.imagescinema.
+ org/movie/scarlet-\nFrom Pushpin Western Mass: https://pushpin.city/wester
+ nma/
+URL:https://www.imagescinema.org/movie/scarlet-
+END:VEVENT
+BEGIN:VEVENT
+UID:d7e16612c126b5c1ae9feae93756eb0b8199bab8@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260930T013000Z
+DTEND:20260930T033000Z
+SUMMARY:The Boy and the Beast (2015) (4K Remaster)
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Showings before 5pm presented in English Dub. Showings after 5p
+ m presented in Japanese with English Subtitles.\nhttps://www.imagescinema.
+ org/movie/the-boy-and-the-beast-2015-4k-remaster\nFrom Pushpin Western Mas
+ s: https://pushpin.city/westernma/
+URL:https://www.imagescinema.org/movie/the-boy-and-the-beast-2015-4k-remast
+ er
+END:VEVENT
+BEGIN:VEVENT
+UID:76163c41f2092a38b5dba44df5c8e5437a99feb2@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260930T193000Z
+DTEND:20260930T213000Z
+SUMMARY:Resident Evil
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 3:30pm\, 5:45pm\, 8pm\nBryan\, a medical courier\, unwit
+ tingly finds himself in an action-packed\, non-stop race for survival as o
+ ne fateful\, horrifying night collapses around him in chaos.\nhttps://www.
+ thetriplex.org/movie/resident-evil\nFrom Pushpin Western Mass: https://pus
+ hpin.city/westernma/
+URL:https://www.thetriplex.org/movie/resident-evil
+END:VEVENT
+BEGIN:VEVENT
+UID:d84641286277dd08e244d004528c3ff7d280ccd7@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260930T201500Z
+DTEND:20260930T221500Z
+SUMMARY:Forgotten Island
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 4:15pm\, 7:15pm\nWhile celebrating their last night toge
+ ther\, high school graduates and best friends Jo and Raissa stumble upon a
+  mysterious portal that transports them to the fantastical island of Nakal
+ i. When they discover that the memories of their entire friendship are the
+  price for returning home\, Jo and Raissa will race to find a way to leave
+  the island before they forget each other forever.\nhttps://www.thetriplex
+ .org/movie/forgotten-island\nFrom Pushpin Western Mass: https://pushpin.ci
+ ty/westernma/
+URL:https://www.thetriplex.org/movie/forgotten-island
+END:VEVENT
+BEGIN:VEVENT
+UID:9275af9acd97908065a662aa52940ffa9ccd5811@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260930T203000Z
+DTEND:20260930T223000Z
+SUMMARY:Practical Magic 2
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 4:30pm\, 7:45pm\nThe Owens sisters must confront the dar
+ k curse that threatens to unravel their family once and for all.\nhttps://
+ www.thetriplex.org/movie/practical-magic-2\nFrom Pushpin Western Mass: htt
+ ps://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/practical-magic-2
+END:VEVENT
+BEGIN:VEVENT
+UID:97b65eaf6058f364fab659628bd8d64f05d45e42@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260930T203000Z
+DTEND:20260930T223000Z
+SUMMARY:The Boy and the Beast (2015) (4K Remaster)
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Showings before 5pm presented in English Dub. Showings after 5p
+ m presented in Japanese with English Subtitles.\nhttps://www.imagescinema.
+ org/movie/the-boy-and-the-beast-2015-4k-remaster\nFrom Pushpin Western Mas
+ s: https://pushpin.city/westernma/
+URL:https://www.imagescinema.org/movie/the-boy-and-the-beast-2015-4k-remast
+ er
+END:VEVENT
+BEGIN:VEVENT
+UID:34edf4f3128a9cbd5d64be1326baa1ca4c9881ee@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260930T204500Z
+DTEND:20260930T224500Z
+SUMMARY:Resident Evil
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Times: 4:45pm\, 7:15pm\, 9:45pm\nBryan\, a medical courier\, is
+  in the process of making a delivery when a sudden outbreak occurs\, forci
+ ng him to fight for survival.\nhttps://www.imagescinema.org/movie/resident
+ -evil\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.imagescinema.org/movie/resident-evil
+END:VEVENT
+BEGIN:VEVENT
+UID:f3dcafc38f686066b1da54afcd4fc4ab8f674441@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260930T230000Z
+DTEND:20261001T010000Z
+SUMMARY:Seized
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Presented as part of Civic Cinema\, our biennial series on demo
+ cracy and civic engagement. This year's films focus on journalism/freedom 
+ of the press\, as well as stories of collective action. Each screening wil
+ l be paired with a talk with local leaders\, community organizers\, and ac
+ ademics.\nhttps://www.imagescinema.org/movie/seized-\nFrom Pushpin Western
+  Mass: https://pushpin.city/westernma/
+URL:https://www.imagescinema.org/movie/seized-
+END:VEVENT
+BEGIN:VEVENT
+UID:b7d8ee2e7b573e4948c020b006f20ca8da2afbeb@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20261001T013000Z
+DTEND:20261001T033000Z
+SUMMARY:The Girl Who Leapt Through Time (2006) (4K Remaster)
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Showings before 5pm presented in English Dub. Showings after 5p
+ m presented in Japanese with English Subtitles.\nhttps://www.imagescinema.
+ org/movie/the-girl-who-leapt-through-time-2006-4k-remaster\nFrom Pushpin W
+ estern Mass: https://pushpin.city/westernma/
+URL:https://www.imagescinema.org/movie/the-girl-who-leapt-through-time-2006
+ -4k-remaster
+END:VEVENT
+BEGIN:VEVENT
+UID:a310df7048d9feedf989e49dd77f3fd6d33f1110@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20261001T170000Z
+DTEND:20261001T190000Z
+SUMMARY:Resident Evil
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 1pm\, 3:15pm\, 5:30pm\, 7:45pm\nBryan\, a medical courie
+ r\, unwittingly finds himself in an action-packed\, non-stop race for surv
+ ival as one fateful\, horrifying night collapses around him in chaos.\nhtt
+ ps://www.thetriplex.org/movie/resident-evil\nFrom Pushpin Western Mass: ht
+ tps://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/resident-evil
+END:VEVENT
+BEGIN:VEVENT
+UID:acd5a215fb0bcf8597f15d59f6e60be578835ed3@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20261001T171500Z
+DTEND:20261001T191500Z
+SUMMARY:Practical Magic 2
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 1:15pm\, 4:15pm\, 7:30pm\nThe Owens sisters must confron
+ t the dark curse that threatens to unravel their family once and for all.\
+ nhttps://www.thetriplex.org/movie/practical-magic-2\nFrom Pushpin Western 
+ Mass: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/practical-magic-2
+END:VEVENT
+BEGIN:VEVENT
+UID:9dc872829b662d9e8ab9e1f88a58f3c822f5936d@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20261001T174500Z
+DTEND:20261001T194500Z
+SUMMARY:Forgotten Island
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 1:45pm\, 4:30pm\, 7:15pm\nWhile celebrating their last n
+ ight together\, high school graduates and best friends Jo and Raissa stumb
+ le upon a mysterious portal that transports them to the fantastical island
+  of Nakali. When they discover that the memories of their entire friendshi
+ p are the price for returning home\, Jo and Raissa will race to find a way
+  to leave the island before they forget each other forever.\nhttps://www.t
+ hetriplex.org/movie/forgotten-island\nFrom Pushpin Western Mass: https://p
+ ushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/forgotten-island
+END:VEVENT
+BEGIN:VEVENT
+UID:01f9d4bb4a1f8025de9c5b48df9570805c8612ea@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20261001T203000Z
+DTEND:20261001T223000Z
+SUMMARY:Mirai (2018)
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Showings before 5pm presented in English Dub. Showings after 5p
+ m presented in Japanese with English Subtitles.\nhttps://www.imagescinema.
+ org/movie/mirai-2018\nFrom Pushpin Western Mass: https://pushpin.city/west
+ ernma/
+URL:https://www.imagescinema.org/movie/mirai-2018
+END:VEVENT
+BEGIN:VEVENT
+UID:1d1f1e8e760df09ab1976c4ae223d2ce7bc72642@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20261001T204500Z
+DTEND:20261001T224500Z
+SUMMARY:Resident Evil
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Times: 4:45pm\, 7:15pm\, 9:45pm\nBryan\, a medical courier\, is
+  in the process of making a delivery when a sudden outbreak occurs\, forci
+ ng him to fight for survival.\nhttps://www.imagescinema.org/movie/resident
+ -evil\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.imagescinema.org/movie/resident-evil
+END:VEVENT
+BEGIN:VEVENT
+UID:5668b5ec4fb6861d26969a88c2b229ca7107b915@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20261001T230000Z
+DTEND:20261002T010000Z
+SUMMARY:Captain January (1924) w/Leslie McMichael
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:The adorable antics of Baby Peggy are showcased in the 1924 sil
+ ent film hit\, Captain January\, which plays at Images Cinema on Thursday\
+ , October 1 st at 7 pm. The restored silent movie will be accompanied live
+  by harpist-composer Leslie McMichael and her sister\, violist Barbara McM
+ ichael.\nhttps://www.imagescinema.org/movie/captain-january-1924-wleslie-h
+ arp\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.imagescinema.org/movie/captain-january-1924-wleslie-harp
+END:VEVENT
+BEGIN:VEVENT
+UID:2f13236a42c3a3f0e6b1c60920270a4e051b9fce@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20261002T000000Z
+DTEND:20261002T020000Z
+SUMMARY:Karaoke Night
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Sing your heart out on First and Third Thursdays (and some extr
+ as) at the Lounge\, 8 to 10pm\, and as listed. No ticket needed. Bartender
+  is present April 16th - Student Veterans of Williams April 30th - Phil an
+ d Gwen May 7th - John Landoff May 14th - Lea and Sarah\nhttps://www.images
+ cinema.org/movie/karaoke-night\nFrom Pushpin Western Mass: https://pushpin
+ .city/westernma/
+URL:https://www.imagescinema.org/movie/karaoke-night
+END:VEVENT
+BEGIN:VEVENT
+UID:933425000c2f4c47db32d95dddae87f4474014a9@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20261002T013000Z
+DTEND:20261002T033000Z
+SUMMARY:Summer Wars (2009) (4K Remaster)
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Showings before 5pm presented in English Dub. Showings after 5p
+ m presented in Japanese with English Subtitles.\nhttps://www.imagescinema.
+ org/movie/summer-wars-2009-4k-remaster\nFrom Pushpin Western Mass: https:/
+ /pushpin.city/westernma/
+URL:https://www.imagescinema.org/movie/summer-wars-2009-4k-remaster
+END:VEVENT
+BEGIN:VEVENT
+UID:4cb5f82cd0029e243aee5773efd35af9a3fc5a20@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20261003T013000Z
+DTEND:20261003T033000Z
+SUMMARY:Backrooms: Everything Must Go Edition
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Nightmare on Spring Street presents for October "Three by Gen Z
+ "\, top horror films from 2026 all made by directors under 30.\nhttps://ww
+ w.imagescinema.org/movie/backrooms-everything-must-go-edition\nFrom Pushpi
+ n Western Mass: https://pushpin.city/westernma/
+URL:https://www.imagescinema.org/movie/backrooms-everything-must-go-edition
+END:VEVENT
+BEGIN:VEVENT
+UID:938784d8bb939bff3d36a88580905f81177c9519@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20261003T014500Z
+DTEND:20261003T034500Z
+SUMMARY:Jennifer's Body
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Late Nights\nPlease note that passes cannot be redeemed for thi
+ s screening.\nhttps://amherstcinema.org/films-and-events/jennifers-body\nF
+ rom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/jennifers-body
+END:VEVENT
+BEGIN:VEVENT
+UID:07d9aaa0c8bab447f5579f2e7e57935b06fd7dfb@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20261003T163000Z
+DTEND:20261003T183000Z
+SUMMARY:NT Live: Hamlet (2026)
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:National Theatre Live\nOlivier Award-winner Hiran Abeysekera (L
+ ife of Pi) is Hamlet in this fearless\, contemporary take on Shakespeare
+ ’s famous tragedy.\nhttps://amherstcinema.org/films-and-events/nt-live-h
+ amlet-2026\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/nt-live-hamlet-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:7a586d088c4cc26e23b10c29dabfaef3a23fb84b@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20261003T230000Z
+DTEND:20261004T010000Z
+SUMMARY:The Incomer
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:On an Orkney isle\, siblings Isla and Sandy survive by hunting 
+ seabirds\, retelling the stories of their ancestors\, and defending the is
+ le from dreaded "Incomers". Their world is upended with the arrival of an 
+ awkward council worker who has come to uproot them from their homeland.\nh
+ ttps://www.thetriplex.org/movie/the-incomer\nFrom Pushpin Western Mass: ht
+ tps://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/the-incomer
+END:VEVENT
+BEGIN:VEVENT
+UID:a3c0d7f8ea0574d3cea3eea4c29afb41bb120c99@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20261004T013000Z
+DTEND:20261004T033000Z
+SUMMARY:Backrooms: Everything Must Go Edition
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Nightmare on Spring Street presents for October "Three by Gen Z
+ "\, top horror films from 2026 all made by directors under 30.\nhttps://ww
+ w.imagescinema.org/movie/backrooms-everything-must-go-edition\nFrom Pushpi
+ n Western Mass: https://pushpin.city/westernma/
+URL:https://www.imagescinema.org/movie/backrooms-everything-must-go-edition
+END:VEVENT
+BEGIN:VEVENT
+UID:538e6c64d2df76f2a605804e4297b1bd15d28a1b@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20261004T230000Z
+DTEND:20261005T010000Z
+SUMMARY:Found Footage Festival Vol. 11
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Join us\, brothers and sisters\, for a 90-minute VHS revival ho
+ sted by the Found Footage Trio: Joe Pickett (The Onion) and Nick Prueher (
+ Late Show). Like the lord himself\, these holy messengers emerge from thei
+ r video-strewn cave in Brooklyn to resurrect their latest and greatest fin
+ ds in a joyous analog celebration. You’ll see not one but two bigfoot vi
+ deos. Can I get an amen? You’ll see cowboy butts in tight Wranglers. Tes
+ tify! You’ll see a crafting guru paint a fish’s eyeball to make a pret
+ ty towel. Hallelujah\, these VHS tapes are born again!\nhttps://www.thetri
+ plex.org/movie/found-footage-festival-vol-11\nFrom Pushpin Western Mass: h
+ ttps://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/found-footage-festival-vol-11
+END:VEVENT
+BEGIN:VEVENT
+UID:136da9dd1843167dbd1c6dadf3e021e7107a152a@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20261005T230000Z
+DTEND:20261006T010000Z
+SUMMARY:Dread Beat An Blood
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Sound and Vision\n“The regal dub poet” (Anderson Tepper\, T
+ he New York Times) Linton Kwesi Johnson (LKJ) is a living legend. Born in 
+ 1952 in Chapelton\, a small town in rural Jamaica\, he moved to Britain as
+  a boy in 1963\, joined the British Black Panthers in 1970\, and became th
+ e voice for British African-Caribbean young people\, creating a genre call
+ ed dub poetry: militant passionate verse about the Black liberation strugg
+ le in Britain set to heavy dub.\nhttps://amherstcinema.org/films-and-event
+ s/dread-beat-an-blood\nFrom Pushpin Western Mass: https://pushpin.city/wes
+ ternma/
+URL:https://amherstcinema.org/films-and-events/dread-beat-an-blood
+END:VEVENT
+BEGIN:VEVENT
+UID:63be5cd79866206daaa325f82fba3fc019b06ef5@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20261005T230000Z
+DTEND:20261006T010000Z
+SUMMARY:Powwow People w/filmmaker Sky Hopinka
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Presented as part of our second edition of Indigenous Peoples F
+ ilm Festival\, focusing on films by indigenous filmmakers from the US and 
+ Canada. This edition is co-curated by Images ED Dan Hudson and Images volu
+ nteer Liz Redwing.\nhttps://www.imagescinema.org/movie/powwow-people-wfilm
+ maker-sky-hopinka\nFrom Pushpin Western Mass: https://pushpin.city/western
+ ma/
+URL:https://www.imagescinema.org/movie/powwow-people-wfilmmaker-sky-hopinka
+END:VEVENT
+BEGIN:VEVENT
+UID:3236be58719c08546db5b6ed47635e6f5802867a@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20261006T230000Z
+DTEND:20261007T010000Z
+SUMMARY:Live in the Lounge - Music by Daisy Newkirk
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Join us in the lounge for a set by musician and artist Daisy Ne
+ wkirk. Daisy's music brings sensitivity\, emotion\, and some reverb into f
+ olk-driven melodies with her guitar and voice. This event is free\, so joi
+ n us for an evening of music and cocktails.\nhttps://www.imagescinema.org/
+ movie/live-in-the-lounge---music-by-daisy-newkirk\nFrom Pushpin Western Ma
+ ss: https://pushpin.city/westernma/
+URL:https://www.imagescinema.org/movie/live-in-the-lounge---music-by-daisy-
+ newkirk
+END:VEVENT
+BEGIN:VEVENT
+UID:370c143ac312761278e4548b60c9726918064fa3@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20261006T230000Z
+DTEND:20261007T010000Z
+SUMMARY:Some Like It Hot
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Billy Wilder presented by Nina Kleinberg\nJoin us this fall for
+  three films by Billy Wilder\, featuring introductions by local film exper
+ t Nina Kleinberg.\nhttps://amherstcinema.org/films-and-events/some-like-it
+ -hot\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/some-like-it-hot
+END:VEVENT
+BEGIN:VEVENT
+UID:6be45cc388a56ece16a5bc370e2e6bae89aacda6@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20261007T230000Z
+DTEND:20261008T010000Z
+SUMMARY:Project Hail Mary
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Presented as part of Civic Cinema\, our biennial series on demo
+ cracy and civic engagement. This year's films focus on journalism/freedom 
+ of the press\, as well as stories of collective action. Each screening wil
+ l be paired with a talk with local leaders\, community organizers\, and ac
+ ademics.\nhttps://www.imagescinema.org/movie/project-hail-mary\nFrom Pushp
+ in Western Mass: https://pushpin.city/westernma/
+URL:https://www.imagescinema.org/movie/project-hail-mary
+END:VEVENT
+BEGIN:VEVENT
+UID:ec95989eef9f08229e13166937ef63efe1a34018@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20261008T230000Z
+DTEND:20261009T010000Z
+SUMMARY:My Life Helping Funny People Be Funnier: An Evening with Alan Zweib
+ el
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Original SNL writer Alan Zweibel discusses his creative partner
+ ships with Gilda Radner\, Billy Crystal\, Garry Shandling\, Larry David\, 
+ Martin Short and others followed by a screening of HERE TODAY\, co-written
+  by Zweibel & Crystal starring Crystal. Hosted by former SNL cast member\,
+  Gary Kroeger.\nhttps://www.imagescinema.org/movie/my-life-helping-funny-p
+ eople-be-funnier-an-evening-with-alan-zweibel\nFrom Pushpin Western Mass: 
+ https://pushpin.city/westernma/
+URL:https://www.imagescinema.org/movie/my-life-helping-funny-people-be-funn
+ ier-an-evening-with-alan-zweibel
+END:VEVENT
+BEGIN:VEVENT
+UID:90b7c2dfacc0725b2d36d2c146bd33b624b6638e@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20261008T233000Z
+DTEND:20261009T013000Z
+SUMMARY:Zodiac Killer Project
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Bellwether\nDirector Charlie Shackleton joins us for a post-fil
+ m discussion.\nhttps://amherstcinema.org/films-and-events/zodiac-killer-pr
+ oject\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/zodiac-killer-project
+END:VEVENT
+BEGIN:VEVENT
+UID:b5e358173b3e3cc15295ffdbe211c54359edc142@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20261009T000000Z
+DTEND:20261009T020000Z
+SUMMARY:Karaoke Night
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Sing your heart out on First and Third Thursdays (and some extr
+ as) at the Lounge\, 8 to 10pm\, and as listed. No ticket needed. Bartender
+  is present April 16th - Student Veterans of Williams April 30th - Phil an
+ d Gwen May 7th - John Landoff May 14th - Lea and Sarah\nhttps://www.images
+ cinema.org/movie/karaoke-night\nFrom Pushpin Western Mass: https://pushpin
+ .city/westernma/
+URL:https://www.imagescinema.org/movie/karaoke-night
+END:VEVENT
+BEGIN:VEVENT
+UID:af83c7e572f4b0fd66af05efe70a7db1d0cc1a19@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20261010T013000Z
+DTEND:20261010T033000Z
+SUMMARY:Obsession
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Nightmare on Spring Street presents for October "Three by Gen Z
+ "\, top horror films from 2026 all made by directors under 30.\nhttps://ww
+ w.imagescinema.org/movie/obsession\nFrom Pushpin Western Mass: https://pus
+ hpin.city/westernma/
+URL:https://www.imagescinema.org/movie/obsession
+END:VEVENT
+BEGIN:VEVENT
+UID:00a5ebcc99ea98a5ca386c0382828296cfb14ccd@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20261010T014500Z
+DTEND:20261010T034500Z
+SUMMARY:Twins of Evil
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Late Nights\nBefore BRAM STOKER'S DRACULA and Robert Eggers's N
+ OSFERATU\, there was TWINS OF EVIL.\nhttps://amherstcinema.org/films-and-e
+ vents/twins-evil\nFrom Pushpin Western Mass: https://pushpin.city/westernm
+ a/
+URL:https://amherstcinema.org/films-and-events/twins-evil
+END:VEVENT
+BEGIN:VEVENT
+UID:cc065ec91eac87e28372ab627eec31adebc9e57c@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20261010T150000Z
+DTEND:20261010T170000Z
+SUMMARY:The Whale God (1962)
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Images Cinema presents a new series\, Monster Movie Matinee\, a
+ ll-ages creature features fun for the whole family. This inaugural edition
+  is featuring classic kaiju movies from Japan\, the US\, and the UK in cel
+ ebration of the upcoming GODZILLA MINUS ZERO. Guest curated by Images staf
+ fers Harry & Hugo Seven! Saturday screenings will receive an introduction.
+ \nhttps://www.imagescinema.org/movie/the-whale-god-1962\nFrom Pushpin West
+ ern Mass: https://pushpin.city/westernma/
+URL:https://www.imagescinema.org/movie/the-whale-god-1962
+END:VEVENT
+BEGIN:VEVENT
+UID:1f933f6ffca0289bf366f391ce9f163352410fa8@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20261010T164500Z
+DTEND:20261010T184500Z
+SUMMARY:Encanto Sing-Along
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:$5 Family Films\nPlease note that passes cannot be redeemed for
+  this screening.\nhttps://amherstcinema.org/films-and-events/encanto-sing-
+ along\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/encanto-sing-along
+END:VEVENT
+BEGIN:VEVENT
+UID:868a979aadc8959b5bdc9d44116d814c78518a97@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20261011T013000Z
+DTEND:20261011T033000Z
+SUMMARY:Obsession
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Nightmare on Spring Street presents for October "Three by Gen Z
+ "\, top horror films from 2026 all made by directors under 30.\nhttps://ww
+ w.imagescinema.org/movie/obsession\nFrom Pushpin Western Mass: https://pus
+ hpin.city/westernma/
+URL:https://www.imagescinema.org/movie/obsession
+END:VEVENT
+BEGIN:VEVENT
+UID:510db8f4c53a3e697b4b22c842a984d276b28de4@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20261011T150000Z
+DTEND:20261011T170000Z
+SUMMARY:The Whale God (1962)
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Images Cinema presents a new series\, Monster Movie Matinee\, a
+ ll-ages creature features fun for the whole family. This inaugural edition
+  is featuring classic kaiju movies from Japan\, the US\, and the UK in cel
+ ebration of the upcoming GODZILLA MINUS ZERO. Guest curated by Images staf
+ fers Harry & Hugo Seven! Saturday screenings will receive an introduction.
+ \nhttps://www.imagescinema.org/movie/the-whale-god-1962\nFrom Pushpin West
+ ern Mass: https://pushpin.city/westernma/
+URL:https://www.imagescinema.org/movie/the-whale-god-1962
+END:VEVENT
+BEGIN:VEVENT
+UID:2d215aa765ad9d0059363c6a00697dfb40a5a600@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20261011T173000Z
+DTEND:20261011T193000Z
+SUMMARY:Manhunter: The Final Cut
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Restorations & Rediscoveries\nNew 4K restoration.\nhttps://amhe
+ rstcinema.org/films-and-events/manhunter-final-cut\nFrom Pushpin Western M
+ ass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/manhunter-final-cut
+END:VEVENT
+BEGIN:VEVENT
+UID:5461de3a7e92ec5fab2b8e5b4dc2b4f6e8b2e22a@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20261012T230000Z
+DTEND:20261013T010000Z
+SUMMARY:Meadowlarks
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Presented as part of our second edition of Indigenous Peoples F
+ ilm Festival\, focusing on films by indigenous filmmakers from the US and 
+ Canada. This edition is co-curated by Images ED Dan Hudson and Images volu
+ nteer Liz Redwing.\nhttps://www.imagescinema.org/movie/meadowlarks\nFrom P
+ ushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.imagescinema.org/movie/meadowlarks
+END:VEVENT
+BEGIN:VEVENT
+UID:3cdb15a2e83482216545bde7f317d66de72fe5c9@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20261012T230000Z
+DTEND:20261013T010000Z
+SUMMARY:The History of Concrete
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:John Wilson in person\, followed by a Q&A with Z Behl on Octobe
+ r 12th at 7 pm!\nhttps://www.thetriplex.org/movie/the-history-of-concrete\
+ nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/the-history-of-concrete
+END:VEVENT
+BEGIN:VEVENT
+UID:8b956e0df8bb66812cb2bc6aeb98ed2f10b7555b@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20261013T230000Z
+DTEND:20261014T010000Z
+SUMMARY:Amrum
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:Presented as part of the German-Austrian Film Festival\, organi
+ zed and sponsored by the Williams College German Department.\nhttps://www.
+ imagescinema.org/movie/amrum\nFrom Pushpin Western Mass: https://pushpin.c
+ ity/westernma/
+URL:https://www.imagescinema.org/movie/amrum
+END:VEVENT
+BEGIN:VEVENT
+UID:cb54542f07c1bb8d8c40052f2eb0c2d80d923178@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20261013T230000Z
+DTEND:20261014T010000Z
+SUMMARY:Manhunter: The Final Cut
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Restorations & Rediscoveries\nNew 4K restoration.\nhttps://amhe
+ rstcinema.org/films-and-events/manhunter-final-cut\nFrom Pushpin Western M
+ ass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/manhunter-final-cut
+END:VEVENT
+BEGIN:VEVENT
+UID:0c3f106454ce98e307cc9c4183b0e109030ad65e@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20261014T230000Z
+DTEND:20261015T010000Z
+SUMMARY:Cinema Ephemera: The Human Machine
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Join us for The Human Machine\, the first installment of a new 
+ film series presented by Cinema Ephemera. Rich Remsberg and Shawn Rosenhei
+ m have curated an evening of ephemeral films: vintage classroom instructio
+ n\, industrial animations\, forgotten children’s TV shows\, declassified
+  military training films\, religious movies\, scraps of stock footage\, an
+ d a bunch of weird science stuff.\nhttps://amherstcinema.org/films-and-eve
+ nts/cinema-ephemera-human-machine\nFrom Pushpin Western Mass: https://push
+ pin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/cinema-ephemera-human-machin
+ e
+END:VEVENT
+BEGIN:VEVENT
+UID:8ba6b5270abbd26c064d078771779aef365e1de2@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20261014T230000Z
+DTEND:20261015T010000Z
+SUMMARY:Remember This
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:In a virtuoso solo performance\, Academy Award nominee David St
+ rathairn portrays Jan Karski in this genre-defying true story of a relucta
+ nt World War II hero and Holocaust witness. After surviving the devastatio
+ n of the Blitzkrieg\, Karski swears allegiance to the Polish Underground a
+ nd risks his life to carry the first eyewitness reports of war-torn Poland
+  to the Western world\, and ultimately\, the Oval Office. Escaping a Gesta
+ po prison\, bearing witness to the despair of the Warsaw ghetto and confro
+ nted by the inhumanity of a death camp\, Karski endures unspeakable mental
+  anguish and physical torture to stand tall in the halls of power and spea
+ k the truth.\nhttps://www.imagescinema.org/movie/remember-this\nFrom Pushp
+ in Western Mass: https://pushpin.city/westernma/
+URL:https://www.imagescinema.org/movie/remember-this
+END:VEVENT
+END:VCALENDAR

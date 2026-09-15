@@ -1,0 +1,1146 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Western Mass · Triplex Cinema
+X-WR-CALDESC:What’s coming up at Triplex Cinema\, from Pushpin Western Ma
+ ss.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:96288cd3fd8bed92aca1675cf050f827fda0072e@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260915T201500Z
+DTEND:20260915T221500Z
+SUMMARY:Coyote vs Acme
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 4:15pm\, 7pm\nAfter Acme products fail him one too many 
+ times in his dogged pursuit of the Roadrunner\, Wile E. Coyote decides to 
+ hire a billboard lawyer to sue the Acme Corporation.\nhttps://www.thetripl
+ ex.org/movie/coyote-vs-acme\nFrom Pushpin Western Mass: https://pushpin.ci
+ ty/westernma/
+URL:https://www.thetriplex.org/movie/coyote-vs-acme
+END:VEVENT
+BEGIN:VEVENT
+UID:774f61201b1385afa95bab2d7c3937601b979663@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260915T203000Z
+DTEND:20260915T223000Z
+SUMMARY:Practical Magic 2
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 4:30pm\, 7:30pm\nThe Owens sisters must confront the dar
+ k curse that threatens to unravel their family once and for all.\nhttps://
+ www.thetriplex.org/movie/practical-magic-2\nFrom Pushpin Western Mass: htt
+ ps://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/practical-magic-2
+END:VEVENT
+BEGIN:VEVENT
+UID:33c9d7a0dde598e32e0f7fe58753a365e2e335e7@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260915T204500Z
+DTEND:20260915T224500Z
+SUMMARY:Tony
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 4:45pm\, 8pm\nA 19-year-old Anthony Bourdain travels to 
+ Provincetown and stumbles into the chaotic world of a restaurant kitchen\,
+  setting off a summer that will shape the course of his life.\nhttps://www
+ .thetriplex.org/movie/tony\nFrom Pushpin Western Mass: https://pushpin.cit
+ y/westernma/
+URL:https://www.thetriplex.org/movie/tony
+END:VEVENT
+BEGIN:VEVENT
+UID:79875a1a6be79b793337b2dc925ecb0b796d6c5f@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260915T210000Z
+DTEND:20260915T230000Z
+SUMMARY:Late Fame
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 5pm\, 7:45pm\nQ&A with director Kent Jones after the 7 p
+ m screening on September 11th.\nhttps://www.thetriplex.org/movie/late-fame
+ \nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/late-fame
+END:VEVENT
+BEGIN:VEVENT
+UID:2b2ac36a87368eb11f546e1d3250a72b51814b69@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260916T201500Z
+DTEND:20260916T221500Z
+SUMMARY:Coyote vs Acme
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 4:15pm\, 7pm\nAfter Acme products fail him one too many 
+ times in his dogged pursuit of the Roadrunner\, Wile E. Coyote decides to 
+ hire a billboard lawyer to sue the Acme Corporation.\nhttps://www.thetripl
+ ex.org/movie/coyote-vs-acme\nFrom Pushpin Western Mass: https://pushpin.ci
+ ty/westernma/
+URL:https://www.thetriplex.org/movie/coyote-vs-acme
+END:VEVENT
+BEGIN:VEVENT
+UID:f37d26fa21c802988e712a15eded3fa77698e159@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260916T203000Z
+DTEND:20260916T223000Z
+SUMMARY:Practical Magic 2
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 4:30pm\, 7:30pm\nThe Owens sisters must confront the dar
+ k curse that threatens to unravel their family once and for all.\nhttps://
+ www.thetriplex.org/movie/practical-magic-2\nFrom Pushpin Western Mass: htt
+ ps://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/practical-magic-2
+END:VEVENT
+BEGIN:VEVENT
+UID:e0738a9a91626a30866965a16ee7ea49e52e7c8b@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260916T204500Z
+DTEND:20260916T224500Z
+SUMMARY:Tony
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 4:45pm\, 8pm\nA 19-year-old Anthony Bourdain travels to 
+ Provincetown and stumbles into the chaotic world of a restaurant kitchen\,
+  setting off a summer that will shape the course of his life.\nhttps://www
+ .thetriplex.org/movie/tony\nFrom Pushpin Western Mass: https://pushpin.cit
+ y/westernma/
+URL:https://www.thetriplex.org/movie/tony
+END:VEVENT
+BEGIN:VEVENT
+UID:b5e186292abb6b0385282f1c2d4a5e661b97f6a9@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260916T210000Z
+DTEND:20260916T230000Z
+SUMMARY:Late Fame
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 5pm\, 7:45pm\nQ&A with director Kent Jones after the 7 p
+ m screening on September 11th.\nhttps://www.thetriplex.org/movie/late-fame
+ \nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/late-fame
+END:VEVENT
+BEGIN:VEVENT
+UID:4eca13a256f2d60989af4a5df67108fd554a28af@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260917T171500Z
+DTEND:20260917T191500Z
+SUMMARY:Coyote vs Acme
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 1:15pm\, 4:15pm\, 7pm\nAfter Acme products fail him one 
+ too many times in his dogged pursuit of the Roadrunner\, Wile E. Coyote de
+ cides to hire a billboard lawyer to sue the Acme Corporation.\nhttps://www
+ .thetriplex.org/movie/coyote-vs-acme\nFrom Pushpin Western Mass: https://p
+ ushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/coyote-vs-acme
+END:VEVENT
+BEGIN:VEVENT
+UID:ef7a42ad54053bc68fe650ddfaafc2b40ce24bf3@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260917T173000Z
+DTEND:20260917T193000Z
+SUMMARY:Practical Magic 2
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 1:30pm\, 4:30pm\, 7:30pm\nThe Owens sisters must confron
+ t the dark curse that threatens to unravel their family once and for all.\
+ nhttps://www.thetriplex.org/movie/practical-magic-2\nFrom Pushpin Western 
+ Mass: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/practical-magic-2
+END:VEVENT
+BEGIN:VEVENT
+UID:8d41df478f095ea47d75222bb534d2588db61451@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260917T174500Z
+DTEND:20260917T194500Z
+SUMMARY:Late Fame
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 1:45pm\, 5pm\, 7:45pm\nQ&A with director Kent Jones afte
+ r the 7 pm screening on September 11th.\nhttps://www.thetriplex.org/movie/
+ late-fame\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/late-fame
+END:VEVENT
+BEGIN:VEVENT
+UID:2e9324b01a14f5e062d74031164177ccba935c0d@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260917T180000Z
+DTEND:20260917T200000Z
+SUMMARY:Tony
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 2pm\, 4:45pm\, 8pm\nA 19-year-old Anthony Bourdain trave
+ ls to Provincetown and stumbles into the chaotic world of a restaurant kit
+ chen\, setting off a summer that will shape the course of his life.\nhttps
+ ://www.thetriplex.org/movie/tony\nFrom Pushpin Western Mass: https://pushp
+ in.city/westernma/
+URL:https://www.thetriplex.org/movie/tony
+END:VEVENT
+BEGIN:VEVENT
+UID:d2d2c346f714ea39b03309eff79d85ab441c9a4d@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260918T170000Z
+DTEND:20260918T190000Z
+SUMMARY:Resident Evil
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 1pm\, 3:15pm\, 5:30pm\, 8pm\nBryan\, a medical courier\,
+  unwittingly finds himself in an action-packed\, non-stop race for surviva
+ l as one fateful\, horrifying night collapses around him in chaos.\nhttps:
+ //www.thetriplex.org/movie/resident-evil\nFrom Pushpin Western Mass: https
+ ://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/resident-evil
+END:VEVENT
+BEGIN:VEVENT
+UID:43134d0fd46f4276b9783b561072385cb57ce2c0@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260918T173000Z
+DTEND:20260918T193000Z
+SUMMARY:Practical Magic 2
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 1:30pm\, 4:30pm\, 7:30pm\nThe Owens sisters must confron
+ t the dark curse that threatens to unravel their family once and for all.\
+ nhttps://www.thetriplex.org/movie/practical-magic-2\nFrom Pushpin Western 
+ Mass: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/practical-magic-2
+END:VEVENT
+BEGIN:VEVENT
+UID:72dc73d9f160b6d7317a0ab32f54324309748479@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260918T174500Z
+DTEND:20260918T194500Z
+SUMMARY:The Marching Band
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 1:45pm\, 4:45pm\nA world-famous orchestra conductor disc
+ overs the brother he never knew he had — a school cafeteria worker who p
+ lays trombone in a local marching band. Detecting his brother's exceptiona
+ l musical talent\, he takes it upon himself to rectify the injustice of fa
+ te.\nhttps://www.thetriplex.org/movie/the-marching-band\nFrom Pushpin West
+ ern Mass: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/the-marching-band
+END:VEVENT
+BEGIN:VEVENT
+UID:7f2d7e065e4eaedf273e702c4eb868b4353040f6@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260918T180000Z
+DTEND:20260918T200000Z
+SUMMARY:Late Fame
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 2pm\, 7:45pm\nQ&A with director Kent Jones after the 7 p
+ m screening on September 11th.\nhttps://www.thetriplex.org/movie/late-fame
+ \nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/late-fame
+END:VEVENT
+BEGIN:VEVENT
+UID:5aab39e67f0ae233d3bfda7e79d96761821a2d1b@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260918T210000Z
+DTEND:20260918T230000Z
+SUMMARY:Coyote vs Acme
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:After Acme products fail him one too many times in his dogged p
+ ursuit of the Roadrunner\, Wile E. Coyote decides to hire a billboard lawy
+ er to sue the Acme Corporation.\nhttps://www.thetriplex.org/movie/coyote-v
+ s-acme\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/coyote-vs-acme
+END:VEVENT
+BEGIN:VEVENT
+UID:ef36651c484736b70f2666926fc94d33c5727ef8@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260919T001500Z
+DTEND:20260919T021500Z
+SUMMARY:It Ends
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:A group of recent grads head out on a late night drive for grub
+ \, hoping to enjoy one final hangout before their paths diverge. Instead\,
+  they accidentally turn onto a never-ending\, two-lane hellscape surrounde
+ d by untold horrors and cosmic forces beyond their understanding. Cramped 
+ together inside a Jeep Cherokee and with the miles stretching infinitely a
+ head\, they face a choice: embrace their new existence or fight to escape 
+ it.\nhttps://www.thetriplex.org/movie/it-ends\nFrom Pushpin Western Mass: 
+ https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/it-ends
+END:VEVENT
+BEGIN:VEVENT
+UID:26c133d7b9dd91bf6fa1a2e8cb5d51ebbf73f932@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260919T170000Z
+DTEND:20260919T190000Z
+SUMMARY:Resident Evil
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 1pm\, 3:15pm\, 5:30pm\, 8pm\nBryan\, a medical courier\,
+  unwittingly finds himself in an action-packed\, non-stop race for surviva
+ l as one fateful\, horrifying night collapses around him in chaos.\nhttps:
+ //www.thetriplex.org/movie/resident-evil\nFrom Pushpin Western Mass: https
+ ://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/resident-evil
+END:VEVENT
+BEGIN:VEVENT
+UID:fff8a0656c662411bf423ef769ce294358387cb4@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260919T173000Z
+DTEND:20260919T193000Z
+SUMMARY:Practical Magic 2
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 1:30pm\, 4:30pm\, 7:30pm\nThe Owens sisters must confron
+ t the dark curse that threatens to unravel their family once and for all.\
+ nhttps://www.thetriplex.org/movie/practical-magic-2\nFrom Pushpin Western 
+ Mass: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/practical-magic-2
+END:VEVENT
+BEGIN:VEVENT
+UID:79116101e114d307afbb7a0c946de7740e63f25b@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260919T174500Z
+DTEND:20260919T194500Z
+SUMMARY:Coyote vs Acme
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 1:45pm\, 7:45pm\nAfter Acme products fail him one too ma
+ ny times in his dogged pursuit of the Roadrunner\, Wile E. Coyote decides 
+ to hire a billboard lawyer to sue the Acme Corporation.\nhttps://www.thetr
+ iplex.org/movie/coyote-vs-acme\nFrom Pushpin Western Mass: https://pushpin
+ .city/westernma/
+URL:https://www.thetriplex.org/movie/coyote-vs-acme
+END:VEVENT
+BEGIN:VEVENT
+UID:be7a0c9db8a2a9f838e6a6a085292e9ac27c88de@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260919T174500Z
+DTEND:20260919T194500Z
+SUMMARY:The Marching Band
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 1:45pm\, 5pm\nA world-famous orchestra conductor discove
+ rs the brother he never knew he had — a school cafeteria worker who play
+ s trombone in a local marching band. Detecting his brother's exceptional m
+ usical talent\, he takes it upon himself to rectify the injustice of fate.
+ \nhttps://www.thetriplex.org/movie/the-marching-band\nFrom Pushpin Western
+  Mass: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/the-marching-band
+END:VEVENT
+BEGIN:VEVENT
+UID:b5a1232aad76576c4f4b99be2aec4e05c01f5655@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260919T204500Z
+DTEND:20260919T224500Z
+SUMMARY:Late Fame
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Q&A with director Kent Jones after the 7 pm screening on Septem
+ ber 11th.\nhttps://www.thetriplex.org/movie/late-fame\nFrom Pushpin Wester
+ n Mass: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/late-fame
+END:VEVENT
+BEGIN:VEVENT
+UID:f3af65f76693490da54559f1d42950ef490f75af@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260919T220000Z
+DTEND:20260920T000000Z
+SUMMARY:His Girl Friday: A Fundraiser Event for The Triplex at Barrington H
+ all
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:We’re excited to invite you to our fall fundraiser event\, a 
+ staged reading of the screwball classic His Girl Friday featuring stars of
+  stage and screen — and real life couple! — Jack Davenport (Pirates of
+  the Caribbean\, Smash\, The Morning Show) and Michelle Gomez (Doctor Who\
+ , The Flight Attendant) on September 19th at 6 P.M. at Barrington Hall!\nh
+ ttps://www.thetriplex.org/movie/his-girl-friday-a-fundraiser-event-for-the
+ -triplex\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/his-girl-friday-a-fundraiser-event-for
+ -the-triplex
+END:VEVENT
+BEGIN:VEVENT
+UID:d05d071544aae5169852f35e7ff6f22ee9b5b957@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260920T001500Z
+DTEND:20260920T021500Z
+SUMMARY:It Ends
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:A group of recent grads head out on a late night drive for grub
+ \, hoping to enjoy one final hangout before their paths diverge. Instead\,
+  they accidentally turn onto a never-ending\, two-lane hellscape surrounde
+ d by untold horrors and cosmic forces beyond their understanding. Cramped 
+ together inside a Jeep Cherokee and with the miles stretching infinitely a
+ head\, they face a choice: embrace their new existence or fight to escape 
+ it.\nhttps://www.thetriplex.org/movie/it-ends\nFrom Pushpin Western Mass: 
+ https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/it-ends
+END:VEVENT
+BEGIN:VEVENT
+UID:b798e9c4215334f3a541712cd435e081405ce3e2@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260920T170000Z
+DTEND:20260920T190000Z
+SUMMARY:Resident Evil
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 1pm\, 3:15pm\, 5:30pm\, 8pm\nBryan\, a medical courier\,
+  unwittingly finds himself in an action-packed\, non-stop race for surviva
+ l as one fateful\, horrifying night collapses around him in chaos.\nhttps:
+ //www.thetriplex.org/movie/resident-evil\nFrom Pushpin Western Mass: https
+ ://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/resident-evil
+END:VEVENT
+BEGIN:VEVENT
+UID:1d05aee00de149efe58eef9b85afb830aac279d7@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260920T173000Z
+DTEND:20260920T193000Z
+SUMMARY:Practical Magic 2
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 1:30pm\, 4:30pm\, 7:30pm\nThe Owens sisters must confron
+ t the dark curse that threatens to unravel their family once and for all.\
+ nhttps://www.thetriplex.org/movie/practical-magic-2\nFrom Pushpin Western 
+ Mass: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/practical-magic-2
+END:VEVENT
+BEGIN:VEVENT
+UID:91b439b1c01568e349a7018aaff44a5a8248f06f@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260920T174500Z
+DTEND:20260920T194500Z
+SUMMARY:Late Fame
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 1:45pm\, 7:45pm\nQ&A with director Kent Jones after the 
+ 7 pm screening on September 11th.\nhttps://www.thetriplex.org/movie/late-f
+ ame\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/late-fame
+END:VEVENT
+BEGIN:VEVENT
+UID:e5804d2c6f56dd3113d79f2cb7b87c16f4798775@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260920T180000Z
+DTEND:20260920T200000Z
+SUMMARY:The Marching Band
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 2pm\, 5pm\nA world-famous orchestra conductor discovers 
+ the brother he never knew he had — a school cafeteria worker who plays t
+ rombone in a local marching band. Detecting his brother's exceptional musi
+ cal talent\, he takes it upon himself to rectify the injustice of fate.\nh
+ ttps://www.thetriplex.org/movie/the-marching-band\nFrom Pushpin Western Ma
+ ss: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/the-marching-band
+END:VEVENT
+BEGIN:VEVENT
+UID:d24665d6ce7e87a60d376ea319f78c695295a9ed@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260920T204500Z
+DTEND:20260920T224500Z
+SUMMARY:Coyote vs Acme
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:After Acme products fail him one too many times in his dogged p
+ ursuit of the Roadrunner\, Wile E. Coyote decides to hire a billboard lawy
+ er to sue the Acme Corporation.\nhttps://www.thetriplex.org/movie/coyote-v
+ s-acme\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/coyote-vs-acme
+END:VEVENT
+BEGIN:VEVENT
+UID:b3cd317b389c868e81412b5595680e283c5de110@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260921T001500Z
+DTEND:20260921T021500Z
+SUMMARY:It Ends
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:A group of recent grads head out on a late night drive for grub
+ \, hoping to enjoy one final hangout before their paths diverge. Instead\,
+  they accidentally turn onto a never-ending\, two-lane hellscape surrounde
+ d by untold horrors and cosmic forces beyond their understanding. Cramped 
+ together inside a Jeep Cherokee and with the miles stretching infinitely a
+ head\, they face a choice: embrace their new existence or fight to escape 
+ it.\nhttps://www.thetriplex.org/movie/it-ends\nFrom Pushpin Western Mass: 
+ https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/it-ends
+END:VEVENT
+BEGIN:VEVENT
+UID:e2e34cbd4a296d2cfb6dfd72591fcbe6fa8228d0@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260921T203000Z
+DTEND:20260921T223000Z
+SUMMARY:Practical Magic 2
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 4:30pm\, 7:30pm\nThe Owens sisters must confront the dar
+ k curse that threatens to unravel their family once and for all.\nhttps://
+ www.thetriplex.org/movie/practical-magic-2\nFrom Pushpin Western Mass: htt
+ ps://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/practical-magic-2
+END:VEVENT
+BEGIN:VEVENT
+UID:239a0c2b1db1df9211121eb3e4eea91b120803dd@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260921T204500Z
+DTEND:20260921T224500Z
+SUMMARY:Coyote vs Acme
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:After Acme products fail him one too many times in his dogged p
+ ursuit of the Roadrunner\, Wile E. Coyote decides to hire a billboard lawy
+ er to sue the Acme Corporation.\nhttps://www.thetriplex.org/movie/coyote-v
+ s-acme\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/coyote-vs-acme
+END:VEVENT
+BEGIN:VEVENT
+UID:93c75e33f342b1972a61689a54efe5680696dab8@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260921T211500Z
+DTEND:20260921T231500Z
+SUMMARY:The Marching Band
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:A world-famous orchestra conductor discovers the brother he nev
+ er knew he had — a school cafeteria worker who plays trombone in a local
+  marching band. Detecting his brother's exceptional musical talent\, he ta
+ kes it upon himself to rectify the injustice of fate.\nhttps://www.thetrip
+ lex.org/movie/the-marching-band\nFrom Pushpin Western Mass: https://pushpi
+ n.city/westernma/
+URL:https://www.thetriplex.org/movie/the-marching-band
+END:VEVENT
+BEGIN:VEVENT
+UID:3e963cc9a44bb5fd45e538673d56e73e64f0d127@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260921T213000Z
+DTEND:20260921T233000Z
+SUMMARY:Resident Evil
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 5:30pm\, 8pm\nBryan\, a medical courier\, unwittingly fi
+ nds himself in an action-packed\, non-stop race for survival as one fatefu
+ l\, horrifying night collapses around him in chaos.\nhttps://www.thetriple
+ x.org/movie/resident-evil\nFrom Pushpin Western Mass: https://pushpin.city
+ /westernma/
+URL:https://www.thetriplex.org/movie/resident-evil
+END:VEVENT
+BEGIN:VEVENT
+UID:37943eab3bb6481ecdc81d7879927d369f340897@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260921T234500Z
+DTEND:20260922T014500Z
+SUMMARY:Late Fame
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Q&A with director Kent Jones after the 7 pm screening on Septem
+ ber 11th.\nhttps://www.thetriplex.org/movie/late-fame\nFrom Pushpin Wester
+ n Mass: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/late-fame
+END:VEVENT
+BEGIN:VEVENT
+UID:6afc4c1ef06de1cd40d9ad77d6ef37ca341b9077@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260922T001500Z
+DTEND:20260922T021500Z
+SUMMARY:It Ends
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:A group of recent grads head out on a late night drive for grub
+ \, hoping to enjoy one final hangout before their paths diverge. Instead\,
+  they accidentally turn onto a never-ending\, two-lane hellscape surrounde
+ d by untold horrors and cosmic forces beyond their understanding. Cramped 
+ together inside a Jeep Cherokee and with the miles stretching infinitely a
+ head\, they face a choice: embrace their new existence or fight to escape 
+ it.\nhttps://www.thetriplex.org/movie/it-ends\nFrom Pushpin Western Mass: 
+ https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/it-ends
+END:VEVENT
+BEGIN:VEVENT
+UID:7aff71cf1671f04682aa0853e8ad195c86fdd12f@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260922T203000Z
+DTEND:20260922T223000Z
+SUMMARY:Practical Magic 2
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 4:30pm\, 7:30pm\nThe Owens sisters must confront the dar
+ k curse that threatens to unravel their family once and for all.\nhttps://
+ www.thetriplex.org/movie/practical-magic-2\nFrom Pushpin Western Mass: htt
+ ps://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/practical-magic-2
+END:VEVENT
+BEGIN:VEVENT
+UID:83bf2a6bec02070084b4ac0c22be3abeb0d58365@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260922T204500Z
+DTEND:20260922T224500Z
+SUMMARY:Late Fame
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Q&A with director Kent Jones after the 7 pm screening on Septem
+ ber 11th.\nhttps://www.thetriplex.org/movie/late-fame\nFrom Pushpin Wester
+ n Mass: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/late-fame
+END:VEVENT
+BEGIN:VEVENT
+UID:dc7bf13426dfc1bca4d184d34e888536c480e156@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260922T211500Z
+DTEND:20260922T231500Z
+SUMMARY:The Marching Band
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:A world-famous orchestra conductor discovers the brother he nev
+ er knew he had — a school cafeteria worker who plays trombone in a local
+  marching band. Detecting his brother's exceptional musical talent\, he ta
+ kes it upon himself to rectify the injustice of fate.\nhttps://www.thetrip
+ lex.org/movie/the-marching-band\nFrom Pushpin Western Mass: https://pushpi
+ n.city/westernma/
+URL:https://www.thetriplex.org/movie/the-marching-band
+END:VEVENT
+BEGIN:VEVENT
+UID:0bfe690e00ab0e44cc22350699520103bbe185c1@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260922T213000Z
+DTEND:20260922T233000Z
+SUMMARY:Resident Evil
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 5:30pm\, 8pm\nBryan\, a medical courier\, unwittingly fi
+ nds himself in an action-packed\, non-stop race for survival as one fatefu
+ l\, horrifying night collapses around him in chaos.\nhttps://www.thetriple
+ x.org/movie/resident-evil\nFrom Pushpin Western Mass: https://pushpin.city
+ /westernma/
+URL:https://www.thetriplex.org/movie/resident-evil
+END:VEVENT
+BEGIN:VEVENT
+UID:0c05e10b22ad50ac67044a2d8f64b792871f5035@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260922T234500Z
+DTEND:20260923T014500Z
+SUMMARY:Coyote vs Acme
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:After Acme products fail him one too many times in his dogged p
+ ursuit of the Roadrunner\, Wile E. Coyote decides to hire a billboard lawy
+ er to sue the Acme Corporation.\nhttps://www.thetriplex.org/movie/coyote-v
+ s-acme\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/coyote-vs-acme
+END:VEVENT
+BEGIN:VEVENT
+UID:dfbd6ffb6df218dd95be8df325f2f9758c3f169b@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260923T001500Z
+DTEND:20260923T021500Z
+SUMMARY:It Ends
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:A group of recent grads head out on a late night drive for grub
+ \, hoping to enjoy one final hangout before their paths diverge. Instead\,
+  they accidentally turn onto a never-ending\, two-lane hellscape surrounde
+ d by untold horrors and cosmic forces beyond their understanding. Cramped 
+ together inside a Jeep Cherokee and with the miles stretching infinitely a
+ head\, they face a choice: embrace their new existence or fight to escape 
+ it.\nhttps://www.thetriplex.org/movie/it-ends\nFrom Pushpin Western Mass: 
+ https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/it-ends
+END:VEVENT
+BEGIN:VEVENT
+UID:ddf9503662f54f47c0c7248ee02ec64f73eafdf0@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260923T203000Z
+DTEND:20260923T223000Z
+SUMMARY:Practical Magic 2
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 4:30pm\, 7:30pm\nThe Owens sisters must confront the dar
+ k curse that threatens to unravel their family once and for all.\nhttps://
+ www.thetriplex.org/movie/practical-magic-2\nFrom Pushpin Western Mass: htt
+ ps://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/practical-magic-2
+END:VEVENT
+BEGIN:VEVENT
+UID:7798cdf787a2ab52d2c57acc74b44646c6dfba2a@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260923T204500Z
+DTEND:20260923T224500Z
+SUMMARY:Coyote vs Acme
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:After Acme products fail him one too many times in his dogged p
+ ursuit of the Roadrunner\, Wile E. Coyote decides to hire a billboard lawy
+ er to sue the Acme Corporation.\nhttps://www.thetriplex.org/movie/coyote-v
+ s-acme\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/coyote-vs-acme
+END:VEVENT
+BEGIN:VEVENT
+UID:b1bcbcf6080e4ab28aa0af5e1f8f481462c3b2c8@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260923T211500Z
+DTEND:20260923T231500Z
+SUMMARY:The Marching Band
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:A world-famous orchestra conductor discovers the brother he nev
+ er knew he had — a school cafeteria worker who plays trombone in a local
+  marching band. Detecting his brother's exceptional musical talent\, he ta
+ kes it upon himself to rectify the injustice of fate.\nhttps://www.thetrip
+ lex.org/movie/the-marching-band\nFrom Pushpin Western Mass: https://pushpi
+ n.city/westernma/
+URL:https://www.thetriplex.org/movie/the-marching-band
+END:VEVENT
+BEGIN:VEVENT
+UID:917b9c568d7653ededa73f308fa204adc03d562c@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260923T213000Z
+DTEND:20260923T233000Z
+SUMMARY:Resident Evil
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 5:30pm\, 8pm\nBryan\, a medical courier\, unwittingly fi
+ nds himself in an action-packed\, non-stop race for survival as one fatefu
+ l\, horrifying night collapses around him in chaos.\nhttps://www.thetriple
+ x.org/movie/resident-evil\nFrom Pushpin Western Mass: https://pushpin.city
+ /westernma/
+URL:https://www.thetriplex.org/movie/resident-evil
+END:VEVENT
+BEGIN:VEVENT
+UID:7bbff09af087a3a423635a340300e203ab7c0f91@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260923T234500Z
+DTEND:20260924T014500Z
+SUMMARY:Late Fame
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Q&A with director Kent Jones after the 7 pm screening on Septem
+ ber 11th.\nhttps://www.thetriplex.org/movie/late-fame\nFrom Pushpin Wester
+ n Mass: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/late-fame
+END:VEVENT
+BEGIN:VEVENT
+UID:bd9913e4209a407789703cf760e7bc632ff09dc5@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260924T001500Z
+DTEND:20260924T021500Z
+SUMMARY:It Ends
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:A group of recent grads head out on a late night drive for grub
+ \, hoping to enjoy one final hangout before their paths diverge. Instead\,
+  they accidentally turn onto a never-ending\, two-lane hellscape surrounde
+ d by untold horrors and cosmic forces beyond their understanding. Cramped 
+ together inside a Jeep Cherokee and with the miles stretching infinitely a
+ head\, they face a choice: embrace their new existence or fight to escape 
+ it.\nhttps://www.thetriplex.org/movie/it-ends\nFrom Pushpin Western Mass: 
+ https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/it-ends
+END:VEVENT
+BEGIN:VEVENT
+UID:014d50e475c9d181cac9438449eeb1049204c162@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260924T170000Z
+DTEND:20260924T190000Z
+SUMMARY:Resident Evil
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 1pm\, 3:15pm\, 5:30pm\, 8pm\nBryan\, a medical courier\,
+  unwittingly finds himself in an action-packed\, non-stop race for surviva
+ l as one fateful\, horrifying night collapses around him in chaos.\nhttps:
+ //www.thetriplex.org/movie/resident-evil\nFrom Pushpin Western Mass: https
+ ://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/resident-evil
+END:VEVENT
+BEGIN:VEVENT
+UID:740500195ce9013d408c3bd6b49b9ee1455ebd1d@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260924T173000Z
+DTEND:20260924T193000Z
+SUMMARY:Practical Magic 2
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 1:30pm\, 4:30pm\, 7:30pm\nThe Owens sisters must confron
+ t the dark curse that threatens to unravel their family once and for all.\
+ nhttps://www.thetriplex.org/movie/practical-magic-2\nFrom Pushpin Western 
+ Mass: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/practical-magic-2
+END:VEVENT
+BEGIN:VEVENT
+UID:6c4ee5ad82fa0c5bc7548e6c173cabcb5f04d7ec@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260924T174500Z
+DTEND:20260924T194500Z
+SUMMARY:Coyote vs Acme
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 1:45pm\, 7:45pm\nAfter Acme products fail him one too ma
+ ny times in his dogged pursuit of the Roadrunner\, Wile E. Coyote decides 
+ to hire a billboard lawyer to sue the Acme Corporation.\nhttps://www.thetr
+ iplex.org/movie/coyote-vs-acme\nFrom Pushpin Western Mass: https://pushpin
+ .city/westernma/
+URL:https://www.thetriplex.org/movie/coyote-vs-acme
+END:VEVENT
+BEGIN:VEVENT
+UID:f2cd7c40cd5430bd53823b75e167862737dd905d@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260924T180000Z
+DTEND:20260924T200000Z
+SUMMARY:The Marching Band
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 2pm\, 5pm\nA world-famous orchestra conductor discovers 
+ the brother he never knew he had — a school cafeteria worker who plays t
+ rombone in a local marching band. Detecting his brother's exceptional musi
+ cal talent\, he takes it upon himself to rectify the injustice of fate.\nh
+ ttps://www.thetriplex.org/movie/the-marching-band\nFrom Pushpin Western Ma
+ ss: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/the-marching-band
+END:VEVENT
+BEGIN:VEVENT
+UID:118cd5297069fe748c52f16475055eea6019b22c@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260924T204500Z
+DTEND:20260924T224500Z
+SUMMARY:Late Fame
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Q&A with director Kent Jones after the 7 pm screening on Septem
+ ber 11th.\nhttps://www.thetriplex.org/movie/late-fame\nFrom Pushpin Wester
+ n Mass: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/late-fame
+END:VEVENT
+BEGIN:VEVENT
+UID:8bfd98f801827759eff85233ffac13f3a60b047e@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260925T001500Z
+DTEND:20260925T021500Z
+SUMMARY:It Ends
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:A group of recent grads head out on a late night drive for grub
+ \, hoping to enjoy one final hangout before their paths diverge. Instead\,
+  they accidentally turn onto a never-ending\, two-lane hellscape surrounde
+ d by untold horrors and cosmic forces beyond their understanding. Cramped 
+ together inside a Jeep Cherokee and with the miles stretching infinitely a
+ head\, they face a choice: embrace their new existence or fight to escape 
+ it.\nhttps://www.thetriplex.org/movie/it-ends\nFrom Pushpin Western Mass: 
+ https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/it-ends
+END:VEVENT
+BEGIN:VEVENT
+UID:b3b87368b46df662c9cf2f0f89230bdfbb65546a@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260925T170000Z
+DTEND:20260925T190000Z
+SUMMARY:Resident Evil
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 1pm\, 3:15pm\, 5:30pm\, 7:45pm\nBryan\, a medical courie
+ r\, unwittingly finds himself in an action-packed\, non-stop race for surv
+ ival as one fateful\, horrifying night collapses around him in chaos.\nhtt
+ ps://www.thetriplex.org/movie/resident-evil\nFrom Pushpin Western Mass: ht
+ tps://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/resident-evil
+END:VEVENT
+BEGIN:VEVENT
+UID:924089ad9d57d2b8ea54a50f21fb499a6effaf24@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260925T171500Z
+DTEND:20260925T191500Z
+SUMMARY:Practical Magic 2
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 1:15pm\, 4:15pm\, 7:30pm\nThe Owens sisters must confron
+ t the dark curse that threatens to unravel their family once and for all.\
+ nhttps://www.thetriplex.org/movie/practical-magic-2\nFrom Pushpin Western 
+ Mass: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/practical-magic-2
+END:VEVENT
+BEGIN:VEVENT
+UID:dae160429582a7dcc145e14849c110cb5d013415@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260925T174500Z
+DTEND:20260925T194500Z
+SUMMARY:Forgotten Island
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 1:45pm\, 4:30pm\, 7:15pm\nWhile celebrating their last n
+ ight together\, high school graduates and best friends Jo and Raissa stumb
+ le upon a mysterious portal that transports them to the fantastical island
+  of Nakali. When they discover that the memories of their entire friendshi
+ p are the price for returning home\, Jo and Raissa will race to find a way
+  to leave the island before they forget each other forever.\nhttps://www.t
+ hetriplex.org/movie/forgotten-island\nFrom Pushpin Western Mass: https://p
+ ushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/forgotten-island
+END:VEVENT
+BEGIN:VEVENT
+UID:2f2f5edab5582d92c5a97c0ea2a8509b8918f108@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260926T170000Z
+DTEND:20260926T190000Z
+SUMMARY:Resident Evil
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 1pm\, 3:15pm\, 5:30pm\, 7:45pm\nBryan\, a medical courie
+ r\, unwittingly finds himself in an action-packed\, non-stop race for surv
+ ival as one fateful\, horrifying night collapses around him in chaos.\nhtt
+ ps://www.thetriplex.org/movie/resident-evil\nFrom Pushpin Western Mass: ht
+ tps://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/resident-evil
+END:VEVENT
+BEGIN:VEVENT
+UID:50342e130959593d91654cad631366ddeb2dbe24@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260926T171500Z
+DTEND:20260926T191500Z
+SUMMARY:Practical Magic 2
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 1:15pm\, 4:15pm\, 7:30pm\nThe Owens sisters must confron
+ t the dark curse that threatens to unravel their family once and for all.\
+ nhttps://www.thetriplex.org/movie/practical-magic-2\nFrom Pushpin Western 
+ Mass: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/practical-magic-2
+END:VEVENT
+BEGIN:VEVENT
+UID:d311fee350c09f0b08c1d2ee982254817e495070@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260926T174500Z
+DTEND:20260926T194500Z
+SUMMARY:Forgotten Island
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 1:45pm\, 4:30pm\, 7:15pm\nWhile celebrating their last n
+ ight together\, high school graduates and best friends Jo and Raissa stumb
+ le upon a mysterious portal that transports them to the fantastical island
+  of Nakali. When they discover that the memories of their entire friendshi
+ p are the price for returning home\, Jo and Raissa will race to find a way
+  to leave the island before they forget each other forever.\nhttps://www.t
+ hetriplex.org/movie/forgotten-island\nFrom Pushpin Western Mass: https://p
+ ushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/forgotten-island
+END:VEVENT
+BEGIN:VEVENT
+UID:af7fbc3750a67215560c042da1d4d99de23c7767@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260927T170000Z
+DTEND:20260927T190000Z
+SUMMARY:Resident Evil
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 1pm\, 3:15pm\, 7:45pm\nBryan\, a medical courier\, unwit
+ tingly finds himself in an action-packed\, non-stop race for survival as o
+ ne fateful\, horrifying night collapses around him in chaos.\nhttps://www.
+ thetriplex.org/movie/resident-evil\nFrom Pushpin Western Mass: https://pus
+ hpin.city/westernma/
+URL:https://www.thetriplex.org/movie/resident-evil
+END:VEVENT
+BEGIN:VEVENT
+UID:f0b4b3f557218fc68e3d8a53f6e2a0d3d5768f2d@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260927T171500Z
+DTEND:20260927T191500Z
+SUMMARY:Practical Magic 2
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 1:15pm\, 4:15pm\, 7:30pm\nThe Owens sisters must confron
+ t the dark curse that threatens to unravel their family once and for all.\
+ nhttps://www.thetriplex.org/movie/practical-magic-2\nFrom Pushpin Western 
+ Mass: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/practical-magic-2
+END:VEVENT
+BEGIN:VEVENT
+UID:0d74d6bf3c957d5fa319d895b6ee3eef9fd206bc@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260927T174500Z
+DTEND:20260927T194500Z
+SUMMARY:Forgotten Island
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 1:45pm\, 4:30pm\, 7:15pm\nWhile celebrating their last n
+ ight together\, high school graduates and best friends Jo and Raissa stumb
+ le upon a mysterious portal that transports them to the fantastical island
+  of Nakali. When they discover that the memories of their entire friendshi
+ p are the price for returning home\, Jo and Raissa will race to find a way
+  to leave the island before they forget each other forever.\nhttps://www.t
+ hetriplex.org/movie/forgotten-island\nFrom Pushpin Western Mass: https://p
+ ushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/forgotten-island
+END:VEVENT
+BEGIN:VEVENT
+UID:7dd17584ae29b04a20b3bbb73b8890bfeccca23d@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260927T190000Z
+DTEND:20260927T210000Z
+SUMMARY:Mr Smith Goes to Washington
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:A stoic rebuke to the political corruption of the early 20th ce
+ ntury\, what does Mr Smith Goes to Washington to say about our current pol
+ itical climate?\nhttps://www.thetriplex.org/movie/mr-smith-goes-to-washing
+ ton\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/mr-smith-goes-to-washington
+END:VEVENT
+BEGIN:VEVENT
+UID:4a578e36e2e6bc77178691e0d18bf990452f2e68@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260928T193000Z
+DTEND:20260928T213000Z
+SUMMARY:Resident Evil
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 3:30pm\, 5:45pm\, 8pm\nBryan\, a medical courier\, unwit
+ tingly finds himself in an action-packed\, non-stop race for survival as o
+ ne fateful\, horrifying night collapses around him in chaos.\nhttps://www.
+ thetriplex.org/movie/resident-evil\nFrom Pushpin Western Mass: https://pus
+ hpin.city/westernma/
+URL:https://www.thetriplex.org/movie/resident-evil
+END:VEVENT
+BEGIN:VEVENT
+UID:0aa1d0d82999fb3e74230e0fe61098c1346e69d9@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260928T201500Z
+DTEND:20260928T221500Z
+SUMMARY:Forgotten Island
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 4:15pm\, 7:15pm\nWhile celebrating their last night toge
+ ther\, high school graduates and best friends Jo and Raissa stumble upon a
+  mysterious portal that transports them to the fantastical island of Nakal
+ i. When they discover that the memories of their entire friendship are the
+  price for returning home\, Jo and Raissa will race to find a way to leave
+  the island before they forget each other forever.\nhttps://www.thetriplex
+ .org/movie/forgotten-island\nFrom Pushpin Western Mass: https://pushpin.ci
+ ty/westernma/
+URL:https://www.thetriplex.org/movie/forgotten-island
+END:VEVENT
+BEGIN:VEVENT
+UID:222807f72b44a49ba5182a7d88da51354b3ec67e@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260928T203000Z
+DTEND:20260928T223000Z
+SUMMARY:Practical Magic 2
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 4:30pm\, 7:45pm\nThe Owens sisters must confront the dar
+ k curse that threatens to unravel their family once and for all.\nhttps://
+ www.thetriplex.org/movie/practical-magic-2\nFrom Pushpin Western Mass: htt
+ ps://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/practical-magic-2
+END:VEVENT
+BEGIN:VEVENT
+UID:b084e087a6ba11fa06304e7972ea0ef872535c74@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260929T193000Z
+DTEND:20260929T213000Z
+SUMMARY:Resident Evil
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 3:30pm\, 5:45pm\, 8pm\nBryan\, a medical courier\, unwit
+ tingly finds himself in an action-packed\, non-stop race for survival as o
+ ne fateful\, horrifying night collapses around him in chaos.\nhttps://www.
+ thetriplex.org/movie/resident-evil\nFrom Pushpin Western Mass: https://pus
+ hpin.city/westernma/
+URL:https://www.thetriplex.org/movie/resident-evil
+END:VEVENT
+BEGIN:VEVENT
+UID:b57c32cbb78fe65c2fb4d4b98124389566f7d13e@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260929T201500Z
+DTEND:20260929T221500Z
+SUMMARY:Forgotten Island
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 4:15pm\, 7:15pm\nWhile celebrating their last night toge
+ ther\, high school graduates and best friends Jo and Raissa stumble upon a
+  mysterious portal that transports them to the fantastical island of Nakal
+ i. When they discover that the memories of their entire friendship are the
+  price for returning home\, Jo and Raissa will race to find a way to leave
+  the island before they forget each other forever.\nhttps://www.thetriplex
+ .org/movie/forgotten-island\nFrom Pushpin Western Mass: https://pushpin.ci
+ ty/westernma/
+URL:https://www.thetriplex.org/movie/forgotten-island
+END:VEVENT
+BEGIN:VEVENT
+UID:a8ced87237ffabcd268680e139904fd6a462707b@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260929T203000Z
+DTEND:20260929T223000Z
+SUMMARY:Practical Magic 2
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 4:30pm\, 7:45pm\nThe Owens sisters must confront the dar
+ k curse that threatens to unravel their family once and for all.\nhttps://
+ www.thetriplex.org/movie/practical-magic-2\nFrom Pushpin Western Mass: htt
+ ps://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/practical-magic-2
+END:VEVENT
+BEGIN:VEVENT
+UID:76163c41f2092a38b5dba44df5c8e5437a99feb2@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260930T193000Z
+DTEND:20260930T213000Z
+SUMMARY:Resident Evil
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 3:30pm\, 5:45pm\, 8pm\nBryan\, a medical courier\, unwit
+ tingly finds himself in an action-packed\, non-stop race for survival as o
+ ne fateful\, horrifying night collapses around him in chaos.\nhttps://www.
+ thetriplex.org/movie/resident-evil\nFrom Pushpin Western Mass: https://pus
+ hpin.city/westernma/
+URL:https://www.thetriplex.org/movie/resident-evil
+END:VEVENT
+BEGIN:VEVENT
+UID:d84641286277dd08e244d004528c3ff7d280ccd7@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260930T201500Z
+DTEND:20260930T221500Z
+SUMMARY:Forgotten Island
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 4:15pm\, 7:15pm\nWhile celebrating their last night toge
+ ther\, high school graduates and best friends Jo and Raissa stumble upon a
+  mysterious portal that transports them to the fantastical island of Nakal
+ i. When they discover that the memories of their entire friendship are the
+  price for returning home\, Jo and Raissa will race to find a way to leave
+  the island before they forget each other forever.\nhttps://www.thetriplex
+ .org/movie/forgotten-island\nFrom Pushpin Western Mass: https://pushpin.ci
+ ty/westernma/
+URL:https://www.thetriplex.org/movie/forgotten-island
+END:VEVENT
+BEGIN:VEVENT
+UID:9275af9acd97908065a662aa52940ffa9ccd5811@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20260930T203000Z
+DTEND:20260930T223000Z
+SUMMARY:Practical Magic 2
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 4:30pm\, 7:45pm\nThe Owens sisters must confront the dar
+ k curse that threatens to unravel their family once and for all.\nhttps://
+ www.thetriplex.org/movie/practical-magic-2\nFrom Pushpin Western Mass: htt
+ ps://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/practical-magic-2
+END:VEVENT
+BEGIN:VEVENT
+UID:a310df7048d9feedf989e49dd77f3fd6d33f1110@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20261001T170000Z
+DTEND:20261001T190000Z
+SUMMARY:Resident Evil
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 1pm\, 3:15pm\, 5:30pm\, 7:45pm\nBryan\, a medical courie
+ r\, unwittingly finds himself in an action-packed\, non-stop race for surv
+ ival as one fateful\, horrifying night collapses around him in chaos.\nhtt
+ ps://www.thetriplex.org/movie/resident-evil\nFrom Pushpin Western Mass: ht
+ tps://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/resident-evil
+END:VEVENT
+BEGIN:VEVENT
+UID:acd5a215fb0bcf8597f15d59f6e60be578835ed3@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20261001T171500Z
+DTEND:20261001T191500Z
+SUMMARY:Practical Magic 2
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 1:15pm\, 4:15pm\, 7:30pm\nThe Owens sisters must confron
+ t the dark curse that threatens to unravel their family once and for all.\
+ nhttps://www.thetriplex.org/movie/practical-magic-2\nFrom Pushpin Western 
+ Mass: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/practical-magic-2
+END:VEVENT
+BEGIN:VEVENT
+UID:9dc872829b662d9e8ab9e1f88a58f3c822f5936d@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20261001T174500Z
+DTEND:20261001T194500Z
+SUMMARY:Forgotten Island
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Times: 1:45pm\, 4:30pm\, 7:15pm\nWhile celebrating their last n
+ ight together\, high school graduates and best friends Jo and Raissa stumb
+ le upon a mysterious portal that transports them to the fantastical island
+  of Nakali. When they discover that the memories of their entire friendshi
+ p are the price for returning home\, Jo and Raissa will race to find a way
+  to leave the island before they forget each other forever.\nhttps://www.t
+ hetriplex.org/movie/forgotten-island\nFrom Pushpin Western Mass: https://p
+ ushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/forgotten-island
+END:VEVENT
+BEGIN:VEVENT
+UID:7a586d088c4cc26e23b10c29dabfaef3a23fb84b@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20261003T230000Z
+DTEND:20261004T010000Z
+SUMMARY:The Incomer
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:On an Orkney isle\, siblings Isla and Sandy survive by hunting 
+ seabirds\, retelling the stories of their ancestors\, and defending the is
+ le from dreaded "Incomers". Their world is upended with the arrival of an 
+ awkward council worker who has come to uproot them from their homeland.\nh
+ ttps://www.thetriplex.org/movie/the-incomer\nFrom Pushpin Western Mass: ht
+ tps://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/the-incomer
+END:VEVENT
+BEGIN:VEVENT
+UID:538e6c64d2df76f2a605804e4297b1bd15d28a1b@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20261004T230000Z
+DTEND:20261005T010000Z
+SUMMARY:Found Footage Festival Vol. 11
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:Join us\, brothers and sisters\, for a 90-minute VHS revival ho
+ sted by the Found Footage Trio: Joe Pickett (The Onion) and Nick Prueher (
+ Late Show). Like the lord himself\, these holy messengers emerge from thei
+ r video-strewn cave in Brooklyn to resurrect their latest and greatest fin
+ ds in a joyous analog celebration. You’ll see not one but two bigfoot vi
+ deos. Can I get an amen? You’ll see cowboy butts in tight Wranglers. Tes
+ tify! You’ll see a crafting guru paint a fish’s eyeball to make a pret
+ ty towel. Hallelujah\, these VHS tapes are born again!\nhttps://www.thetri
+ plex.org/movie/found-footage-festival-vol-11\nFrom Pushpin Western Mass: h
+ ttps://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/found-footage-festival-vol-11
+END:VEVENT
+BEGIN:VEVENT
+UID:3cdb15a2e83482216545bde7f317d66de72fe5c9@pushpin.city
+DTSTAMP:20260915T220442Z
+DTSTART:20261012T230000Z
+DTEND:20261013T010000Z
+SUMMARY:The History of Concrete
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:John Wilson in person\, followed by a Q&A with Z Behl on Octobe
+ r 12th at 7 pm!\nhttps://www.thetriplex.org/movie/the-history-of-concrete\
+ nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.thetriplex.org/movie/the-history-of-concrete
+END:VEVENT
+END:VCALENDAR
